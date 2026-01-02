@@ -1,0 +1,679 @@
+.chosen-container .chosen-drop {position: absolute;top: 100%;left: -9999px;z-index: 1010;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box;width: 100%;border: 1px solid #aaa;border-top: 0;background: #fff;box-shadow: 0 4px 5px rgba(0, 0, 0, 0.15);}
+.chosen-container-single .chosen-single div {left: 20px;right: unset !important;}
+.chosen-container-single .chosen-single span {margin-right: unset!important;margin-left: 26px;}
+div#jsjobs-main-wrapper div.jsjobs-job-info div.jsjobs-data-jobs-wrapper span.jsjobs-location-wrap {padding-left: 30px;padding-right: 0;}
+div#jsjobs-main-wrapper div.jsjobs-package-data div.jsjobs-package-listing-wrapper div.jsjobs-apply-button span.jsjobs-buy-btn a img {padding-left: 11px;}
+div#jsjobs-main-wrapper div.jsjobs-package-data div.jsjobs-package-buy-now-listing-wrapper div.jsjobs-apply-button span.jsjobs-buy-btn a img{padding-left:11px;padding-right: 0px;}
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-graph-wrap div.js-graph-right div.jsjobs-graph-wrp span.jsjobs-graph-title span.jsjobs-title{padding-right:5px;}
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-graph-wrap div.js-graph-left div.jsjobs-graph-wrp span.jsjobs-graph-title span.jsjobs-title{padding-right:5px;}
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-jobs-resume-panel div.js-cp-applied-resume div.js-cp-wrap-resume-jobs div.js-cp-resume-wrap div.js-cp-applied-resume div.js-cp-image-area{float:right;}
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-jobs-resume-panel div.js-cp-applied-resume div.js-cp-wrap-resume-jobs div.js-cp-resume-wrap div.js-cp-applied-resume div.js-cp-content-area div.js-cp-company-title a{float:right;display:inline-block;margin-left:5px;}
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-jobs-resume-panel div.js-cp-applied-resume div.js-cp-wrap-resume-jobs div.js-cp-resume-wrap div.js-cp-applied-resume div.js-cp-company-email-address span.jsjobs-title{float:right;}
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-jobs-resume-panel div.js-cp-applied-resume div.js-cp-wrap-resume-jobs div.js-cp-resume-wrap div.js-cp-applied-resume div.js-cp-company-email-address span.jsjobs-value{float:right;}
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-jobs-resume-panel div.js-cp-applied-resume div.js-cp-wrap-resume-jobs div.js-cp-resume-wrap div.js-cp-applied-resume div.js-cp-company-category span.jsjobs-title,
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-jobs-resume-panel div.js-cp-applied-resume div.js-cp-wrap-resume-jobs div.js-cp-resume-wrap div.js-cp-applied-resume div.js-cp-company-category span.jsjobs-value{float:right;}
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-toprow div.js-menu-wrap{float:right;}
+div#jsjobs-main-wrapper span.jsjobs-main-page-title span {float: left;padding-left: 10px;padding-right: 0!important;}
+div#jsjobs-main-wrapper span.jsjobs-main-page-title span img{float: left;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-wrapper-mycompanies div.jsjobs-main-companieslist div.jsjobs-main-wrap-imag-data div.com-logo a.img{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-wrapper-mycompanies div.jsjobs-main-companieslist div.jsjobs-main-wrap-imag-data div.jsjobs-data-area div.jsjobs-data-1 span.jsjobs-posted{float:left;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-wrapper-mycompanies div.jsjobs-main-companieslist div.jsjobs-main-wrap-imag-data div.jsjobs-data-area div.jsjobs-data-1 span.jsjobs-title{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-wrapper-mycompanies div.jsjobs-main-companieslist div.jsjobs-main-wrap-imag-data div.jsjobs-data-area div.jsjobs-data-1 span.jsjobs-gold-featured{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-wrapper-mycompanies div.jsjobs-main-companieslist div.jsjobs-main-wrap-imag-data div.jsjobs-data-area div.jsjobs-data-2 div.jsjobs-data-2-wrapper{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-wrapper-mycompanies div.jsjobs-main-companieslist-btn div.jsjobs-data-3{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-wrapper-mycompanies div.jsjobs-main-companieslist-btn div.jsjobs-data-4{text-align:left;float: left;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-wrapper-mycompanies div.jsjobs-main-companieslist-btn div.jsjobs-data-4 a.company-icon {margin-left: 0px;margin-right: 5px;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-wrapper-mycompanies div.jsjobs-main-companieslist-btn div.jsjobs-data-4 a.company-icon-gold {margin-left: 0px;margin-right: 5px;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-wrapper-mycompanies div.jsjobs-main-companieslist-btn div.jsjobs-data-4 a.company-icon-featured {margin-left: 0px;margin-right: 5px;}
+div#jsjobs-main-wrapper div.jsjobs-company-name div.jsjobs-company-logo {float: right;}
+div#jsjobs-main-wrapper div.jsjobs-company-name div.jsjobs-data-wrapper-email-location {float: right;padding-left: 0px;padding-right: 20px;}
+div#js-jobs-wrapper div.js-toprow div.js-data div.js-second-row {padding-left: 0px;padding-right: 10px;}
+div#js-jobs-wrapper div.js-toprow div.js-data div.js-first-row span.js-jobsalary {text-align: left;right: auto;left: 0px;}
+div#jsjobs-wrapper div.totaljobsheading {float: left;}
+div#jsjobs-main-wrapper div.jsjobs-job-info div.js_job_company_logo {float: right;}
+div#jsjobs-main-wrapper div.jsjobs-job-info span.jsjobs-title {float: right;padding-left: 0px;padding-right: 17px;}
+div#jsjobs-main-wrapper div.jsjobs-job-info span.jsjobs-title span.jsjobs-featured-tag{margin-left: 0px;margin-right: 5px;float: right;}
+div#jsjobs-main-wrapper div.jsjobs-job-info div.jsjobs-data-jobs-wrapper {float: right;text-align: right;padding-left: 0px;padding-right: 17px;}
+div#jsjobs-main-wrapper div.jsjobs-job-info div.jsjobs-right-raea {right: auto;left: 17px;text-align: left;float: left;}
+div#jsjobs-main-wrapper div.jsjobs-job-data div.jsjobs-menubar-wrap ul li {float: right;margin-right: 0px;margin-left: 8px;}
+div#jsjobs-main-wrapper div.jsjobs-job-information-data div.jsjobs-left-area div.jsjobs-jobs-overview-area div.js_job_data_wrapper {float: right;}
+div#jsjobs-main-wrapper div.jsjobs-job-info span.jsjobs-title span.jsjobs-gold-tag {margin-left: 0px;margin-right: 5px;float: right;}
+div#jsjobs-main-wrapper div.jsjobs-job-info div.jsjobs-company-name-wrp {float: right;text-align: right;padding-left: 0px;padding-right: 17px;}
+div#jsjobs-main-wrapper div.jsjobs-company-name div.jsjobs-data-wrapper-email-location span.jsjob-data-value-email {float: right;text-align: left;}
+div#jsjobs-main-wrapper div.jsjobs-company-name span.jsjobs-company-title {float: right;text-align: right;padding-left: 0px;padding-right: 20px;}
+div#jsjobs-main-wrapper div.jsjobs-company-name div.jsjobs-company-bottom-wrp {float: right;text-align: right;padding-left: 0px;padding-right: 20px;}
+div#jsjobs-main-wrapper div.jsjobs-company-name span.jsjobs-location-comapny {float: right;text-align: right;padding-right: 0px;padding-left: 30px;}
+div#jsjobs-main-wrapper div.jsjobs-company-name span.jsjobs-location-comapny span.jsjob-data-title {float: right;}
+div#jsjobs-main-wrapper div.jsjobs-company-applied-data div.jsjobs-comoany-data div.js_job_data_wrapper {float: right;}
+div#jsjobs-main-wrapper div.jsjobs-company-name div.jsjobs-data-wrapper-email-location span.jsjob-data-value-email span.jsjobs-gold {float: right;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-wrapper-mycompanies div.jsjobs-main-companieslist-btn div.jsjobs-data-4 a.company-icon-gold img{float:left;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-wrapper-mycompanies div.jsjobs-main-companieslist-btn div.jsjobs-data-4 a.company-icon-featured img{float:left;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-myjobslist span.jsjobs-image-area a.jsjobs-image-area-achor{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-myjobslist div.jsjobs-data-1 div.jsjobs-data-1-title a#jsjobs-a-job-tile span.job-title{float:right;padding-left:5px;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-myjobslist div.jsjobs-data-1 div.jsjobs-data-1-title{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-myjobslist div.jsjobs-data-1 div.jsjobs-data-1-right{text-align:left;right: auto;left: 0;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-myjobslist div.jsjobs-data-1 div.jsjobs-data-3-wrapper {float: right;text-align: left;}
+
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-myjobslist div.jsjobs-data-area {float: right;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-myjobslist div.jsjobs-data-area div.jsjobs-data-2 div.jsjobs-data-2-wrapper{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-myjobslist div.jsjobs-data-area div.jsjobs-data-2 div.jsjobs-data-3-wrapper{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-myjobslist div.jsjobs-data-area div.jsjobs-data-2 div.jsjobs-data-4-wrapper{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-myjobslist div.jsjobs-data-area div.jsjobs-data-2 div span.js_job_data_2_title{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-myjobslist div.jsjobs-data-area div.jsjobs-data-3-myjob-no{text-align: left;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-myjobslist-btn div.jsjobs-data-myjob-left-area{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-myjobslist div.jsjobs-data-1 div.jsjobs-data-1-title span.featured{margin-right:5px;margin-left:0px;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-myjobslist-btn div.jsjobs-data-myjob-right-area{float:right;text-align: left;}
+/*div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-myjobslist-btn div.jsjobs-data-myjob-right-area a{float:left;text-align: left;}*/
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-myjobslist-btn div.jsjobs-data-myjob-right-area a img{float:left;}
+div#jsjobs-main-wrapper div.jsjobs-job-information-data div.jsjobs-left-area{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-company-applied-data div.jsjobs-company-logo{float: right;}
+div#jsjobs-main-wrapper div.jsjobs-company-applied-data div.jsjobs-comoany-data div.js_job_data_wrapper span.js_job_data_title{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-wrapper-mycompanies div.jsjobs-main-companieslist div.jsjobs-main-wrap-imag-data div.com-logo {float: right;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-wrapper-mycompanies div.jsjobs-main-companieslist div.jsjobs-main-wrap-imag-data div.jsjobs-data-area {float: right;padding-left: 0px;padding-right: 10px;}
+div#js_main_wrapper div#sortbylinks span.job_applied_resume_sbl_links {float: right;}
+/*dashboard*/
+div#jsjobs-main-wrapper div.jsjobs-emp-left-menu {float: right;}
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper {padding-left: 0px;padding-right: 20px;float: right;}
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-toprow-employer div.js-menu-wrap-employer div.box-footer span.box-footer-left{float: right;}
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-toprow-employer div.js-menu-wrap-employer div.box-footer span.box-footer-right {float: left;}
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-toprow-employer div.js-menu-wrap-employer div.box-footer span.box-footer-right img{transform: scaleX(-1);}
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-toprow-employer div.js-menu-wrap-employer{float: right;margin: 0 0px 25px 10px;}
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-jobs-resume-panel div.js-cp-applied-resume div.js-cp-wrap-resume-jobs div.js-cp-resume-wrap div.js-cp-applied-resume div.js-cp-content-area {width: calc(100% - 100px);padding-left: 0px;padding-right: 15px;}
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-jobs-resume-panel div.js-cp-applied-resume div.js-cp-wrap-resume-jobs div.js-cp-resume-wrap div.js-cp-applied-resume div.js-cp-content-area div.js-cp-company-title a {margin-left: 0px;margin-right: 5px;}
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-jobs-resume-panel div.js-cp-applied-resume div.js-cp-wrap-resume-jobs div.js-cp-resume-wrap div.js-cp-applied-resume div.js-cp-company-email-address {float: right;margin-right: 0px;margin-left: 25px;}
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-jobs-resume-panel div.js-cp-applied-resume div.js-cp-wrap-resume-jobs div.js-cp-resume-wrap div.js-cp-applied-resume div.js-cp-company-category {float: right;}
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-jobs-resume-panel div.js-cp-applied-resume div.js-cp-wrap-resume-jobs a.js-cp-applied-resume-show-more2-wrp span.js-cp-applied-resume-show-more2 {float: right;margin: 0px 15px 15px 0px;}
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-jobs-resume-panel div.js-cp-applied-resume div.js-cp-wrap-resume-jobs a.js-cp-applied-resume-show-more1-wrp span.js-cp-applied-resume-show-more1 {float: right;margin: 0px 15px 15px 0;}
+div#jsjobs-main-wrapper div.jsjobs-listing-wrapper div.jsjobs-coverletter-button-area span.jsjsobs-resumes-btn {text-align: left;}
+div#jsjobs_jobs_pagination_wrapper div.jsjobs-lbox select#limit {background-position: calc(100% - 85%) !important;}
+
+div#jsjobs-main-wrapper div.jsjobs-job-information-data div.jsjobs-right-raea div.js_job_share_pannel_fb div.fb-like{width:100%;}
+div#jsjobs-main-wrapper div.jsjobs-job-info div.jsjobs-data-jobs-wrapper span.jsjobs-location-wrap img{float:left;}
+div#js_jobs_main_popup_area div#js_jobs_main_popup_head img#jspopup_image_close{float:left;}
+div.js_job_error_messages_wrapper div.js_job_messages_image_wrapper{float:right;}
+div#jsjob-search-popup span.popup-title img#popup_cross{float: left;}
+div#refineSearch img{float: left;}
+div#jsjobs-main-wrapper div.jsjobs-job-information-data div.jsjobs-right-raea div.js_job_company_logo div.jsjobs-company-logo-wrap 
+div#js_jobs_main_popup_area div#js_jobs_main_popup_head {padding: 3px 15px 3px 5px;}
+div#jsjobs-cat-block a#jsjobs-cat-block-a span.jsjobs-cat-counter{float:left;}
+div#for_subcat a#jsjobs-subcat-block-a span.jsjobs-cat-title{float:right;}
+div#for_subcat a#jsjobs-subcat-block-a span.jsjobs-cat-counter{float:left;}
+div#jsjobs_subcatpopups img#popup_cross{float:left;}
+div#jsjobs_subcatpopups a#jsjobs-subcat-popup-a span.jsjobs-cat-title{float:right;}
+div#jsjobs_subcatpopups a#jsjobs-subcat-popup-a span.jsjobs-cat-counter{float:left;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.fieldwrapper div.fieldvalue-check span.jsjobs-checkbox-gender span.jsjobs-check-box{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.fieldwrapper div.fieldvalue-check span.jsjobs-checkbox-location span.jsjobs-checkbox span.jsjobs-check-box{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.fieldwrapper div.fieldvalue-check span.jsjobs-checkbox-eduction span.jsjobs-checkbox span.jsjobs-check-box{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.fieldwrapper div.fieldvalue-check span.jsjobs-checkbox-category span.jsjobs-checkbox span.jsjobs-check-box{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.fieldwrapper div.fieldvalue-check span.jsjobs-checkbox-subcategory span.jsjobs-checkbox span.jsjobs-check-box{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.fieldwrapper div.fieldvalue-check span.jsjobs-checkbox-gender {float:right;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.fieldwrapper div.fieldvalue-check span.jsjobs-checkbox-location {float:right;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.fieldwrapper div.fieldvalue-check span.jsjobs-checkbox-eduction {float:right;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.fieldwrapper div.fieldvalue-check span.jsjobs-checkbox-category {float:right;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.fieldwrapper div.fieldvalue-check span.jsjobs-checkbox-subcategory {float:right;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.fieldwrapper div.fieldvalue-radio-button div#resumeapplyfilter span.jsjobs-radio-email-me span.jsjobs-radio-btn {float: right;padding: 5px 4px 7px 0px;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.fieldwrapper div.fieldvalue-radio-button div#resumeapplyfilter span.jsjobs-radio-email-me span.jsjobs-radio-title {float: right;padding: 9px 6px 7px 0px;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.fieldwrapper div.fieldvalue input[type="checkbox"]{width:auto;}
+div#jsjobs-main-wrapper span.jsjobs-main-page-title span.jsjobs-title-componet{float:right;}div#jsjobs-main-wrapper span.jsjobs-main-page-title span.jsjobs-add-resume-btn{float:left;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfon div.jsjobs-listfolders div.jsjobs-status-button span.jsjobs-message-btn{float:right;text-align:left;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfon div.jsjobs-listfolders div.jsjobs-status-button span.jsjobs-message-created{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfon div.jsjobs-listfolders div.jsjobs-message-title {float: right;}
+div#jsjobs-main-wrapper div.jsjobs-description-area span.js_jobs_description_section_title{float:right;}
+div#js_main_wrapper div.js_job_main_wrapper div.js_job_image_area{float:right;}
+div#js_main_wrapper div.js_job_main_wrapper div.js_job_data_area div.js_job_data_3.myresume_folder div.title{float:right;}
+div#js_main_wrapper div.js_job_main_wrapper div.js_job_data_area div.js_job_data_2.myresume div.js_job_data_2_wrapper{float:right;}
+div#js_main_wrapper div.js_job_main_wrapper div.js_job_data_area div.js_job_data_2.myresume div.js_job_data_2_wrapper span.heading{float:right;}
+div#js_main_wrapper div.js_job_main_wrapper div.bottom div.btn-view{float:left;text-align:left;}
+div#js_main_wrapper div.js_job_main_wrapper div.bottom span.location img {float:right;}
+li.jsjobs-input-input-token-jsjobs{float:right !important;}
+div#jsjobs-main-wrapper div.jsjobs-purchasehistory-main span.jsjobs-title-wrap span.jsjobs-title-wrap-purchase{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-purchasehistory-main span.jsjobs-title-wrap span.jsjobs-date-wrap{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-purchasehistory-main span.jsjobs-title-wrap span.jsjobs-price-wrap {float: left;padding: 0px 0px 0px 10px;}
+div#jsjobs-main-wrapper div.jsjobs-purchasehistory-main div.jsjobs-purchase-listing-wrapper div.jsjobs-listing-datawrap-details div.jsjobs-listing-wrap{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-package-data div.jsjobs-package-listing-wrapper div.jsjobs-listing-datawrap{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-mydepartmentlist div.jsjob-main-department div.jsjobs-main-department-left span.jsjobs-coverletter-title span.jsjobs-coverletter-created {float: right;text-align: left;left: 0;right: auto;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-mydepartmentlist div.jsjob-main-department div.jsjobs-main-department-right {float: right;}
+
+div#jsjobs-main-wrapper div.jsjobs-package-data div.jsjobs-package-listing-wrapper div.jsjobs-package-data-detail span.jsjobs-package-values span.stats_data_title{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-package-data span.jsjobs-package-title span.jsjobs-package-name{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-package-data div.jsjobs-package-listing-wrapper div.jsjobs-listing-datawrap-details div.jsjobs-descriptions div.jsjob-description-data span.stats_data_title{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-package-data div.jsjobs-package-listing-wrapper div.jsjobs-listing-datawrap-details div.jsjobs-descriptions div.jsjob-description-data span.stats_data_value{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-listing-stats-wrapper div.jsjobs-icon-wrap{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-mydepartmentlist div.jsjob-main-department div.jsjobs-main-department-left{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-mydepartmentlist div.jsjob-main-department div.jsjobs-main-department-left span.jsjobs-category-status span.jsjobs-listing-title-child span.jsjobs-title-status{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-mydepartmentlist div.jsjob-main-department div.jsjobs-main-department-left span.jsjobs-coverletter-title span.jsjobs-title-name{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-mydepartmentlist div.jsjob-main-department div.jsjobs-main-department-left span.jsjobs-category-status span.jsjobs-listing-title-child{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-mydepartmentlist div.jsjob-main-department div.jsjobs-main-department-right div.jsjobs-coverletter-button-area {float: right;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-mydepartmentlist div.jsjob-main-department div.jsjobs-main-department-right div.jsjobs-coverletter-button-area a {margin-left: 0px;margin-right: 7px;float: left;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-mydepartmentlist div.jsjob-main-department div.jsjobs-main-department-left span.jsjobs-category-status span.jsjobs-listing-title-child span.dept-status {right: 50%;left: auto;}
+div#jsjob-search-popup div.js-searchform-value input.inputbox, select.inputbox {background-position: calc(100% - 97%) !important;float: right;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-myjobslist-btn div.jsjobs-data-myjob-right-area a span.jsjobs-gold {padding: 1px 5px 2px 0px;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-myjobslist-btn div.jsjobs-data-myjob-right-area a span.jsjobs-featured {padding: 1px 5px 2px 0px;}
+div#js_main_wrapper div#jsjobs_appliedapplication_tab_container a{float:right;}
+div#js_main_wrapper div#jsjobs_appliedapplication_tab_container div#jsjobs_appliedresume_action_allexport {float: left;}
+div.js-jobs-jobs-applie div.js_job_data_area div.js_job_data_1 span.js_job_title{float:right;}
+div#js_main_wrapper div.js-jobs-jobs-applie div.js_job_image_area{float:right;padding-right: 20px;padding-left: 0;}
+div#js_main_wrapper div.js-jobs-jobs-applie div.js_job_data_area {float: right;padding: 17px 20px 0 7px;}
+div#js_main_wrapper div.js-jobs-jobs-applie div.js_job_data_area div.js_job_data_2 div.jsjobsapp_wrapper span.jsjobs-apptitle{float:right;}
+div#js_main_wrapper div.js-jobs-jobs-applie div.js_job_data_area div.js_job_data_2 div.jsjobsapp_wrapper{float:right;}
+div.js-jobs-jobs-applie div.js_job_data_area div.js_job_data_1 .js_job_posted div#jsjsjobs_stars{text-align: right;float:left !important;}
+div#js_main_wrapper div.js-jobs-jobs-applie div.js_job_data_area div.js_job_data_1 span.js_job_posted{text-align:left;float: right;}
+div#js_main_wrapper div.js-jobs-jobs-applie div.js_job_data_area div.js_job_data_1 span.js_job_posted span.js_jobapply_title {right: auto;left: 100px;}
+div#js_main_wrapper div.js-jobs-jobs-applie div.js_job_data_area div.js_job_data_1 span.js_job_posted span.js_jobapply_value {right: auto;left: 25px;}
+div.js-jobs-jobs-applie div.js_job_data_area div.js_job_data_1 .js_job_posted div#jsjsjobs_stars {right: auto;left: 25px;}
+div.js-jobs-jobs-applie div.js_job_data_area div.js_job_data_2 {float: right;}
+div#resumeactioncomments, div#resumeactionfolder div#jsjobs_applied_apps div.jsjobs-app-title {margin-right: 0px;margin-left: 10px;float: right;}
+div#resumeactioncomments, div#resumeactionfolder div#jsjobs_applied_apps div.jsjobs-app-data {float: right;}
+div#resumeactioncomments, div#resumeactionfolder div#jsjobs_applied_apps div.jsjobs-app-action {float: right;margin-left: 0;margin-right: 5px;}
+div#jsjobs-main-wrapper div.jsjobs-message-send-list div.jsjobs-main-message-wrap div.jsjobs-company-data div.jsjobs-data-wrapper span.jsjobs-main-company {float: right;margin-right: 0px;margin-left: 30px;}
+div#jsjobs-main-wrapper div.jsjobs-message-send-list div.jsjobs-main-message-wrap div.jsjobs-company-data div.jsjobs-data-wrapper span.jsjobs-main-company span.jsjobs-data-title {float: right;}
+div#jsjobs-main-wrapper div.jsjobs-message-send-list div.jsjobs-main-message-wrap div.jsjobs-company-data div.jsjobs-data-wrapper span.jsjobs-main-job {float: right;}
+div#jsjobs-main-wrapper div.jsjobs-message-send-list div.jsjobs-main-message-wrap div.jsjobs-company-data div.jsjobs-data-wrapper span.jsjobs-main-job span.jsjobs-data-title {float: right;}
+div#jsjobs-main-wrapper div.jsjobs-message-send-list div.jsjobs-main-message-wrap div.jsjobs-company-data {float: right;padding-left: 0px;padding-right: 17px;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-resume-searchresults div.jsjobs-resume-searchresults div.jsjobs-resume-search div.jsjobs-data-area div.jsjobs-data-2-wrapper-title span.jsjobs-jobs-types {right: auto;left: 0px;}
+div#js_main_wrapper span.js_controlpanel_section_title span.js_apply_view_job{float:left;}
+span#resumedetail_data_title, span#jsjobs_appliedresume_data_detail_applicantsummery{float:right;}
+div.js-jobs-jobs-applie div.resumeaction1ton img#jobsappcloseaction{left:0px;right:auto;}
+div#js_main_wrapper div.js_job_main_wrapper div.js_job_data_area div.js_job_data_3.myresume div.title{float:right;}
+div#js_main_wrapper div.js_job_main_wrapper div.js_job_data_area div.js_job_data_3.myresume span.js_job_data_2_created_myresume{float:left;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-resume-searchresults div.jsjobs-resume-searchresults div.jsjobs-resume-search div.jsjobs-image-area{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-resume-searchresults div.jsjobs-resume-searchresults div.jsjobs-resume-search div.jsjobs-data-area div.jsjobs-data-2-wrapper-title span.jsjobs-name-title{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-resume-searchresults div.jsjobs-resume-searchresults div.jsjobs-resume-search div.jsjobs-data-area div.jsjobs-data-2-wrapper span.jsjobs-main-wrap span.js_job_data_2_title{float: right;padding-right: 0px;padding-left: 5px;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-resume-searchresults div.jsjobs-data-3-myresume span.jsjobs-location{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-resume-searchresults div.jsjobs-data-3-myresume span.jsjobs-view-resume{text-align: left;float: left;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-resume-searchresults div.jsjobs-resume-searchresults div.jsjobs-resume-search div.jsjobs-data-area div.jsjobs-data-2-wrapper-title span.jsjobs-posted{text-align:center;float: right;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-resume-searchresults div.jsjobs-resume-searchresults div.jsjobs-resume-search div.jsjobs-data-area div.jsjobs-data-2-wrapper-title span.jsjobs-jobs-types{float:right;}
+div#jsjobs-main-wrapper div#savesearch-form div.jsjobs-label{float:right;}
+div#jsjobs-main-wrapper div#savesearch-form div.jsjobs-input-field{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-resume-searchresults div.jsjobs-resume-searchresults div.jsjobs-resume-search div.jsjobs-data-area {float: right;padding-left: 0px;padding-right: 17px;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-resume-searchresults div.jsjobs-resume-searchresults div.jsjobs-resume-search div.jsjobs-data-area div.jsjobs-data-2-wrapper-title span.jsjobs-jobs-salary-range-wrp {left: 0px;right: auto;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-resume-searchresults div.jsjobs-resume-searchresults div.jsjobs-resume-search div.jsjobs-data-area div.jsjobs-data-2-wrapper {float: right;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-resume-searchresults div.jsjobs-resume-searchresults div.jsjobs-resume-search div.jsjobs-data-area div.jsjobs-data-2-wrapper span.jsjobs-main-wrap {float: right;padding-right: 0px;padding-left: 25px;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-resume-searchresults div.jsjobs-resume-searchresults div.jsjobs-resume-search div.jsjobs-data-area div.jsjobs-data-2-wrapper-title span.jsjobs-posted {left: 0px;right: auto;}
+
+/*
+JOB SEEKER PORTION
+*/
+
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-toprow-job-seeker div.js-menu-wrap-job-seeker{float:right;margin: 0 0px 25px 10px;}
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-jobseeker-suggested-applied-panel div.js-cp-suggested-jobs div.js-cp-resume-jobs div.js-suggestedjobs-area div.js-cp-jobs-sugest div.js-cp-content-area {float: right;padding-left: 0px;padding-right: 15px;}
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-jobseeker-suggested-applied-panel div.js-cp-suggested-jobs div.js-cp-resume-jobs div.js-suggestedjobs-area div.js-cp-jobs-sugest div.js-cp-content-area div.js-cp-company-location span.jsjobs-title {float: right;margin-right: 0px;margin-left: 5px;}
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-jobseeker-suggested-applied-panel div.js-cp-suggested-jobs div.js-cp-resume-jobs a.js-cp-applied-resume-show-more-wrp span.js-cp-sugest-jobs-show-more {float: right;margin: 0px 15px 15px 0px;}
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-jobseeker-suggested-applied-panel div.js-cp-applied-resume div.js-cp-resume-jobs div.js-appliedresume-area div.jsjobs-cp-resume-applied div.js-cp-content-area div.js-cp-company-title a {float: left;margin-left: 0px;margin-right: 7px;}
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-jobseeker-suggested-applied-panel div.js-cp-applied-resume div.js-cp-resume-jobs div.js-appliedresume-area div.jsjobs-cp-resume-applied div.js-cp-content-area div.js-cp-company-email {float: right;margin-right: 0px;margin-left: 25px;}
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-jobseeker-suggested-applied-panel div.js-cp-applied-resume div.js-cp-resume-jobs div.js-appliedresume-area div.jsjobs-cp-resume-applied div.js-cp-content-area div.js-cp-company-catagory {float: right;margin-right: 0px;margin-left: 25px;}
+
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-jobseeker-suggested-applied-panel div.js-cp-suggested-jobs div.js-cp-resume-jobs div.js-suggestedjobs-area div.js-cp-jobs-sugest div.js-cp-image-area{float:right;}
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-jobseeker-suggested-applied-panel div.js-cp-suggested-jobs div.js-cp-resume-jobs div.js-suggestedjobs-area div.js-cp-jobs-sugest div.js-cp-content-area div.js-cp-company-title {width: 100%;}
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-jobseeker-suggested-applied-panel div.js-cp-suggested-jobs div.js-cp-resume-jobs div.js-suggestedjobs-area div.js-cp-jobs-sugest div.js-cp-content-area div.js-cp-company-title span.jsjobs-status {margin-right: unset;margin-left: 5px;}
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-jobseeker-suggested-applied-panel div.js-cp-suggested-jobs div.js-cp-resume-jobs div.js-suggestedjobs-area div.js-cp-jobs-sugest div.js-cp-content-area div.js-cp-company-title span.jsjobs-noofjobs {right: unset;left: 0;}
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-jobseeker-suggested-applied-panel div.js-cp-suggested-jobs div.js-cp-resume-jobs div.js-suggestedjobs-area div.js-cp-jobs-sugest div.js-cp-content-area div.js-cp-company-title span.jsjobs-salary {right: unset;left: 0;}
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-jobseeker-suggested-applied-panel div.js-cp-suggested-jobs div.js-cp-resume-jobs div.js-suggestedjobs-area div.js-cp-jobs-sugest div.js-cp-content-area div.js-cp-company-location {float: right;padding-right: unset;padding-left: 35px;}
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-jobseeker-suggested-applied-panel div.js-cp-suggested-jobs div.js-cp-resume-jobs div.js-suggestedjobs-area div.js-cp-jobs-sugest div.js-cp-content-area div.js-cp-company-title a{float:right;display:inline-block;margin-left: 7px;}	
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-jobseeker-suggested-applied-panel div.js-cp-applied-resume div.js-cp-resume-jobs div.js-appliedresume-area div.jsjobs-cp-resume-applied div.js-cp-content-area div.js-cp-company-title a{float:right;display:inline-block;margin-left: 7px;}
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-jobseeker-suggested-applied-panel div.js-cp-applied-resume div.js-cp-resume-jobs div.js-appliedresume-area div.jsjobs-cp-resume-applied div.js-cp-content-area div.js-cp-company-email span.jsjobs-title{float:right;margin-right: 0;margin-left: 5px;}
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-jobseeker-suggested-applied-panel div.js-cp-applied-resume div.js-cp-resume-jobs a.js-cp-applied-resume-show-more-wrp span.js-cp-applied-resume-show-more {float: right;margin: 0px 15px 15px 0;}
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-jobseeker-suggested-applied-panel div.js-cp-applied-resume div.js-cp-resume-jobs div.js-appliedresume-area div.jsjobs-cp-resume-applied div.js-cp-image-area{float:right;}
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-jobseeker-suggested-applied-panel div.js-cp-applied-resume div.js-cp-resume-jobs div.js-appliedresume-area div.jsjobs-cp-resume-applied div.js-cp-content-area div.js-cp-company-catagory span.jsjobs-title{float:right;margin-right: 0;margin-left: 5px;}
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-jobseeker-suggested-applied-panel div.js-cp-applied-resume div.js-cp-resume-jobs div.js-appliedresume-area div.jsjobs-cp-resume-applied div.js-cp-content-area div.js-cp-company-catagory span.jsjobs-value{float:right;}
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-jobseeker-suggested-applied-panel div.js-cp-applied-resume div.js-cp-resume-jobs div.js-appliedresume-area div.jsjobs-cp-resume-applied div.js-cp-content-area div.js-cp-company-email span.jsjobs-value{float:right;}
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-jobseeker-suggested-applied-panel div.js-cp-applied-resume div.js-cp-resume-jobs div.js-appliedresume-area div.jsjobs-cp-resume-applied-lower span.js-cp-pending span.js-cp-jobs-wating{float:left;margin-left:-1px;}
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-jobseeker-suggested-applied-panel div.js-cp-applied-resume div.js-cp-resume-jobs div.js-appliedresume-area div.jsjobs-cp-resume-applied-lower span.js-cp-pending{float:left;}
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-jobseeker-suggested-applied-panel div.js-cp-applied-resume div.js-cp-resume-jobs div.js-appliedresume-area div.jsjobs-cp-resume-applied-lower span.js-cp-pending img{-ms-transform: rotate(180deg); -webkit-transform: rotate(180deg); transform: rotate(180deg);}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-resumeslist div.jsjobs-image-area{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-resumeslist div.jsjobs-myresume-btn span.jsjobs-myresumebtn{float:left;text-align:left;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-resumeslist div.jsjobs-myresume-btn span.jsjobs-resume-loction{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-resumeslist div.jsjobs-data-area div.jsjobs-data-titlename span.jsjobs-salary-range span.jsjobs-salary-title{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-resumeslist div.jsjobs-data-area div.jsjobs-data-titlename span.jsjobs-emailaddress span.jsjobs-emailaddress-color{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-resumeslist div.jsjobs-data-area div.jsjobs-data-titlename span.jsjobs-totexprience span.jsjobs-totalexpreience-title{float: right;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-resumeslist div.jsjobs-data-area div.jsjobs-data-titlename span.jsjobs-categoryjob span.jsjobs-titlecategory{float: right;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-resumeslist div.jsjobs-data-area div.jsjobs-data-titlename span.jsjobs-salary-range span.jsjobs-salary-value{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-resumeslist div.jsjobs-data-area div.jsjobs-data-titlename span.jsjobs-emailaddress span.jsjobs-address{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-resumeslist div.jsjobs-data-area div.jsjobs-data-titlename span.jsjobs-totexprience span.jsjobs-totalexpreience-value{float: right;margin: 0;}
+
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-resumeslist div.jsjobs-data-area div.jsjobs-data-titlename span.jsjobs-categoryjob span.jsjobs-valuecategory{float: right;margin: 0;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-resumeslist div.jsjobs-data-area div.jsjobs-data-titlename span.jsjobs-salary-range {float:right;text-align:right;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-resumeslist div.jsjobs-data-area div.jsjobs-data-titlename span.jsjobs-emailaddress {float:right;text-align:right;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-resumeslist div.jsjobs-data-area div.jsjobs-data-titlename span.jsjobs-totexprience {float: right;text-align:right;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-resumeslist div.jsjobs-data-area div.jsjobs-data-titlename span.jsjobs-categoryjob {float: right;text-align:right;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-resumeslist div.jsjobs-data-area div.jsjobs-data-titlename div.jsjobs-applyname span.jsjobs-titleresume{float:right;text-align: right;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-listresume div.jsjobs-main-wrapper-resumeslist div.jsjobs-main-resumeslist div.jsjobs-data-area div.jsjobs-data-titlename div.jsjobs-applyname span.jsjobs-titleresume a.jsjobs-anchor_resume{float:right;}
+div#js-jobs-wrapper div.js-toprow div.js-image{float:right;}
+div#js_menu_wrapper a.js_menu_link.js_menu_right_link {float: left;}
+div#js-jobs-wrapper div.js-toprow div.js-data div.js-first-row span.js-title {padding-left: 0px;padding-right: 10px;}
+div#js-jobs-wrapper div.js-toprow div.js-data div.js-first-row span.js-title span.js-status {margin-right: 5px;margin-left: 0px;float: right;}
+div#js-jobs-wrapper div.js-toprow div.js-data div.js-first-row span.js-jobtype{text-align: left;}
+div#js-jobs-wrapper div.js-toprow div.js-data div.js-second-row div.js-fields {padding-left: 35px;padding-right: 10px;}
+div#js-jobs-wrapper div.js-toprow div.js-data div.js-first-row span.js-title{float:right;}
+div#js-jobs-wrapper div.js-toprow div.js-data div.js-first-row span.js-title a{float:right;}
+div#js-jobs-wrapper div.js-toprow div.js-data div.js-first-row span.js-jobtype span.js-type{margin-left: 0px; margin-right:15px;}
+div#js-jobs-wrapper div.js-toprow div.js-data div.js-second-row div.js-fields{float:right;}
+div#js-jobs-wrapper div.js-toprow div.js-data div.js-second-row div.js-fields span.js-bold{float:right;}
+div#js-jobs-wrapper div.js-bottomrow div.js-actions{float: left;text-align: left;}
+div#js-jobs-wrapper div.js-bottomrow div.js-address{float: right;text-align: right;}
+div#js-jobs-wrapper div.js-toprow div.js-data div.js-second-row div.js-fields span.js-totaljobs{float:left;}
+div#js-jobs-wrapper div.js-toprow div.js-data{padding-right:5px;}
+div#js_main_wrapper div.js_job_data_jobapply span.js_job_data_apply_title{float:right;}
+div#tellafriend.tellafriend div#tellafriend_headline img.closeimg{float:left;}
+div.shortlist_box div.jsjobs_shortlist_box label.contact_info_margin{float:right;text-align: right;}
+div.jsjobs_stars_wrapper div.jsjobs-starst-slist label.contact_info_margin{float:right;}
+div#jsquickview_block_bottom div.jsquick_view_rows span.js_quick_title{float:right;}
+.chosen-container-multi .chosen-choices li{float:right !important;}
+div#jsjobs-main-wrapper span.jsjobs-title-coverletter{float:right !important;}
+div#jsjobs-main-wrapper a.jsjobs-add-cover-btn{float:left;margin-left: 20px;}
+div#jsjobs-main-wrapper a.jsjobs-add-cover-btn img{padding-right:0px ;padding-left:4px;}
+div#jsjobs-main-wrapper div.jsjobs-listing-main-wrapper div.jsjobs-listing-area span.jsjobs-coverletter-title{float:right;width: 35%}
+div#jsjobs-main-wrapper div.jsjobs-listing-main-wrapper div.jsjobs-listing-area div.jsjobs-coverletter-button-area {float: right;width: 65%;}
+div#jsjobs-main-wrapper div.jsjobs-listing-main-wrapper div.jsjobs-listing-area div.jsjobs-coverletter-button-area div.jsjobs-icon {float: right;text-align: left;}
+div#jsjobs-main-wrapper div.jsjobs-listing-main-wrapper div.jsjobs-listing-area div.jsjobs-coverletter-button-area div.jsjobs-icon a {float: right;margin-left: 0px;margin-right: 5px;}
+div#jsjobs-main-wrapper div.jsjobs-listing-main-wrapper div.jsjobs-listing-area div.jsjobs-coverletter-button-area span.jsjobs-coverletter-created{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-data-wrapper div.jsjobs-view-letter-description span.js_controlpanel_section_title{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-data-wrapper div.jsjobs-view-letter-description span.js_job_full_width_data{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-jobstyoes-maain a.jsjobs-job-types span.jsjobs-counter{float:left;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-listcompany div.jsjobs-wrapper-listcompany div.jsjobs-listcompany div.jsjobs-image-area{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-listcompany div.jsjobs-wrapper-listcompany div.jsjobs-listcompany div.jsjobs-data-area span.jsjobs-data-jobtitle-title a.jsjobs-titlelink span.jsjobs-data-jobtitle{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-listcompany div.jsjobs-wrapper-listcompany div.jsjobs-listcompany div.jsjobs-data-area div.jsjob-data-1 span.jsjobs-listcompany-website{float:right;margin-left:5px;margin-right: 0px;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-listcompany div.jsjobs-listcompany-button span.jsjobs-location{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-listcompany div.jsjobs-listcompany-button span.jsjobs-viewalljobs-btn{float:left;padding-left: 5px;padding-right: 0px}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-listappliedjobs div.jsjobs-main-wrapper-appliedjobslist div.jsjobs-image-area{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-listappliedjobs div.jsjobs-main-wrapper-appliedjobslist div.jsjobs-data-area div.jsjobs-data-2 span.jsjobs-data-2-title{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-listappliedjobs div.jsjobs-main-wrapper-appliedjobslist div.jsjobs-data-area div.jsjobs-data-1 span.jsjobs-title{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-appliedjobslist-btn span.jsjobs-resume-btn{float:left;}
+div#js-jobs-resumelisting-wrapper div.js-topresume-area {float: right;}
+div#jsjobs-main-wrapper div.jsjobs-data-title-cover span.jsjobs-cover-letter-title{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-listappliedjobs div.jsjobs-main-wrapper-appliedjobslist div.jsjobs-data-area div.jsjobs-data-2 span.jsjobs-data-2-value{float:right;margin-left: 0px; margin-right:5px;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-listappliedjobs div.jsjobs-main-wrapper-appliedjobslist div.jsjobs-data-area div.jsjobs-data-1 span.jsjobs-jobstypes{float: right;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-listappliedjobs div.jsjobs-main-wrapper-appliedjobslist div.jsjobs-data-area div.jsjobs-data-1 span.jsjobs-posted{float:right;text-align: center;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-appliedjobslist-btn span.jsjobs-location{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-appliedjobslist-btn span.jsjobs-noofjobs{float:left;}
+div#jsjobs-main-wrapper div.jsjobs-data-title-cover span.jsjobs-cover-letter-data {padding: 5px 10px 5px 0px}
+div#jsjobs-main-wrapper div.jsjobs-data-title-cover span.jsjobs-resume-data {padding: 5px 10px 5px 0px}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-listappliedjobs div.jsjobs-main-wrapper-appliedjobslist div.jsjobs-data-area div.jsjobs-data-2 span.jsjobs-shortlist{left:auto;right:225px;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-listappliedjobs div.jsjobs-main-wrapper-appliedjobslist div.jsjobs-data-area div.jsjobs-data-2 span.jsjobs-shortlist div.js_job_publish canvas.goldjob{-webkit-transform:rotate(180deg);-moz-transform:rotate(180deg);-o-transform:rotate(180deg);-ms-transform:rotate(180deg);float:right;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-appliedjobslist-btn span.jsjobs-noofjob-value canvas#jsjobs-nofjobs-canvas{-webkit-transform:rotate(180deg);-moz-transform:rotate(180deg);-o-transform:rotate(180deg);-ms-transform:rotate(180deg);float:right;}
+div#jsjobs-main-wrapper div.jsjobs-data-title-cover span.jsjobs-resume-title{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-listappliedjobs div.jsjobs-main-wrapper-appliedjobslist div.jsjobs-data-area div.jsjobs-data-1 span.jsjobs-title a {float: right;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-appliedjobslist-btn span.jsjobs-noofjob-value{padding-right: 0px;}
+div#jsjobs-main-wrapper div.jsjobs-listing-wrapper div.jsjobs-jobs-save span.jsjobs-coverletter-title {float: right;padding-left: 5px;padding-right: 0px;}
+div#jsjobs-main-wrapper div.jsjobs-listing-wrapper div.jsjobs-jobs-save div.jsjobs-cover-button-area {float: right;}
+div#jsjobs-main-wrapper div.jsjobs-listing-wrapper div.jsjobs-jobs-save div.jsjobs-cover-button-area span.jsjobs-btn-save {float: right;text-align: left;}
+div#jsjobs-main-wrapper div.jsjobs-listing-wrapper div.jsjobs-messages-list div.jsjobs-message-button-area span.jsjsobs-message-btn a {float: right;margin-left: 0px;margin-right: 5px;}
+div#jsjobs-main-wrapper div#sortbylinks ul li {float: left;}
+div.companies.filterwrapper input#companyname {float: right;margin-right: 0px;margin-left: 10px;}
+div.companies.filterwrapper span.filterlocation {float: right;}
+div.companies.filterwrapper input.jsjobs-go {float: right;margin-left: 0px;margin-right: 10px;}
+div.companies.filterwrapper input.jsjobs-reset {float: right;margin-left: 0px;margin-right: 10px;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-listcompany div.jsjobs-wrapper-listcompany div.jsjobs-listcompany div.jsjobs-image-area div.jsjobs-image-wrapper-mycompany div.jsjobs-image-border {float: right;}
+
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-listcompany div.jsjobs-wrapper-listcompany div.jsjobs-listcompany div.jsjobs-data-area {float: right;padding-left: 0px;padding-right: 17px;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-listcompany div.jsjobs-wrapper-listcompany div.jsjobs-listcompany div.jsjobs-data-area div.jsjob-data-1 span.jsjobs-listcompany-location {display: inline-block;float: right;}
+div#jsjobs-cat-mainblock {float: right;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-shortjoblist div.jsjobs-content-shortlist-area {float: right;padding-left: 0px;padding-right: 17px;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-shortjoblist div.jsjobs-content-shortlist-area div.jsjobs-data-1 span.jsjobs-posted {margin-left: 0px;margin-right: 5px;float: right;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-shortjoblist div.jsjobs-content-shortlist-area div.jsjobs-data-1 span.jsjobs-title span.jsjobs-gold-shortlist {margin-left: 0px;margin-right: 5px;float: right;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-shortjoblist div.jsjobs-content-shortlist-area div.jsjobs-data-1 span.jsjobs-title span.jsjobs-featured-shortlist {margin-left: 0px;margin-right: 5px;float: right;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-shortjoblist div.jsjobs-content-shortlist-area div.jsjobs-data-area-2 {float: right;}
+div#jsjobs-main-wrapper div.jsjobs-listing-wrapper div.jsjobs-jobs-save div.jsjobs-cover-button-area span.jsjobs-coverletter-created{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-listing-main-wrapper div.jsjobs-listing-area div.jsjobs-coverletter-button-area span.jsjobs-coverletter-created span{display:inline-block;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-shortjoblist div.jsjobs-image-area{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-shortjoblist div.jsjobs-content-shortlist-area div.jsjobs-data-area-2 div.jsjobs-data-2-wrapper span.jsjobs-data-2-title{margin-left: 7px;margin-right:0px;float:right;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-shortjoblist div.jsjobs-content-shortlist-area div.jsjobs-data-area-2 div.jsjobs-data-2-wrapper{float:right;margin-left: 35px;margin-right: 0;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-shortjoblist div.jsjobs-content-shortlist-area div.jsjobs-data-area-2 div.jsjobs-data-2-wrapper-jobsno {right: auto;left: 10px;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-shortjoblist div.jsjobs-content-shortlist-area div.jsjobs-data-1 span.jsjobs-posted-days {right: auto;left: 10px;}
+div#jsjobs-main-wrapper div.jsjobs-company-name div.jsjobs-data-wrapper-email-location span.jsjob-data-value-email span.jsjobs-featured {margin-left: 0px;margin-right: 5px;float: right;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-listappliedjobs div.jsjobs-main-wrapper-appliedjobslist div.jsjobs-data-area div.jsjobs-data-1 span.jsjobs-posted {right: auto;left: 0px;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-shortjoblist-btn div.jsjobs-data-3 div.location-jobs-tablet{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-shortjoblist div.jsjobs-content-shortlist-area div.jsjobs-data-1 span.jsjobs-posted-rating-main{float:left;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-shortjoblist div.jsjobs-content-shortlist-area div.jsjobs-data-1 span.jsjobs-title{float: right;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-shortjoblist div.jsjobs-content-shortlist-area div.jsjobs-data-1 span.jsjobs-title a{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-shortjoblist div.jsjobs-content-shortlist-area div.jsjobs-data-1 span.jsjobs-ratingjos{float:left !important;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-shortjoblist div.jsjobs-content-shortlist-area div.jsjobs-data-area-2 div.jsjobs-data-2-wrapper span.jsjobs-data-2-value{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-shortjoblist-btn div.jsjobs-data-btn-tablet{float:left;text-align: left;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-shortjoblist div.jsjobs-content-shortlist-area div.jsjobs-data-1 span.jsjobs-posted-rating-main{text-align:left;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-shortjoblist-btn div.jsjobs-data-btn-tablet a{float:left;}
+div#jsjobs-main-wrapper div.jsjobs-package-data div.jsjobs-package-buy-now-listing-wrapper div.jsjobs-description{padding-right: 10px;padding-left: 0px;}
+div#jsjobs-main-wrapper div.jsjobs-package-data div.jsjobs-package-buy-now-listing-wrapper div.jsjobs-description span.jsjobs-description-title{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-package-data div.jsjobs-package-buy-now-listing-wrapper div.jsjobs-package-data-detail span.jsjobs-package-values span.stats_data_title{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-package-data span.jsjobs-package-title-buy-now span.jsjobs-package-name{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-package-data div.jsjobs-package-buy-now-listing-wrapper div.jsjobs-apply-button div.jsjobs-package-detail{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-package-data div.jsjobs-package-buy-now-listing-wrapper div.jsjobs-apply-button span.jsjobs-buy-btn{float:left;}
+
+div#jsjobs-main-wrapper div.jsjobs-listing-stats-wrapper div.jsjobs-icon-wrap img.jsjobs-img{float: right;}
+div#jsjobs-main-wrapper div.jsjobs-listing-stats-wrapper div.jsjobs-icon-wrap span.stats-featuredata-value{float:right;padding: 6px 15px 0px 0px;}
+div#jsjobs-main-wrapper div.jsjobs-listing-stats-wrapper div.jsjobs-icon-wrap span.stats-golddata-value{float:right;padding: 6px 15px 0px 0px;}
+div#jsjobs-main-wrapper div.jsjobs-listing-stats-wrapper div.jsjobs-icon-wrap span.stats-data-value{float:right;padding: 6px 15px 0px 0px;}
+div#jsjobs-main-wrapper div.jsjobs-listing-stats-wrapper div.jsjobs-icon-wrap span.stats-coverletterdata-value{float:right;padding: 6px 15px 0px 0px;}
+div#jsjobs-main-wrapper div.jsjobs-listing-stats-wrapper div.jsjobs-icon-wrap span.stats-data-title{float:right;padding: 6px 15px 0px 0px;}
+div#jsjobs-main-wrapper div.jsjobs-listing-wrapper div.jsjobs-jobs-save div.jsjobs-cover-button-area span.jsjobs-coverletter-created span.jsjobs-coverletter-created-title span{display:inline-block;}
+
+div#jsjobs-main-wrapper div.jsjobs-listing-stats-wrapper table#js-table th:first-child {text-align: right;}
+div#js_main_wrapper div div.js-resume-section-body div div.js-resume-section-view div.js-resume-data div div.js-resume-data-title{float:right;}
+div#js_main_wrapper div div.js-resume-section-body div div.js-resume-section-view div.js-resume-data div div.js-resume-data-value{float:right;}
+div#js_main_wrapper div div.js-resume-section-body div div.js-resume-data-section-view div div.js-resume-data-title{float: right;}
+div#js_main_wrapper div div.js-resume-section-body div div.js-resume-data-section-view div div.js-resume-data-value{float: right;}
+div#js_main_wrapper div div.js-resume-section-body div div.js-resume-section-view div.js-resume-profile div.js-col-lg-3.js-col-md-3.no-padding{float:right;}
+div#js_main_wrapper div div.js-resume-section-body div div.js-resume-section-view div.js-resume-profile-info{float: right;padding: 7px 17px 0px 0px !important;}
+div#js_main_wrapper div div.js-resume-section-body div div.js-resume-section-view div.js-resume-profile-info div.js-resume-print-wrap a {margin-right: 0px;margin-left: 7px;float: right;}
+div#js_main_wrapper div div.js-resume-section-body div div.js-resume-section-view div.js-resume-profile-info div div.js-resume-profile-name{float:right;text-align: right;}
+div#js_main_wrapper div div.js-resume-section-body div div.js-resume-section-view div.js-resume-profile-info div.js-resume-profile-email {float: right;padding-right: 0px;padding-left: 35px;}
+div#js_main_wrapper div div.js-resume-section-body div div.js-resume-section-view div.js-resume-profile-info div.js-resume-profile-cell {float: right;}
+div#js_main_wrapper div div.js-resume-section-body div div.js-resume-section-view div.js-resume-data div.js-row {float: right;}
+div.js-jobs-search-heading-wrp div.js-jobs-heading-left {float: right;}
+div.js-jobs-search-heading-wrp div.js-jobs-heading-right {float: right;text-align: left;}
+div#jsjobs-main-wrapper div.jsjobs-listing-wrapper div.jsjobs-messages-list div.jsjobs-message-title span.jsjobs-messages-covertitle span.jsjobs_message_title span.jsjobs_message {margin-right: 0px;margin-left: 5px;}
+div#js_main_wrapper div div.js-resume-section-body div div.js-resume-data-section-view div.js-resume-data-head div.js-col-lg-10.js-col-md-10.no-padding{float:right;}
+div#js_main_wrapper div div.js-resume-section-body div div.js-resume-data-section-view div.edit-resume-data{float: left;}
+div#js_main_wrapper div div.js-resume-section-body div div.js-resume-data-section-view div.js-resume-data-head div span.data-head-name{right:5px;left:auto;}
+div#js_main_wrapper div div.js-resume-section-body div div.js-resume-address-section-view div.edit-resume{right:auto;left: 0px;}
+div#js_main_wrapper div div.js-resume-section-body div div.js-resume-address-section-view div.map-toggler{float:left;}
+div#js_main_wrapper div div.js-resume-section-body div div.js-resume-address-section-view div.map-toggler span{right:5px;left: auto;}
+div#js_main_wrapper div div.js-resume-section-body div div.js-resume-data-section-view div div.js-resume-skills-value{float:right;}
+div#js_main_wrapper div div.js-resume-section-body div div#editorView div.resumeditor div.edit-resume{left:0px;right: auto;}
+div#jsjobs-main-wrapper div.jsjobs-message-send-list div.jsjobs-main-message-wrap div.jsjobs-company-logo{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-message-send-list div.jsjobs-data-wrapper span.jsjobs-job-main span.jsjobs-data-title{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-message-send-list div.jsjobs-data-wrapper span.jsjobs-data-value{float:right;padding-left:0px;padding-right:5px;}
+div#jsjobs-main-wrapper div.jsjobs-message-send-list div.jsjobs-data-wrapper span.jsjobs-job-main span.jsjobs-data-value{float:right;padding-left:0px;padding-right:5px;}
+div#jsjobs-main-wrapper div.jsjobs-message-send-list div.jsjobs-data-wrapper span.jsjobs-data-title{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-message-send-list div.jsjobs-message-history-wrapper span.jsjobs-img-sender{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-message-send-list div.jsjobs-message-history-wrapper div.jsjobs-message-right-top span.jsjobs-message-name{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-message-send-list div.jsjobs-message-history-wrapper div.jsjobs-message-right-top div.jsjobs-message-created {float: right;padding: 5px 5px 0px 0px;}
+div#jsjobs-main-wrapper div.jsjobs-listing-wrapper div.jsjobs-messages-list div.jsjobs-message-title span.jsjobs-messages-covertitle span.jsjobs_message_title{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-listing-wrapper div.jsjobs-messages-list div.jsjobs-message-title{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-listing-wrapper div.jsjobs-messages-list div.jsjobs-message-title span.jsjobs-messages-covertitle span.jsjobs-message-created{float:left;}
+div#jsjobs-main-wrapper div.jsjobs-listing-wrapper div.jsjobs-messages-list div.jsjobs-message-button-area{padding: 0px 10px 0px 0px;}
+div#jsjobs-main-wrapper div.jsjobs-listing-wrapper div.jsjobs-messages-list div.jsjobs-message-button-area span.jsjsobs-message-btn {float: left;}
+div#jsjobs-main-wrapper div.jsjobs-listing-wrapper div.jsjobs-messages-list div.jsjobs-message-title span.jsjobs-messages-company span.jsjobs_message {margin-right: 0px;margin-left: 5px;}
+div#jsjobs-main-wrapper div.jsjobs-listing-wrapper div.jsjobs-messages-list div.jsjobs-message-title span.jsjobs_message_title-vlaue{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-listing-wrapper div.jsjobs-messages-list div.jsjobs-message-title span.jsjobs_message_title-vlaue span.jsjobs_message{float: right;}
+div#jsjobs-main-wrapper div.jsjobs-listing-wrapper div.jsjobs-messages-list div.jsjobs-message-title span.jsjobs-messages-covertitle span.jsjobs-message-created span{display:inline-block;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-mydepartmentlist div.jsjob-main-department div.jsjobs-main-department-left span.jsjobs-coverletter-title span.jsjobs-coverletter-created span{display: inline-block;}
+div#jsjobs-main-wrapper div.jsjobs-package-data div.jsjobs-package-buy-now-listing-wrapper div.jsjobs-package-data-detail{float:right;}
+div#js-jobs-wrapper div.js-bottomrow div.js-actions a.js-button{margin-left: 4px;margin-right: 0px;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-listappliedjobs div.jsjobs-main-wrapper-appliedjobslist div.jsjobs-data-area div.jsjobs-data-2 div.jsjobs-data-2-wrapper{float:right;}
+div#jsjobs-main-wrapper span.jsjobs-main-page-title span.jsjobs-title{float:right;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-myjobslist-btn div.jsjobs-data-myjob-right-area a.applied-resume-button-no{float: left;margin-left: 0px; margin-right: 5px;}
+/*div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-myjobslist-btn div.jsjobs-data-myjob-right-area a.company_icon{float: left;margin-left: 0px; margin-right: 5px;}*/
+font#jsjobs-status-btn{float: left;}
+font#jsjobs-status-btn canvas{float: right; -ms-transform: rotate(180deg); -webkit-transform: rotate(180deg); transform: rotate(180deg); }
+div#jsjobs-main-wrapper form div#sortbylinks ul li.jsjobs-sorting-bar-myjob a img{float: left;padding-left: 15px;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-content-wrap div.jsjobs-data-area div.jsjobs-data-2 div.jsjobs-data-2-wrapper.js_forcat{width: 49%;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-content-wrap div.jsjobs-data-area div.jsjobs-data-2 div.jsjobs-data-3-myjob-no.js_noof_jobs{width: 49%;}
+div.js-jobs-jobs-applie div.resumeaction1ton div#resumeactioncomments div.jsjobs-field-title{float: right; margin-right: 15px;}
+div.js-jobs-jobs-applie div.resumeaction1ton div#resumeactioncomments div.jsjobs-field-textarea{float: right; margin-right: 5px;}
+div.js-jobs-jobs-applie div.resumeaction1ton div#resumeactioncomments div.jsjobs-field-actionbutton{float: right; margin-right: 10px;}
+span.jsjobs_appliedresume_tab span.jsjobs-applied-resume-field div.field{float: right;}
+span.jsjobs_appliedresume_tab span.jsjobs-applied-resume-field div.field span.jsjobs-radio-btn{float: right;}
+span.jsjobs_appliedresume_tab span.jsjobs-applied-resume-field div.field span.jsjobs-radio-btn span.jsjobs-status-radio-btn{width: unset;}
+span.jsjobs_appliedresume_tab span.jsjobs-applied-resume-field div.field span.jsjobs-radio-btn input{width: unset;}
+div#coverletterPopup div#coverletter_headline img{right: unset; left: 5px;}
+div.js-jobs-jobs-applie div.resumeaction1ton div#jsjobs-email-appliedresume div#jsjobs-input-fields{float: right;}
+div.js-jobs-jobs-applie div.resumeaction1ton div#jsjobs-email-appliedresume div#jsjobs-text-area{float: right; margin-left: 0px; margin-right: 15px;}
+div.js-jobs-jobs-applie div.resumeaction1ton div#jsjobs-email-appliedresume div#jsjobs-action-button{float: right; right: unset; left: 145px;}
+div#js_main_wrapper div.js-jobs-jobs-applie div.js_job_image_area a.view_resume_button img{float: left;}
+div#js_main_wrapper .js-jobs-jobs-applie div.js_job_image_area div.view_coverltr_button img{float: left;}
+div#js_main_wrapper span.js_controlpanel_section_title a.js_resume_pdf_link{right: unset; left: 0px;}
+div#jsjobs-main-wrapper div.jsjobs-listing-wrapper div.jsjobs-resumesearch-list span.jsjobs-coverletter-title{float: right;}
+div#jsjobs-main-wrapper div.jsjobs-listing-wrapper div.jsjobs-coverletter-button-area{float: left;}
+div#jsjobs-main-wrapper div.jsjobs-listing-wrapper div.jsjobs-coverletter-button-area span.jsjobs-coverletter-created{float: right;}
+div#jsjobs-main-wrapper form div.jsjobs-folderinfo div.jsjobs-main-mydepartmentlist div.jsjob-main-department font#jsjobs-status-btn.margin-top{margin-left: -6px;}
+div#jsjobs-main-wrapper div.jsjobs-package-data div.jsjobs-package-listing-wrapper div.jsjobs-listing-wrapperes div.jsjobs-list-wrap span.payment_method_title{float: right; padding-right: 10px;}
+div#jsjobs-main-wrapper div.jsjobs-package-data div.jsjobs-package-listing-wrapper div.jsjobs-listing-wrapperes div.jsjobs-list-wrap span.payment_method_button{float: left;padding-left: 10px;}
+div#jsquickview_wrapper1 div#quickview_sub span.js_gs_tag span.featured {margin-left: 0px;margin-right: 5px;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.fieldwrapper div.fieldvalue span.jsjobs-mapvalue span.jsjobs-latitude {float: right;padding-right: 0px;padding-left: 10px;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.fieldwrapper div.fieldvalue span.jsjobs-mapvalue span.jsjobs-longitude {float: right;margin-right: 0px;margin-left: 5px;}
+div#jsjobs-main-wrapper div#sortbylinks ul li.jsjobs-sorting-bar-myjob {float: right;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-myjobslist div.jsjobs-content-wrap {float: right;padding: 0 17px 0 0px;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-myjobslist div.jsjobs-data-1 span.jsjobs-jobs-types {margin-right: 0px;margin-left: 5px;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-myjobslist div.jsjobs-data-1 div.jsjobs-data-1-title span.gold {margin-left: 0px;margin-right: 5px;}
+div#js-jobs-wrapper div.js-toprow div.js-data div.js-first-row span.js-title a{padding-left: 5px;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-listappliedjobs div.jsjobs-main-wrapper-appliedjobslist div.jsjobs-data-area div.jsjobs-data-2 span.jsjobs-shortlist div.publish canvas{float: right; -ms-transform: rotate(180deg); -webkit-transform: rotate(180deg); transform: rotate(180deg); }
+div.js_job_error_messages_wrapper div.message2 span.message-text{text-align: center; }
+div.js_job_error_messages_wrapper div.message1 span{text-align: center;}
+div.js_job_error_messages_wrapper div.footer a{margin: 30px 0 0 10px;}
+div.js_job_error_messages_wrapper div.message1 span{margin-top: 3.5%;}
+div.js_job_error_messages_wrapper div.message2 span.img{right:80px;}
+div#jsjobs-main-wrapper div.jsjobs-package-data div.jsjobs-package-listing-wrapper div.jsjobs-description span.jsjobs-description-title{float: right; padding-right: 15px; }
+div#jsjobs-main-wrapper div.jsjobs-package-data div.jsjobs-package-listing-wrapper div.jsjobs-description span.jsjobs-description-value{padding-right: 5px;}
+div#jsjobs-main-wrapper div.jsjobs-purchasehistory-main div.jsjobs-purchase-listing-wrapper div.jsjobs-expire-days span.expired_package{right: unset; left: 0px;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-listresume div.jsjobs-main-wrapper-resumeslist div.jsjobs-main-resumeslist div.jsjobs-data-area div.jsjobs-data-titlename div.jsjobs-applyname span.jsjobs-titleresume a.jsjobs-anchor_resume{padding-left: 3px;}
+/*new*/
+div.js_job_error_messages_wrapper div.message2 span.message-text{padding-left: 0px; padding-right: 35%; text-align: right;}
+div.js_job_error_messages_wrapper div.message1 span{padding-left: 0px; padding-right: 35%; text-align: right;}
+div#js-jobs-wrapper div.js-toprow div.js-data div.js-first-row span.js-jobtype{right: unset; left: 10px;}
+div#js-jobs-wrapper div.js-bottomrow div.js-col-xs-12.js-col-md-8.js-address{float: right;}
+div#js-jobs-wrapper div.js-bottomrow div.js-col-xs-12.js-col-md-4.js-actions{float: left;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-listappliedjobs div.jsjobs-main-wrapper-appliedjobslist div.jsjobs-data-area div.jsjobs-data-1 span.jsjobs-jobstypes{right: 0; left: unset;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-listappliedjobs div.jsjobs-main-wrapper-appliedjobslist div.jsjobs-data-area div.jsjobs-data-1 span.jsjobs-salary-type-wrapper {right: unset;left: 0px;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-listappliedjobs div.jsjobs-main-wrapper-appliedjobslist div.jsjobs-data-area div.jsjobs-data-1 span.jsjobs-noofjobs {right: unset;left: 0px;}
+div#jsjobs-main-wrapper div.jsjobs-main-wrapper-listappliedjobs div.jsjobs-main-wrapper-appliedjobslist div.jsjobs-data-area{padding-left: 0px; padding-right: 10px;}
+
+div#resumeform div.jssectionwrapper div.resumefieldswrapper .resumefieldvalue div.resumephoto{float: right;}
+div#resumeform div.jssectionwrapper div.resumefieldswrapper .resumefieldvalue div.photodetail{padding-left: 0px; padding-right: 15px;}
+div#resumeform div.jssectionwrapper div.resumefieldswrapper div.files-field span.upload_btn{right: unset; left: -1px;  border-bottom-right-radius: 0px; border-top-right-radius: 0px; border-bottom-left-radius: 3px; border-top-left-radius: 3px; } 
+div#resumeform div.jssectionwrapper div.resumefieldswrapper div.jsresume_seach_width{float: right; margin-left: 10px; margin-right: 0px;}
+div#resumeform div.jssection_wrapper img.jsdeleteimage{left: 0px; right: unset;}
+
+div#js_resume_percentage{padding-right: 0px; padding-left: 25px;}
+div#js_resume_percentage div.js_image_area{float: right;}
+/*myresumes newcss*/
+div#js-jobs-resumelisting-wrapper div.js-resume-list div.jsjobs-img-area{float: right;}
+div#js-jobs-resumelisting-wrapper div.js-resume-list div.jsjobs-img-area div#js-drag-image-to-top{left: unset; right: 15px;}
+div#js-jobs-resumelisting-wrapper div.js-resume-list div.js-topresume-area div.jsjobs-applyname{margin-right: 10px; margin-left: 0px;}
+div#js-jobs-resumelisting-wrapper div.js-resume-list div.js-topresume-area div.jsjobs-applyname span.jsjobs-titleresume{float: right;}
+div#js-jobs-resumelisting-wrapper div.js-resume-list div.js-topresume-area div.jsjobs-applyname div.jsjobs-fulltime-wrapper{right: unset; left: 10px;}
+div#js-jobs-resumelisting-wrapper div.js-resume-list div.js-topresume-area div.jsjobs-applyname span.jsjobs-titleresume a.jsjobs-anchor_resume{float: right; margin-left: 10px;}
+div#js-jobs-resumelisting-wrapper div.js-resume-list span.js-myresume-field-wrapper span.js-myresume-field-title{float: right; margin-left: 5px; margin-right: 0px;}
+div#js-jobs-resumelisting-wrapper div.js-resume-list div.js-topresume-area div.jsjobs-applyname span.jsjobs-date-created{float: right; margin-left: 10px;}
+div#js-jobs-resumelisting-wrapper div.js-resume-list div.jsjobs-resume-data-area{padding-left: 0px; padding-right: 150px;}
+div#js-jobs-resumelisting-wrapper div.js-resume-list span.js-myresume-field-wrapper {float: right;}
+div.js-resume-list div.myresume-complete-status {float: right;}
+div.js-resume-list div#myresume-fields-area{float: right;}
+div.js-resume-list div.myresume-complete-status div.complete-status-wrapper{ text-align: left; float: left;margin: 15px 0px 15px 10px;}
+div.js-resume-list div.myresume-complete-status div.complete-status-wrapper div.myresume-graph .mygraph{float: left;}
+div.js-resume-list div.myresume-complete-status div.complete-status-wrapper div.myresume-graph .mytext{text-align: right; padding-left: 0px; padding-right: 10px; float: right;}
+div.myresume-graph div.mygraph div.js-mr-rp div.inset{margin-left: 0px; margin-right: 10px;}
+div#js-jobs-resumelisting-wrapper div.jsjobs-myresume-buttons span.jsjobs-resume-loction{float: right;}
+div#js-jobs-resumelisting-wrapper div.jsjobs-myresume-buttons span.jsjobs-myresumebtn{text-align: left;float: left;}
+div#jsjobs-main-wrapper span.goldnew {margin-right: 0px;margin-left: 5px;}
+div#jsjobs-main-wrapper div.jsjobs-listing-wrapper div.jsjobs-jobs-save div.jsjobs-cover-button-area span.jsjobs-btn-save a {margin-left: 0px;margin-right: 5px;}
+div#jsjobs-main-wrapper div.jsjobs-fieldwrapper div.jsjobs-fieldvalue select.inputbox {background-position: calc(100% - 95%) !important;}
+div#jsjobs-main-wrapper div.jsjobs-fieldwrapper span.jsjobs-longitude {margin: 0 0 0 5px;float: right;}
+div#jsjobs-wrapper div.page_heading input.inputbox {float: right;}
+div#jsjobs-wrapper div.page_heading input#button.button {float: right;margin-left: 0px;margin-right: 15px;}
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-toprow-job-seeker div.js-menu-wrap-job-seeker div.box-footer span.box-footer-left {float: right;}
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-toprow-job-seeker div.js-menu-wrap-job-seeker div.box-footer span.box-footer-right {float: left;}
+div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-toprow-job-seeker div.js-menu-wrap-job-seeker div.box-footer span.box-footer-right img{transform: scaleX(-1);}
+div#jsjobs-main-wrapper div.jsjobs-message-send-list div.jsjobs-main-message-wrap div.jsjobs-company-data div.jsjobs-data-wrapper span.jsjobs-job-main {float: right;}
+div#jsjobs-main-wrapper div.jsjobs-job-info span.jsjobs-title span.jsjobs-new-tag {float: right;}
+div#jsjobs-main-wrapper div#savesearch-form div.jsjobs-button-field {float: right;}
+div#jsjobs-main-wrapper div#savesearch-form div.jsjobs-button-field input {float: right;margin-left: 0px;margin-right: 10px;}
+div#js_main_wrapper div div.js-resume-section-body div div.js-resume-data-section-view div.js-row {float: right;}
+div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-mydepartmentlist div.jsjob-main-department div.jsjobs-main-department-right div.jsjobs-coverletter-button-area a {float: right;}
+div#js_main_wrapper div.js_job_main_wrapper div.js_job_data_area {padding-left: 0px;padding-right: 15px;float: right;}
+div#js_main_wrapper div.js_job_main_wrapper div.js_job_data_area div.js_job_data_2.myresume div.js_job_data_2_wrapper {float: right;padding-right: 0px;padding-left: 35px;}
+div#js_main_wrapper div.js_job_main_wrapper div.js_job_data_area span.js_job_data_2_created_myresume.jobtype {float: right;}
+div#js_main_wrapper div.js_job_main_wrapper div.js_job_data_area div.js_job_data_3.myresume_folder span.js_job_data_2_created_myresume {float: left;}
+div#jsjob-search-popup div.js-searchform-value select {background-position: calc(100% - 95%) !important;}
+div#jsjob-search-popup div.jsjob-refine-wrapper {float: right;}
+div.jsjobs-login-wrp table tr .jsjobs-login-title {float: right;text-align: right;}
+div.jsjobs-login-wrp table tr .jsjobs-login-value {float: right;}
+@media all and (max-width: 480px) {
+	div#js_resume_percentage{padding-right: 25px; padding-left: 25px;}
+	div#js_resume_percentage div.js_image_area {float: none;}
+	div#jsjobs-main-wrapper div.jsjobs-main-wrapper-shortjoblist-btn div.jsjobs-data-btn-tablet {text-align: center;}
+	div#jsjobs-main-wrapper div.jsjobs-main-wrapper-shortjoblist-btn div.jsjobs-data-btn-tablet a {float: none;}
+	div#jsjobs-main-wrapper div.jsjobs-message-send-list div.jsjobs-main-message-wrap div.jsjobs-company-logo {float: unset;}
+	div#js_main_wrapper div.js_job_main_wrapper div.js_job_data_area {padding-right: 0px;padding-left: 0px;}
+	div#js_main_wrapper div.js_job_main_wrapper div.js_job_data_area span.js_job_data_2_created_myresume.jobtype {float: unset;}
+	div#js_main_wrapper div.js_job_main_wrapper div.js_job_data_area div.js_job_data_2.myresume div.js_job_data_2_wrapper {padding-left: 0px;}
+	div#js_main_wrapper div.js_job_main_wrapper div.js_job_data_area div.js_job_data_2.myresume div.js_job_data_2_wrapper span.heading {float: unset;}
+	div#js_main_wrapper div.js_job_main_wrapper div.js_job_data_area div.js_job_data_3.myresume_folder span.js_job_data_2_created_myresume {float: unset;padding-right: 0px;}
+	div#js_menu_wrapper a.js_menu_link {float: right;}
+	div.companies.filterwrapper input.jsjobs-reset {margin-right: 2%;}
+	div.companies.filterwrapper input.jsjobs-go {margin-left: 2%;margin-right: 0%;}
+	div#jsjobs-main-wrapper div.jsjobs-main-wrapper-listcompany div.jsjobs-wrapper-listcompany div.jsjobs-listcompany div.jsjobs-data-area div.jsjob-data-1 span.jsjobs-listcompany-website {float: none;}
+	div#jsjobs-main-wrapper div.jsjobs-main-wrapper-listcompany div.jsjobs-wrapper-listcompany div.jsjobs-listcompany div.jsjobs-data-area {padding-right: 0px;}
+	div#jsjobs-main-wrapper div.jsjobs-main-wrapper-listcompany div.jsjobs-wrapper-listcompany div.jsjobs-listcompany div.jsjobs-image-area {float: unset;}
+	div#js_main_wrapper div div.js-resume-section-body div div.js-resume-section-view div.js-resume-profile-info div.js-resume-profile-email {padding-left: 0;}
+	div.js_job_error_messages_wrapper div.message2 span.message-text {padding-right: 0%;text-align: center;}
+	div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-wrapper-mycompanies div.jsjobs-main-companieslist div.jsjobs-main-wrap-imag-data div.jsjobs-data-area {padding-right: 0px;}
+	div#js-jobs-wrapper div.js-toprow div.js-data {padding-right: 0px;}
+	div#js-jobs-wrapper div.js-toprow div.js-data div.js-first-row span.js-title {padding-right: 0px;}
+	div#jsjobs-main-wrapper div.jsjobs-job-info div.js_job_company_logo {float: none;display: block;}
+	div#jsjobs-main-wrapper div.jsjobs-job-info span.jsjobs-title {padding: 0;}
+	div#jsjobs-main-wrapper div.jsjobs-company-name div.jsjobs-data-wrapper-email-location span.jsjob-data-value-email span.jsjobs-featured {float: none;}
+	div#jsjobs-main-wrapper div.jsjobs-job-info span.jsjobs-title span.jsjobs-new-tag {float: none;}
+	div#jsjobs-main-wrapper div.jsjobs-job-info span.jsjobs-title span.jsjobs-featured-tag {float: none;}
+	div#jsjobs-main-wrapper div.jsjobs-job-info span.jsjobs-title span.jsjobs-gold-tag {float: none;}
+	div#jsjobs-main-wrapper div.jsjobs-job-info div.jsjobs-company-name-wrp {text-align: center;padding-left: 0;}
+	div#jsjobs-main-wrapper div.jsjobs-job-info div.jsjobs-data-jobs-wrapper {text-align: center;padding: 0;}
+	div#jsjobs-main-wrapper div.jsjobs-job-info div.jsjobs-data-jobs-wrapper span.jsjobs-location-wrap {padding: 0px;}
+	div#jsjobs-main-wrapper div.jsjobs-job-info div.jsjobs-right-raea {text-align: center;}
+	div#jsjobs-main-wrapper div.jsjobs-main-wrapper-shortjoblist div.jsjobs-image-area {float: none;}
+	div#jsjobs-main-wrapper div.jsjobs-main-wrapper-shortjoblist div.jsjobs-content-shortlist-area div.jsjobs-data-1 span.jsjobs-posted-days {text-align: center;}
+	div#jsjobs-main-wrapper div.jsjobs-main-wrapper-shortjoblist div.jsjobs-content-shortlist-area {padding-right: 0px;}
+	div#jsjobs-main-wrapper div.jsjobs-main-wrapper-shortjoblist div.jsjobs-content-shortlist-area div.jsjobs-data-area-2 div.jsjobs-data-2-wrapper {margin-left: 0px;}
+	div#jsjobs-main-wrapper div.jsjobs-main-wrapper-shortjoblist div.jsjobs-content-shortlist-area div.jsjobs-data-area-2 div.jsjobs-data-2-wrapper span.jsjobs-data-2-title {float: none;}
+	div#jsjobs-main-wrapper div.jsjobs-main-wrapper-shortjoblist div.jsjobs-content-shortlist-area div.jsjobs-data-area-2 div.jsjobs-data-2-wrapper span.jsjobs-data-2-value {float: none;}
+	div#jsjobs-main-wrapper div.jsjobs-listing-main-wrapper div.jsjobs-listing-area span.jsjobs-coverletter-title {width: 100%;}
+	div#jsjobs-main-wrapper div.jsjobs-listing-main-wrapper div.jsjobs-listing-area div.jsjobs-coverletter-button-area {width: 100%;}
+	div#jsjobs-main-wrapper div.jsjobs-listing-main-wrapper div.jsjobs-listing-area div.jsjobs-coverletter-button-area span.jsjobs-coverletter-created {text-align: right;}
+	div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-jobseeker-suggested-applied-panel div.js-cp-suggested-jobs div.js-cp-resume-jobs div.js-suggestedjobs-area div.js-cp-jobs-sugest div.js-cp-image-area {float: none;}
+	div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-jobseeker-suggested-applied-panel div.js-cp-suggested-jobs div.js-cp-resume-jobs div.js-suggestedjobs-area div.js-cp-jobs-sugest div.js-cp-content-area div.js-cp-company-location span.jsjobs-title {float: none;}
+	div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-jobseeker-suggested-applied-panel div.js-cp-applied-resume div.js-cp-resume-jobs div.js-appliedresume-area div.jsjobs-cp-resume-applied div.js-cp-image-area {float: none;}
+	div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-jobseeker-suggested-applied-panel div.js-cp-applied-resume div.js-cp-resume-jobs div.js-appliedresume-area div.jsjobs-cp-resume-applied div.js-cp-content-area div.js-cp-company-email {margin-left: 0px;}
+	div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-jobseeker-suggested-applied-panel div.js-cp-applied-resume div.js-cp-resume-jobs div.js-appliedresume-area div.jsjobs-cp-resume-applied div.js-cp-content-area div.js-cp-company-catagory {margin-left: 0px;}
+	div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-jobseeker-suggested-applied-panel div.js-cp-applied-resume div.js-cp-resume-jobs div.js-appliedresume-area div.jsjobs-cp-resume-applied div.js-cp-content-area div.js-cp-company-catagory span.jsjobs-title {float: none;}
+	div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-jobseeker-suggested-applied-panel div.js-cp-applied-resume div.js-cp-resume-jobs div.js-appliedresume-area div.jsjobs-cp-resume-applied div.js-cp-content-area div.js-cp-company-catagory span.jsjobs-value {float: none;}
+	div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-jobseeker-suggested-applied-panel div.js-cp-applied-resume div.js-cp-resume-jobs div.js-appliedresume-area div.jsjobs-cp-resume-applied div.js-cp-content-area div.js-cp-company-email span.jsjobs-title {float: none;}
+	div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-jobseeker-suggested-applied-panel div.js-cp-applied-resume div.js-cp-resume-jobs div.js-appliedresume-area div.jsjobs-cp-resume-applied div.js-cp-content-area div.js-cp-company-email span.jsjobs-value {float: none;}
+	div#jsjobs-main-wrapper div.jsjobs-main-wrapper-listappliedjobs div.jsjobs-main-wrapper-appliedjobslist div.jsjobs-image-area {float: none;}
+	div#jsjobs-main-wrapper div.jsjobs-main-wrapper-listappliedjobs div.jsjobs-main-wrapper-appliedjobslist div.jsjobs-data-area div.jsjobs-data-1 span.jsjobs-title a {float: none;}
+	div#jsjobs-main-wrapper div.jsjobs-main-wrapper-listappliedjobs div.jsjobs-main-wrapper-appliedjobslist div.jsjobs-data-area div.jsjobs-data-1 span.jsjobs-posted {text-align: center;}
+	div#jsjobs-main-wrapper div.jsjobs-main-wrapper-listappliedjobs div.jsjobs-main-wrapper-appliedjobslist div.jsjobs-data-area div.jsjobs-data-1 span.jsjobs-jobstypes {float: none;}
+	div#jsjobs-main-wrapper div.jsjobs-main-wrapper-listappliedjobs div.jsjobs-main-wrapper-appliedjobslist div.jsjobs-data-area div.jsjobs-data-2 span.jsjobs-data-2-value {float: none;}
+	div#jsjobs-main-wrapper div.jsjobs-main-wrapper-listappliedjobs div.jsjobs-main-wrapper-appliedjobslist div.jsjobs-data-area div.jsjobs-data-2 span.jsjobs-data-2-title {float: none;}
+	div#jsjobs-main-wrapper div.jsjobs-main-wrapper-listappliedjobs div.jsjobs-main-wrapper-appliedjobslist div.jsjobs-data-area div.jsjobs-data-1 span.jsjobs-posted {text-align: center!important;}
+	div#js-jobs-wrapper div.js-toprow div.js-image {float: none;}
+	div#js-jobs-wrapper div.js-toprow div.js-data div.js-second-row div.js-fields span.js-bold {float: none;}
+
+	div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper {padding: 0px;}
+	div#jsjobs-main-wrapper div.jsjobs-listing-wrapper div.jsjobs-coverletter-button-area span.jsjobs-coverletter-created {text-align: right;}
+	div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-myjobslist span.jsjobs-image-area a.jsjobs-image-area-achor {float: none;}
+	div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-myjobslist div.jsjobs-data-1 div.jsjobs-data-3-wrapper {text-align: center;}
+	div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-myjobslist div.jsjobs-data-area div.jsjobs-data-2 div span.js_job_data_2_title {float: none;}
+	div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-content-wrap div.jsjobs-data-area div.jsjobs-data-2 div.jsjobs-data-2-wrapper.js_forcat {width: 100%;}
+	div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-jobs-resume-panel div.js-cp-applied-resume div.js-cp-wrap-resume-jobs div.js-cp-resume-wrap div.js-cp-applied-resume div.js-cp-content-area {width: 100%;padding-right: 0px;}
+	div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-jobs-resume-panel div.js-cp-applied-resume div.js-cp-wrap-resume-jobs div.js-cp-resume-wrap div.js-cp-applied-resume div.js-cp-company-email-address {margin-left: 0px;}
+	div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-jobs-resume-panel div.js-cp-applied-resume div.js-cp-wrap-resume-jobs div.js-cp-resume-wrap div.js-cp-applied-resume div.js-cp-company-email-address span.jsjobs-title {float: none}
+	div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-jobs-resume-panel div.js-cp-applied-resume div.js-cp-wrap-resume-jobs div.js-cp-resume-wrap div.js-cp-applied-resume div.js-cp-company-email-address span.jsjobs-value {float: none;}
+	div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-jobs-resume-panel div.js-cp-applied-resume div.js-cp-wrap-resume-jobs div.js-cp-resume-wrap div.js-cp-applied-resume div.js-cp-company-category span.jsjobs-title {float: none;}
+	div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-jobs-resume-panel div.js-cp-applied-resume div.js-cp-wrap-resume-jobs div.js-cp-resume-wrap div.js-cp-applied-resume div.js-cp-company-category span.jsjobs-value {float: none;}
+	div#jsjobs-main-wrapper div.jsjobs-main-wrapper-resume-searchresults div.jsjobs-resume-searchresults div.jsjobs-resume-search div.jsjobs-image-area {float: none;margin: auto;}
+	div#jsjobs-main-wrapper div.jsjobs-main-wrapper-resume-searchresults div.jsjobs-resume-searchresults div.jsjobs-resume-search div.jsjobs-data-area div.jsjobs-data-2-wrapper-title span.jsjobs-jobs-types {float: none;}
+	div#jsjobs-main-wrapper div.jsjobs-main-wrapper-resume-searchresults div.jsjobs-resume-searchresults div.jsjobs-resume-search div.jsjobs-data-area div.jsjobs-data-2-wrapper span.jsjobs-main-wrap span.js_job_data_2_title {float: none;}
+	div#js_main_wrapper div div.js-resume-section-body div div.js-resume-section-view div.js-resume-profile div.js-col-lg-3.js-col-md-3.no-padding {float: none;}
+	div#js_main_wrapper div div.js-resume-section-body div div.js-resume-section-view div.js-resume-profile-info {padding: 7px 0px 0px 0px !important;}
+	div#js_main_wrapper div div.js-resume-section-body div div.js-resume-section-view div.js-resume-profile-info div.js-resume-print-wrap a {float: none;}
+	div#js_main_wrapper div div.js-resume-section-body div div.js-resume-section-view div.js-resume-profile-info div div.js-resume-profile-name {text-align: center;}
+	div#js_main_wrapper div div.js-resume-section-body div div.js-resume-section-view div.js-resume-profile-info div.js-resume-profile-email {padding-right: 0;}
+	div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-wrapper-mycompanies div.jsjobs-main-companieslist div.jsjobs-main-wrap-imag-data div.com-logo a.img {float: none;}
+	div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-wrapper-mycompanies div.jsjobs-main-companieslist div.jsjobs-main-wrap-imag-data div.com-logo {float: unset;}
+	div#jsjobs-main-wrapper div.jsjobs-company-name div.jsjobs-company-logo {float: none;}
+	div#jsjobs-main-wrapper div.jsjobs-company-name div.jsjobs-data-wrapper-email-location {padding-right: 0px;}
+	div#jsjobs-main-wrapper div.jsjobs-company-name div.jsjobs-data-wrapper-email-location span.jsjob-data-value-email span.jsjobs-gold {float: none;}
+	div#jsjobs-main-wrapper div.jsjobs-company-name div.jsjobs-data-wrapper-email-location span.jsjob-data-value-email {text-align: center;}
+	div#jsjobs-main-wrapper div.jsjobs-company-name span.jsjobs-company-title {padding-right: 0px;text-align: center;}
+	div#jsjobs-main-wrapper div.jsjobs-company-name div.jsjobs-company-bottom-wrp {text-align: center;padding: 0;}
+	div#jsjobs-main-wrapper div.jsjobs-company-name span.jsjobs-location-comapny {text-align: center;padding-left: 0px;}
+	div#jsjobs-main-wrapper div.jsjobs-company-name span.jsjobs-location-comapny span.jsjob-data-title {float: none;}
+	div#jsjobs-main-wrapper div.jsjobs-description-area div.js_jobs_full_width_data {float: right;}
+	div#jsjobs-main-wrapper div.jsjobs-folderinfon div.jsjobs-listfolders div.jsjobs-status-button span.jsjobs-message-created {text-align: right;}
+	div#jsjobs-main-wrapper div.jsjobs-listing-wrapper div.jsjobs-messages-list div.jsjobs-message-title span.jsjobs-messages-covertitle span.jsjobs-message-created {text-align: right;}
+	div#jsjobs-main-wrapper div.jsjobs-message-send-list div.jsjobs-main-message-wrap div.jsjobs-company-data {padding-right: 0px;text-align: center;}
+	div#jsjobs-main-wrapper div.jsjobs-message-send-list div.jsjobs-main-message-wrap div.jsjobs-company-data div.jsjobs-data-wrapper span.jsjobs-main-company {margin-left: 0px;}
+	div#jsjobs-main-wrapper div.jsjobs-message-send-list div.jsjobs-main-message-wrap div.jsjobs-company-data div.jsjobs-data-wrapper span.jsjobs-main-company span.jsjobs-data-title {float: none;}
+	div#jsjobs-main-wrapper div.jsjobs-message-send-list div.jsjobs-main-message-wrap div.jsjobs-company-data div.jsjobs-data-wrapper span.jsjobs-main-company span.jsjobs-data-value {float: none;}
+	div#jsjobs-main-wrapper div.jsjobs-message-send-list div.jsjobs-main-message-wrap div.jsjobs-company-data div.jsjobs-data-wrapper span.jsjobs-main-job span.jsjobs-data-title {float: none;}
+	div#jsjobs-main-wrapper div.jsjobs-message-send-list div.jsjobs-data-wrapper span.jsjobs-data-value {float: none;}
+	div#jsjobs-main-wrapper div.jsjobs-message-send-list div.jsjobs-main-message-wrap div.jsjobs-company-data div.jsjobs-data-wrapper span.jsjobs-main-job {width: 100%;}
+	div#jsjobs-main-wrapper div.jsjobs-main-wrapper-listappliedjobs div.jsjobs-main-wrapper-appliedjobslist div.jsjobs-data-area div.jsjobs-data-2 span.jsjobs-shortlist{left:0px;top: unset;bottom: 118px;}
+	div#jsjobs-main-wrapper div.jsjobs-listing-wrapper div.jsjobs-jobs-save div.jsjobs-cover-button-area span.jsjobs-coverletter-created span.jsjobs-coverletter-created-title{float: right;}
+	div.jsjobs-listing-stats-wrapper table#js-table tbody tr td{text-align: right;}
+	div#jsjobs-main-wrapper div.jsjobs-package-data div.jsjobs-package-listing-wrapper div.jsjobs-description{margin-left: 2%;}
+	div#jsjobs-main-wrapper div.jsjobs-package-data div.jsjobs-package-listing-wrapper div.jsjobs-description span.jsjobs-description-title{width: unset;}
+	div#jsjobs-main-wrapper div.jsjobs-package-data div.jsjobs-package-listing-wrapper div.jsjobs-description span.jsjobs-description-value{width: unset;}
+	div#js_main_wrapper div#jsjobs_appliedapplication_tab_container a{padding: 5px 10px; float: left;}
+	div#jsjobs-main-wrapper div#savesearch-form div.jsjobs-label{text-align: right;}
+	div#js-jobs-wrapper div.js-toprow div.js-data div.js-first-row span.js-title span.js-status{float: none;}
+	div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-mydepartmentlist div.jsjob-main-department div.jsjobs-main-department-left span.jsjobs-coverletter-title span.jsjobs-coverletter-created {text-align:right;}
+	div#jsjobs-main-wrapper div.jsjobs-main-wrapper-listappliedjobs div.jsjobs-main-wrapper-appliedjobslist div.jsjobs-data-area div.jsjobs-data-1 span.jsjobs-posted{text-align: right;margin-right: 0px;}
+	div#js-jobs-wrapper div.js-toprow div.js-data div.js-first-row span.js-jobtype span.js-type{float: none; width: unset; text-align: center;margin: 0;}
+	div#js-jobs-wrapper div.js-toprow div.js-data div.js-second-row div.js-fields{padding-left: 0;padding-right: 0}
+	div#js-jobs-wrapper div.js-bottomrow div.js-actions {float: left;text-align: center;}
+
+	div#js-jobs-wrapper div.js-bottomrow div.js-address {text-align: center;}
+	div#js-jobs-wrapper div.js-toprow div.js-data div.js-first-row span.js-jobtype-tablet{float: left;text-align: center;}
+	div#js_main_wrapper div.js_job_main_wrapper div.js_job_data_area div.js_job_data_3.myresume_folder span.js_job_data_2_created_myresume{float: unset; padding-right: 0px;}
+	div#js_main_wrapper div.js_job_main_wrapper div.js_job_data_area div.js_job_data_3.myresume_folder span.js_job_data_2_created_myresume.jobtype{float: left;}
+	/*myresumes newcss*/
+	div#js-jobs-resumelisting-wrapper div.js-resume-list div.js-topresume-area div.jsjobs-applyname{margin-left: 0px;}
+	div#js-jobs-resumelisting-wrapper div.js-resume-list div.js-topresume-area div.jsjobs-applyname span.jsjobs-titleresume a.jsjobs-anchor_resume{float: unset;}
+	div#js-jobs-resumelisting-wrapper div.js-resume-list div.js-topresume-area div.jsjobs-applyname span.jsjobs-fulltime-btn{float: unset;}
+	div#js-jobs-resumelisting-wrapper div.js-resume-list span.js-myresume-field-wrapper span.js-myresume-field-title {float: unset;}
+	div.js-resume-list div.myresume-complete-status div.complete-status-wrapper {text-align: center;float: unset;}
+	div#js-jobs-resumelisting-wrapper div.jsjobs-myresume-buttons span.jsjobs-myresumebtn {text-align: center;}
+	div.js-resume-list div.myresume-complete-status div.complete-status-wrapper div.myresume-graph .mytext {text-align: center;}
+	div#js-jobs-resumelisting-wrapper div.js-resume-list div.js-topresume-area div.jsjobs-applyname span.jsjobs-date-created{margin-right: 15px;}
+	div#js-jobs-resumelisting-wrapper div.js-resume-list div.jsjobs-resume-data-area{padding: 0px 10px;}
+}
+
+@media only screen and (min-width: 481px) and (max-width: 768px){
+	div#js-jobs-resumelisting-wrapper div.js-resume-list div.jsjobs-img-area div.js-myresume-last-modified {top: 165px;right: 160px;left: auto; }
+	div.js-resume-list div.myresume-complete-status div.complete-status-wrapper {text-align: center;float: right;}
+	div.js-resume-list div.myresume-complete-status div.complete-status-wrapper div.myresume-graph .mytext {text-align: center;}
+	div#jsjobs-main-wrapper div.jsjobs-cat-data-wrapper div#jsjobs-cat-mainblock {float: right !important;}
+	div#jsjobs-main-wrapper div.jsjobs-main-wrapper-listappliedjobs div.jsjobs-main-wrapper-appliedjobslist div.jsjobs-data-area div.jsjobs-data-2 span.jsjobs-shortlist {position: unset;margin-top: 10px;display: inline-block;}
+	div#js_main_wrapper div.js_job_main_wrapper div.bottom.js_job_folder_resume div.btn-view {float: left;text-align: left;}
+	div#js_menu_wrapper a.js_menu_link {float: right !important;}
+	div#jsjobs-main-wrapper div.jsjobs-main-wrapper-shortjoblist div.jsjobs-content-shortlist-area div.jsjobs-data-1 span.jsjobs-posted-days {text-align: right;}
+	div#jsjobs-main-wrapper div.jsjobs-main-wrapper-shortjoblist div.jsjobs-content-shortlist-area div.jsjobs-data-1 span.jsjobs-ratingjos {float: right !important;}
+	div#jsjobs-main-wrapper div.jsjobs-main-wrapper-shortjoblist div.jsjobs-content-shortlist-area div.jsjobs-data-1 span.jsjobs-posted-rating-main div#jsjobs_appliedresume_stars {float: right !important;}
+	div#jsjobs-main-wrapper div.jsjobs-main-wrapper-shortjoblist div.jsjobs-content-shortlist-area div.jsjobs-data-area-2 div.jsjobs-data-2-wrapper-jobsno {text-align: right;}
+	div#jsjobs-main-wrapper div.jsjobs-listing-wrapper div.jsjobs-messages-list div.jsjobs-message-title span.jsjobs-messages-covertitle span.jsjobs-message-created {float: right;text-align: right;}
+	div#jsjobs-main-wrapper div.jsjobs-folderinfon div.jsjobs-listfolders div.jsjobs-status-button span.jsjobs-message-created {float: right;text-align: right;}
+	div#jsjobs-main-wrapper div.jsjobs-main-wrapper-resume-searchresults div.jsjobs-resume-searchresults div.jsjobs-resume-search div.jsjobs-data-area div.jsjobs-data-2-wrapper-title span.jsjobs-posted {text-align: right;}
+	div.js_job_error_messages_wrapper div.message2 span.message-text {padding-right: 0%;text-align: center;}
+	div#js-jobs-wrapper div.js-toprow div.js-data div.js-first-row span.js-jobtype {text-align: right;padding-right: 15px;padding-left: 0;}
+	div#js-jobs-wrapper div.js-toprow div.js-data div.js-first-row span.js-jobsalary {text-align: right;padding-right: 15px;padding-left: 0;}
+	div#jsjobs-main-wrapper div.jsjobs-job-info div.jsjobs-right-raea {float: right;text-align: right;padding-left: 0px;padding-right: 130px;}
+	div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-myjobslist div.jsjobs-data-1 div.jsjobs-data-3-wrapper {text-align: right;}
+	div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-myjobslist div.jsjobs-data-1 div.jsjobs-data-3-myjob-no {text-align: right;}
+	div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-mydepartmentlist div.jsjob-main-department div.jsjobs-main-department-left span.jsjobs-coverletter-title span.jsjobs-coverletter-created {text-align:right;}
+	div#jsjobs-main-wrapper div.jsjobs-main-wrapper-listappliedjobs div.jsjobs-main-wrapper-appliedjobslist div.jsjobs-data-area div.jsjobs-data-2 span.jsjobs-shortlist{left:0px;top: unset;bottom: 138px;}
+	div#jsjobs-main-wrapper div.jsjobs-listing-wrapper div.jsjobs-jobs-save div.jsjobs-cover-button-area span.jsjobs-coverletter-created span.jsjobs-coverletter-created-title{float: right;}
+	div.jsjobs-listing-stats-wrapper table#js-table tbody tr td{text-align: right;}
+	div#jsjobs-main-wrapper div.jsjobs-package-data div.jsjobs-package-listing-wrapper div.jsjobs-description span.jsjobs-description-title{width: unset;}
+	div#jsjobs-main-wrapper div.jsjobs-package-data div.jsjobs-package-listing-wrapper div.jsjobs-description span.jsjobs-description-value{width: unset;}
+	div#jsjobs-main-wrapper div.jsjobs-listing-main-wrapper div.jsjobs-listing-area span.jsjobs-coverletter-title {width: 100%;}
+	div#jsjobs-main-wrapper div.jsjobs-listing-main-wrapper div.jsjobs-listing-area div.jsjobs-coverletter-button-area {float: right;width: 100%;}
+	div#jsjobs-main-wrapper div.jsjobs-listing-main-wrapper div.jsjobs-listing-area div.jsjobs-coverletter-button-area span.jsjobs-coverletter-created {text-align: right;}
+	div#jsjobs-main-wrapper div.jsjobs-package-data div.jsjobs-package-listing-wrapper div.jsjobs-description{margin-left: 2%;}
+}
+@media(min-width: 481px) and (max-width: 670px) {
+	div#js_menu_wrapper a.js_menu_link {float: right !important;}
+	div.companies.filterwrapper input.jsjobs-reset {margin-right: 2%;}
+	div.companies.filterwrapper input.jsjobs-go {margin-left: 2%;margin-right: 0%;}
+	div#jsjobs-main-wrapper div.jsjobs-listing-wrapper div.jsjobs-messages-list div.jsjobs-message-title span.jsjobs-messages-covertitle span.jsjobs-message-created {text-align: right;}
+	div#jsjobs-main-wrapper div.jsjobs-main-wrapper-listappliedjobs div.jsjobs-main-wrapper-appliedjobslist div.jsjobs-data-area div.jsjobs-data-1 span.jsjobs-posted{text-align: right;margin-right: 0px;}
+	div#js-jobs-wrapper div.js-toprow div.js-data div.js-first-row span.js-title span.js-status{float: right;}
+	div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-mydepartmentlist div.jsjob-main-department div.jsjobs-main-department-left span.jsjobs-coverletter-title span.jsjobs-coverletter-created {text-align:right;}
+	div#jsjobs-main-wrapper div.jsjobs-main-wrapper-listappliedjobs div.jsjobs-main-wrapper-appliedjobslist div.jsjobs-data-area div.jsjobs-data-2 span.jsjobs-shortlist{left:0px;top: unset;bottom: 118px;}
+	div#js-jobs-wrapper div.js-toprow div.js-data div.js-first-row span.js-jobtype span.js-type{float: left; width: unset; text-align: center;}
+	div#jsjobs-main-wrapper div#jsjobs-emp-cp-wrapper div.jsjobs-cp-toprow a.menu_style span.jsjobs-img{float: right;padding-right: 5px;}
+	div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-myjobslist div.jsjobs-data-1 span.jsjobs-posted{width: unset;}
+	/*div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-myjobslist div.jsjobs-data-1 span.jsjobs-jobs-types{float: left;}*/
+	div#jsjobs-main-wrapper div.jsjobs-folderinfo div.jsjobs-main-myjobslist div.jsjobs-data-area div.jsjobs-data-3-myjob-no span.jsjobs-noof-jobs{margin-bottom: 3px;}
+	div#js_main_wrapper div.js_job_main_wrapper div.js_job_data_area div.js_job_data_3.myresume_folder span.js_job_data_2_created_myresume{float: left; padding-right: 5px;}
+	div#js_main_wrapper div.js_job_main_wrapper div.js_job_data_area div.js_job_data_3.myresume_folder span.js_job_data_2_created_myresume.jobtype{float: left;}
+}

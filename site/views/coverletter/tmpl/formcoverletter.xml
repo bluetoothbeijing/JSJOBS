@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+    <fields name="request">
+        <fieldset name="request">
+            <field
+                name="c"
+                type="hidden"
+                default="coverletter"
+            />
+        </fieldset>
+    </fields>	
+    <layout title="New Cover Letter Form">
+        <message>
+			<![CDATA[New cover letter form.]]>
+        </message>
+    </layout>
+    <state>
+        <name>New Cover Letter Form</name>
+        <description>New cover letter form.</description>
+    </state>
+</metadata>

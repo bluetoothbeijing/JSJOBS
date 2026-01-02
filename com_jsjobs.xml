@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="component" version="2.5.0" method="upgrade">
+	<name>COM_JSJOBS</name>
+	<creationDate>December 15th, 2025</creationDate>
+	<author>Joom Sky</author>
+	<authorEmail>ahmad@joomsky.com</authorEmail>
+	<authorURL>www.joomsky.com</authorURL>
+	<copyright>Copyright (c) 2025. All rights reserved.</copyright>
+	<license>GNU/GPL http://www.gnu.org/copyleft/gpl.html</license>
+	<version>1.4.7</version>
+	<description>A Job Board Component.</description>>
+	<scriptfile>script.php</scriptfile>
+	<updateservers>
+		<server type="extension" priority="2" name="JS Jobs">https://www.joomsky.com/jedupdates/js-jobs/js-jobs.xml</server>
+	</updateservers>
+
+	<install>
+		<sql>
+			<file driver="mysql" charset="utf8">sql/install.mysql.utf.sql</file>
+		</sql>
+	</install>
+	<uninstall>
+		<sql>
+			<file driver="mysql" charset="utf8">sql/uninstall.mysql.utf.sql</file>
+		</sql>
+	</uninstall>
+
+	<update> <!-- Runs on update; New in 2.5 -->
+		<schemas>
+			<schemapath type="mysql">sql/updates/mysql</schemapath>
+		</schemas>
+	</update>
+
+	<administration>
+		<menu img="../administrator/components/com_jsjobs/include/images/js.png" link="option=com_jsjobs">JS_JOBS</menu>
+		<files folder="admin">
+			<filename>admin.jsjobs.php</filename>
+			<filename>jsjobs.php</filename>
+			<filename>controller.php</filename>
+			<filename>JSApplication.php</filename>
+			<filename>index.html</filename>
+			<filename>config.xml</filename>
+			<filename>access.xml</filename>
+			<folder>controllers</folder>
+			<folder>models</folder>
+			<folder>tables</folder>
+			<folder>include</folder>
+			<folder>views</folder>
+			<folder>sql</folder>
+			<folder>extensions</folder>
+		</files>
+		<languages folder="admin/languages">
+			<language tag="en-GB">en-GB.com_jsjobs.ini</language>
+      		<language tag="en-GB">en-GB.com_jsjobs.sys.ini</language>
+      		<language tag="de-DE">de-DE.com_jsjobs.ini</language>
+      		<language tag="es-ES">es-ES.com_jsjobs.ini</language>
+			<language tag="fr-FR">fr-FR.com_jsjobs.ini</language>
+      		<language tag="it-IT">it-IT.com_jsjobs.ini</language>
+      		<language tag="nl-NL">nl-NL.com_jsjobs.ini</language>
+			<language tag="pt-BR">pt-BR.com_jsjobs.ini</language>
+      		<language tag="ru-RU">ru-RU.com_jsjobs.ini</language>
+      		<language tag="uk-UA">uk-UA.com_jsjobs.ini</language>
+		</languages>
+	</administration>
+	<files folder="site">
+		<filename>controller.php</filename>
+		<filename>jsjobs.php</filename>
+		<filename>router.php</filename>
+		<filename>JSApplication.php</filename>
+		<filename>index.html</filename>
+		<folder>controllers</folder>
+		<folder>models</folder>
+		<folder>css</folder>
+		<folder>images</folder>
+		<folder>themes</folder>
+		<folder>js</folder>
+		<folder>views</folder>
+
+	</files>
+	<languages folder="site/languages">
+		<language tag="en-GB">en-GB.com_jsjobs.ini</language>
+	</languages>
+
+</extension>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="Erase User Data Request">
+		<message>
+			<![CDATA[Erase User Data Request.]]>
+		</message>
+	</layout>
+	<state>
+		<name>Erase User Data Request</name>
+		<description>Erase User Data Request.</description>
+	</state>
+</metadata>

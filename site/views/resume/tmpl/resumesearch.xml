@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+    <fields name="request">
+        <fieldset name="request">
+            <field
+                name="c"
+                type="hidden"
+                default="resume"
+            />
+        </fieldset>
+    </fields>	
+    <layout title="Resume Search">
+        <message>
+			<![CDATA[Search Resume.]]>
+        </message>
+    </layout>
+    <state>
+        <name>Resume Search</name>
+        <description>Resume search.</description>
+    </state>
+</metadata>

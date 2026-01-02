@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+    <fields name="request">
+        <fieldset name="request">
+            <field
+                name="c"
+                type="hidden"
+                default="job"
+            />
+        </fieldset>
+    </fields>	
+    <layout title="New Job Posting Form">
+        <message>
+			<![CDATA[New job posting form.]]>
+        </message>
+    </layout>
+    <state>
+        <name>New job posting</name>
+        <description>New job posting Form.</description>
+    </state>
+</metadata>

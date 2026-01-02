@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+    <fields name="request">
+        <fieldset name="request">
+            <field
+                name="c"
+                type="hidden"
+                default="category"
+            />
+        </fieldset>
+    </fields>	
+    <layout title="List Jobs by Category">
+        <message>
+			<![CDATA[List jobs by categoy.]]>
+        </message>
+    </layout>
+    <state>
+        <name>List Jobs by Categories</name>
+        <description>List jobs by categories.</description>
+    </state>
+</metadata>

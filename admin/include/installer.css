@@ -1,0 +1,92 @@
+div#jsjob_installer_outerwrap{display:block;background:url(images/instbar.png);margin-top:0px;height:211px}
+div#jsjob_installer_outerwrap_after{display:block;background:url(images/ainstbar.png);margin-top: 0px;height:211px;}
+div#jsjob_installer_outerwrap:after{display:block;clear:both;content:" ";}
+div#jsjob_installer_leftimage{float:left;width:60%;height:211px;background:url(images/instleftImage.png) no-repeat ;}
+div#jsjob_installer_leftimage_after{float:left;width:60%;height:211px;background:url(images/ainstleftImage.png) no-repeat ;}
+span#jsjob_installer_leftimage_logo{float:left;width:201px;height:64px;margin-top:5%;margin-left:5%;background:url(images/instlogo.png) no-repeat;}
+div#jsjob_installer_wrap{float:left;width:39%;padding:40px 0px 0px 0px;}
+span#installer_text,
+span#jsjob_installer_helptext{display:block;text-align:center;margin-right:20px;font-size:16px;color:#000000;margin-bottom:20px;display: none;}
+span#jsjob_installer_helptext{text-align:left;margin:0px;margin-bottom: 10px;}
+span#jsjob_installer_helptext_after{display:block;text-align:center;margin-right:20px;font-size:16px;color:#01695d;margin-bottom:20px;}
+label#transactionkeymsg{font-size:20px;color:#333333;font-weight:bold;text-shadow:1px 0px 0px #ffffff;margin-top:8px;}
+label#transactionkeymsg_after{font-weight:bold;margin-top:5px;}
+input#jsjob_instbutton{width:60px;height:35px;border:none;background: rgba(0, 0, 0, 0) url("images/header_bg.png") repeat-x scroll 0 0;color:#FFF;font-weight:bold;font-size:12px;margin-left:4px;}
+input#jsjob_instbutton_after{min-width: 150px;border: 1px solid transparent;padding: 12px 0px;background-color: #1668AB;color: #fff;box-shadow: 1px 1px 4px 2px #2c2929;font-size: 17px;border-radius: 30px;}
+input#jsjob_instbutton.orange{width:120px;height:43px;line-height:43px;border:none;border-radius:4px;background:url(images/instbuttonorg.png);color:#ffffff;font-weight:bold;font-size:25px;text-shadow:-1px -1px 0 #000,1px -1px 0 #000,-1px 1px 0 #000,1px 1px 0 #000;}
+div#jsjob_installer_formlabel{width:48%;float:left;margin-right:2%;text-align:right;display: none;}
+div#jsjob_installer_forminput{width: 100%;float: left;padding: 30px 0;position: relative;}
+div#jsjob_installer_forminput select{width: 100%;border: 1px solid white;border-radius: 0;background: transparent;padding: 10px 5px;height: auto;margin: auto;color: #fff;}
+div#jsjob_installer_forminput select option{color:#000;}
+div#jsjob_installer_formsubmitbutton{width: 100%;float: left;text-align: center;margin: 20px 0px 100px 0px;}
+div#jsjob_installer_msg{display:block;line-height:24px;height:29px;text-align:center;font-size:14px;font-weight:bold;background:url(images/insttopbar.png) repeat-x top left;color:#000000;}
+div#jsjob_installer_waiting_div{width:100%;height:50%;position:fixed;z-index:10004;background:url(images/loading.gif) center center no-repeat #F4F4F4;top:0;bottom:0;left:0;opacity:.4;text-align:center;padding-top:50%;}
+span#jsjob_installer_waiting_span{width:100%;height:50%;position:fixed;z-index:10005;top:0;bottom:0;left:0;opacity:1;text-align:center;padding-top:50%;color:#4a7ba1;opacity:1;}
+span#jsjob_installer_topheading{display:block;text-align:center;color:#ffffff;background:url(images/title.gif);font-size:18px;border-radius:8px 8px 0px 0px;height:25px;line-height:25px;}
+div#jsjob_installer_warning{display:block;margin-right:20%;text-align:right;font-size:40px;color:#B31212;font-weight:bold;height:42px;line-height:40px;margin-bottom:10px;background: -webkit-linear-gradient(#d94153,#5d020d);-webkit-background-clip: text;-webkit-text-fill-color: transparent;}
+div#jsjob_installer_warningmsg{display:block;text-align:right;font-size:20px;color:#cd041c;font-weight:bold;height:20px;line-height:20px;margin-right:20px;font-style:italic;}
+div#jsjob_installer_lowerbar{display:block;background:url(images/insttopbar.png)repeat top left;height:29px;}
+span#jsjob_installer_arrow{background:url(images/instrefarrow.png);text-align:center;width:203px;height:42px;display:inline-block;line-height:42px;font-weight:bold;text-shadow:-1px -1px 0 #000,1px -1px 0 #000,-1px 1px 0 #000,1px 1px 0 #000;color:#ffffff;font-size:18px;margin-left:20px;}
+span#jsjob_installer_link{text-align:center;height:42px;display:inline-block;line-height:42px;font-weight:bold;text-shadow:-1px -1px 0 #000,1px -1px 0 #000,-1px 1px 0 #000,1px 1px 0 #000;color:#ffffff;font-size:18px;margin-left:20px;}
+span#jsjob_installer_link a{display:inline-block;line-height:42px;font-weight:bold;text-shadow:-1px -1px 0 #000,1px -1px 0 #000,-1px 1px 0 #000,1px 1px 0 #000;color:#ffffff !important;font-size:18px;margin-left:20px;}
+span#jsjob_installer_mintmsg{display:block;text-align:right;line-height:29px;color:#333333 !important;font-size:18px;margin-right:20px;}
+span#jsjob_installer_mintmsg_after{display:block;text-align:right;line-height:29px;color:#01695d !important;font-size:18px;margin-right:20px;}
+div.js_installer_wrapper{width:100%;margin:10px 0px;;display:inline-block;}
+div.js_installer_wrapper div.update-header-img{position:relative;}
+div.js_installer_wrapper span.error-span{display:inline-block;color:#df3511;margin:0px;padding:4px;font-size:13px;min-height:0px;;width: 96%;margin: 0px 1%;}
+div.js_installer_wrapper div.js_heading_bar{display:inline-block;width:97%;padding:5px 2%;margin:5px 1.5% 2px;}
+div.js_installer_wrapper div.js_heading_bar span.title{display:inline-block;width:50%;padding:5px 0px;font-weight:bold;float:left;color:#3f3d3e;}
+div.js_installer_wrapper div.js_heading_bar span.recommended{display:inline-block;width:25%;padding:5px 0px;font-weight:bold;float:left;text-align: center;color:#3f3d3e;border-left:2px solid #CCC;border-right:2px solid #CCC;}
+div.js_installer_wrapper div.js_heading_bar span.current{display:inline-block;width:25%;padding:5px 0px;font-weight:bold;text-align: center;color:#3f3d3e;}
+div.js_installer_wrapper div.js_heading_bar span.current.valid{color:#11893b;}
+div.js_installer_wrapper div.js_heading_bar span.current.invalid{color:#df3511;}
+div.js_installer_wrapper div.js_data_bar{display:inline-block;width:97%;padding:5px 2%;margin:2px 1.5%;}
+div.js_installer_wrapper div.js_data_bar span.title{display:inline-block;width:50%;padding:5px 0px;float:left;color:#222222;}
+div.js_installer_wrapper div.js_data_bar span.recommended{display:inline-block;width:25%;padding:5px 0px;font-weight:bold;float:left;text-align: center;border-left:2px solid #CCC;border-right:2px solid #CCC; }
+div.js_installer_wrapper div.js_data_bar span.current{display:inline-block;width:25%;padding:5px 0px;font-weight:bold;text-align: center;}
+div.js_installer_wrapper div.js_data_bar span.current.valid{color:#11893b;}
+div.js_installer_wrapper div.js_data_bar span.current.invalid{color:#df3511;}
+div.js_installer_formwrapper{display: inline-block;width:100%;}
+div.js_installer_formwrapper div#jsjob_installer_formlabel{display: inline-block;width:auto;float:left;}
+div.js_installer_formwrapper div#jsjob_installer_formlabel label#transactionkeymsg{font-size:13px;}
+div.js_installer_formwrapper div#jsjob_installer_forminput{display: inline-block;width:70%;float:left;}
+div.js_installer_formwrapper div#jsjob_installer_forminput input#transactionkey{display: inline-block;width:90%;float:left;}
+div.js_header_bar{display: inline-block;width: 100%;background:#0073AA;padding: 15px 2%;font-size:16px;font-weight: bold;margin-bottom: 10px;color:#ffffff;}
+img.js_progress{width:100%;height: auto;margin: 5px 0px 10px 0px;}
+div.installer_heading{display:inline-block;width:100%;background:#e7e7e7;padding: 10px 2%;margin:5px 0px;font-size: 16px;font-weight: bold;}
+div.js_data_bar{border:1px solid #cccccc;background:#ffffff;padding:10px 5px;margin-bottom: 5px;}
+div.js_heading_bar{border:1px solid #CCCCCC;background:#F1F1F1;padding:10px 5px;margin-bottom: 5px;}
+div.js_button_wrapper{padding:10px;text-align:center;padding-top:35px;}
+div.js_button_wrapper input.js_next_button{background:#41a7da;padding:8px 35px;border:0px;outline: 0px;color:#ffffff;border:1px solid #0073aa;font-weight:bold;}
+div.js_wrapper{width: 50%;margin:auto;}
+span#error_message{width:57%;margin:10px 20%;padding:10px;padding-left:50px;display:inline-block;border: 1px solid #E75158;color:#BD0303;background:url(images/cross.png) no-repeat 10px 5px #FFBABA;}
+div#versiondata form#adminForm{display:inline-block;width:60%;margin:10px 20%;padding:10px;box-shadow: 0px 0px 16px #ababab;}
+div.js_message_wrapper{width:96%;padding:2%;background:#F9F9F9;}
+div.js_message_wrapper div.js_final_step{width:96%;padding:2%;background:#ffffff;margin-bottom: 5px;border:1px solid #D0D0D0;font-size: 16px;font-weight: bold;}
+div.js_message_wrapper div.js_final_step.green{color:#000000;}
+div.js_message_wrapper div.js_final_step.red{color:#DC6161;}
+div.js_message_wrapper div.js_final_step img{margin:0px 10px;}
+div.ahmed_users{display: inline-block;width: 92%;margin:0px 2%;margin-top: 10px;font-size:14px;font-weight:normal;background:#F9F9F9;border-radius: 5px;border:1px solid #e7e7e7;padding:2%;}
+div.ahmed_users span.ahmed_users_title{border-bottom: 1px solid #e7e7e7;padding-bottom: 4px;margin-bottom: 5px;display:block;font-weight:bold;}
+div.ahmed_user_wrapper{display: inline-block;width:100%;}
+div.ahmed_user_title span.col1{display: inline-block;width:48%;float: left;padding:5px 0px;margin-left: 2%;font-weight: bold;color:#126AA0;}
+div.ahmed_user_data{display:inline-block;width:100%;}
+div.ahmed_user_data span.col1{display: inline-block;width:47%;padding:1%;border:1px solid #e7e7e7;background:#ffffff;float:left;}
+
+
+div.js_installer_wrapper div.update-header-img{width:100%;display:inline-block;border:1px solid #CCC;margin-bottom: 12px;}
+div.js_installer_wrapper div.update-header-img div.header-parts{display:inline-block;position:relative;padding:6px}
+div.js_installer_wrapper div.update-header-img div.header-parts img{width:100%;height:80px;}
+div.js_installer_wrapper div.update-header-img div.header-parts span.text-no{position:absolute;left:43px;top:38px;color:#FFF;font-weight:bold;font-size:30px;}
+div.js_installer_wrapper div.update-header-img div.header-parts span.text{position:absolute;left:105px;top:37px;color:#3F3D3E;font-weight:bold;font-size:16px;}
+
+div.js_installer_wrapper div.step-1 div.first-part span.text,
+div.js_installer_wrapper div.step-2 div.first-part span.text,
+div.js_installer_wrapper div.step-2 div.second-part span.text,
+div.js_installer_wrapper div.step-3 div.first-part span.text,
+div.js_installer_wrapper div.step-3 div.second-part span.text,
+div.js_installer_wrapper div.step-3 div.third-part span.text{color:#FFF;}
+div.js_installer_wrapper div.installer-bottom-part{display:inline-block;width:100%;border:1px solid #CCC;border-top:none;}
+@media all and (max-width:480px){
+	div.js_installer_wrapper div.update-header-img div.header-parts{width: 100%;}
+}

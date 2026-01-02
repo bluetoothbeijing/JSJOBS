@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+    <fields name="request">
+        <fieldset name="request">
+            <field
+                name="c"
+                type="hidden"
+                default="employer"
+            />
+        </fieldset>
+    </fields>	
+    <layout title="Employer Control Panel">
+        <message>
+			<![CDATA[Employer control panel.]]>
+        </message>
+    </layout>
+    <state>
+        <name>Employer Control Panel</name>
+        <description>Employer Control Panel.</description>
+    </state>
+</metadata>

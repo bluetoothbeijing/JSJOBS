@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+   <fields name="request">
+       <fieldset name="request">
+           <field
+               name="c"
+               type="hidden"
+               default="job"
+           />
+       </fieldset>
+   </fields>
+   <layout title="Jobs">
+       <message>
+<![CDATA[List jobs.]]>
+       </message>
+   </layout>
+   <state>
+       <name>Jobs</name>
+       <description>List jobs</description>
+   </state>
+</metadata>

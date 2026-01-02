@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+    <fields name="request">
+        <fieldset name="request">
+            <field
+                name="c"
+                type="hidden"
+                default="company"
+            />
+        </fieldset>
+    </fields>	
+    <layout title="New Company Form">
+        <message>
+			<![CDATA[New company form.]]>
+        </message>
+    </layout>
+    <state>
+        <name>New company</name>
+        <description>New Company Form.</description>
+    </state>
+</metadata>

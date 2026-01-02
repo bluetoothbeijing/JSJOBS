@@ -1,0 +1,639 @@
+div#jsjobs-wrapper div#jsjobs-menu{left: unset; right: 0;}
+table#js-table tbody tr td.emailtemp_heading {text-align: right;}
+div#jsstadmin-logo a {float: right;}
+div#jsstadmin-logo img#jsstadmin-menu-toggle {float: left;}
+ul#js-tk-links li a span.jsst_text {padding-left: 0px;padding-right: 35px;}
+ul#js-tk-links li ul.js-innerlink {margin: 5px 30px 10px 0px;display: none;padding-left: unset;padding-right: 32px;}
+ul#js-tk-links li a:not(.jsst_js-install-btn) {border-right: 3px solid transparent;border-left: none !important;}
+ul#js-tk-links li a.js-child.disable-child img {float: left;}
+div#jsjobs-menu a.jsst_menu-pro-btn {left: 20px;right: unset;}
+ul#js-tk-links > li > a:not(.jsst_js-install-btn):hover, ul#js-tk-links > li.active > a:not(.jsst_js-install-btn) {border-right: 3px solid #1572e8;border-left: none !important;}
+div#jsjobs-wrapper:not(.menu-collasped-active) div#jsjobs-menu ul#js-tk-links li.treeview:hover ul.js-innerlink:before {left: auto;right: -5px;}
+div#jsjobs-wrapper:not(.menu-collasped-active) div#jsjobs-menu ul#js-tk-links li.treeview:hover ul.js-innerlink {right: 60px;left: auto;}
+div#jsjobs-wrapper div#jsjobs-content{padding-left: 0px; padding-right: 70px;}
+div#jsjobs-wrapper.menu-collasped-active div#jsjobs-content {padding-right: 270px;padding-left: 0px;}
+div#jsjobs-wrapper-top-left {float: right;}
+div#jsjobs-wrapper-top-right {float: left;}
+div#jsjobs-config-btn {float: right;}
+div#jsjobs-help-btn {float: right;margin-left: unset;margin-right: 5px;}
+div#jsjobs-vers-txt {float: right;margin-left: 0px;margin-right: 5px;}
+div#jsjobs-wrapper div#jsjobs-menu div#js-tk-links .js-divlink a{float: right;}
+div#jsjobs-wrapper div#jsjobs-menu div#js-tk-links div.js-innerlink a.js-child{margin: 0px;width: 100%;}
+div#jsjobs-wrapper div#jsjobs-menu div#js-tk-links .js-divlink a.js-parent span.text img.arrow{-ms-transform: rotate(180deg); -webkit-transform: rotate(180deg); transform: rotate(180deg);margin-right: 0px;margin-left: -10px; float: left; margin-top: 6px;}
+div#jsjobs-wrapper div#jsjobs-menu div#js-tk-links div.js-divlink div.js-innerlink{display: inline-block;float: left;width: 100%;padding-right: 65px;}
+div#jsjobs-wrapper div.dashboard span.dashboard-icon{right: unset;left: 10px;}
+div#jsjobs-wrapper div#jsjobs-content div.count2 div.bold-text{text-align: right;}
+div#jsjobs-wrapper div#jsjobs-admin-wrapper div.count1 img{float: right;}
+div#jsjobs-head .jsjobs-head-text {float: right;}
+div#jsjobs-wrapper div#jsjobs-admin-wrapper div.count1 div.box {float: right;}
+div#jsjobs-wrapper div#jsjobs-admin-wrapper div.count1 img.left-icon {float: right;}
+div#jsjobs-head a.jsjobs-add-link {float: left !important;margin-left: 0px;margin-right: 8px;}
+div#jsjobs-wrapper div#jsjobs-admin-wrapper div.count1 div.text {left: 20px;right: auto;}
+div#jsjobs-wrapper div#jsjobs-admin-wrapper div.count1 div.box div.box-footer a{float: none !important;}
+div#jsjobs-wrapper div#jsjobs-admin-wrapper div.count1 div.box div.box-footer span.box-footer-left {float: right;}
+div#jsjobs-wrapper div#jsjobs-admin-wrapper div.count1 div.box div.box-footer span.box-footer-right {float: right;text-align: left;}
+div#jsjobs-wrapper div#jsjobs-admin-wrapper div.count1 img {float: left;transform: scaleX(-1);}
+div.js-cp-cnt-left {float: right;padding-right: 0px;padding-left: 20px;}
+div.js-cp-cnt-right {float: right;}
+div#jsjobs-wrapper div.js-cp-cnt-title span.js-cp-cnt-title-txt {float: right;}
+div#js-wrapper-menus a.js-admin-menu-link img.jsmenu-img {margin-right: 0;margin-left: 5px;}
+div#js-wrapper-menus a.js-admin-menu-link div.js-mnu-arrowicon {left: 12px;right: auto;}
+div#js-wrapper-menus a.js-admin-menu-link:first-child div.js-mnu-arrowicon {right: 12px;right: auto;}
+.js-cp-baner-left {float: right;}
+.js-cp-baner-center {float: right;margin-left: 0;margin-right: 15px;}
+.js-cp-baner-right {float: right;margin-left: 0;margin-right: 15px;}
+div.js-cp-baner div.js-cp-baner-cnt {transform: scaleX(-1);}
+div#js-wrapper-menus a.js-admin-menu-link div.js-mnu-arrowicon img{transform: scaleX(-1);}
+.js-cp-baner-left div.js-cp-baner {transform: scaleX(-1);}
+div.js-cp-baner-left div.js-cp-baner div.js-cp-baner-cnt div.js-cp-banner-btn-wrp a.js-cp-banner-btn {float: right;}
+div#jsjobs-wrapper div.js-cp-cnt-title a.js-cp-cnt-title-btn {float: left;}
+div.js-cp-job-list div.js-cp-job-list-footer .js-cp-job-list-footer-btn-wrp {float: right;margin-right: 0;margin-left: 5px;}
+div.js-cp-job-list div.js-cp-job-list-left {float: right;}
+div.js-cp-job-list div.js-cp-job-list-right {float: right;width: 50%;}
+div.js-cp-job-list div.js-cp-job-list-left div.js-cp-job-image {float: right;margin: 5px 0px 0 10px;}
+div.js-cp-job-list div.js-cp-job-list-left div.js-cp-job-cnt {float: right;padding: 5px 10px 0 0px;}
+div.js-cp-job-list div.js-cp-job-list-right span.js-cp-job-type {float: left;}
+div.js-cp-job-list div.js-cp-job-list-right div.js-cp-job-salary {float: left;text-align: left;}
+div.js-cp-job-list div.js-cp-job-list-left div.js-cp-job-cnt div.js-cp-job-info span.js-cp-job-info-label {margin-left: 25px;margin-right: 0px;}
+.js-cp-staff-baner-left {float: right;}
+.js-cp-staff-baner-center {float: right;margin-left: 0;margin-right: 15px;}
+.js-cp-staff-baner-right {float: right;margin-left: 0;margin-right: 15px;}
+.js-cp-staff-baner-right div.js-cp-baner {transform: scaleX(-1);}
+div.js-cp-baner-left div.js-cp-baner div.js-cp-baner-cnt div.js-cp-banner-btn-wrp a.js-cp-banner-btn img {margin-right: 0;margin-left: 3px;}
+div.js-cp-feedback-wrp {float: right;}
+div.js-cp-feedback-list div.js-cp-feedback div.js-cp-resume-image {float: right;}
+div.js-cp-feedback-list div.js-cp-feedback div.js-cp-resume-cnt {float: right;}
+div.js-cp-feedback-list div.js-cp-feedback a.js-cp-resume-btn {float: right;text-align: center !important;}
+div.js-cp-feedback-list div.js-cp-feedback div.js-cp-resume-cnt div.js-cp-resume-info {float: right;}
+div.js-cp-feedback-list div.js-cp-feedback div.js-cp-company-image {float: right;margin: 0px 0px 0 10px;}
+div.js-cp-feedback-footer div.js-cp-feedback-cnt-footer a {float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobs_filter_wrapper span.jsjobs-filter{float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobs_filter_wrapper span.jsjobs-filter input {float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobs_filter_wrapper span.jsjobs-filter select {float: right;background-position: calc(100% - 95%);}
+div#jsjobs-wrapper div#jsjobs-content div.js-buttons-area .js-btn-save {margin-top: -6px;margin-right: 0px;margin-left: 5px;}
+div#jsjobs-head a.jsjobs-add-link img {margin-right: 0px;margin-left: 3px;}
+div#jsjobs-pagination-wrapper div.pagination-toolbar {float: left;}
+.pagination ul > li > span.icon-step-forward.icon-next {transform: scaleX(-1);}
+.pagination ul > li > span.icon-step-forward.icon-next {transform: scaleX(-1);}
+div#jsjobs-wrapper div#jsjobs-content div div#jsjob_configuration_wrapper div.jobs-config-value select {background-position: calc(100% - 95%);}
+div#jsjobs-wrapper div#jsjobs-content div#jsjob_configuration_wrapper {float: right;}
+div#jsjobs-wrapper div#jsjobs-content div.socialconfig_block div.socialconfig_content {float: right;margin-right: 0px;}
+div#jsjobs-wrapper div#jsjobs-content div.socialconfig_block {float: right;}
+div#jsjobs-wrapper div#jsjobs-content div div#jsjob_configuration_wrapper div.jobs-config-value label.jobs-mini-descp{float: right;}
+div#jsjobs-wrapper div#jsjobs-heading div.left_side {float: right;border-left: 1px solid #ffffff;border-right: none;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobs-heading div.right_side {float: right;width: 40%;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobs-heading div.right_side a#preset_theme {float: left;margin-right: 0px;margin-left: 20px;}
+div#jsjobs-wrapper div#cron_job_detail_wrapper span.crown_text_left {float: right;padding-left: 0;padding-right: 1%;}
+div#jsjobs-wrapper div#cron_job_detail_wrapper span.crown_text_right {float: left;text-align: right;padding-right: 0;padding-left: 1%;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobs_filter_wrapper div.jsjobs-filter-btn-wrp {float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobs_filter_wrapper span.jsjobs-filter div.input-append input {margin-right: 0px;margin-left: 1px;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobs_filter_wrapper span.jsjobs-filter div.input-append button {margin-right: -2px;margin-left: 2px;border-left: 1px solid #ebecec;border-right: none;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobs_filter_wrapper span.jsjobs-filter button {float: right;}
+div#checkallbox-main div#checkallbox {margin-right: 0px;margin-left: 5px;float: right;}
+div#checkallbox-main div#checkallbox span.selectallbox-text {float: left;margin: 3px 5px 3px 0px;}
+div#jsstadmin-data-wrp div.js-admin-head-txt {float: right;}
+div#jsstadmin-data-wrp span#sorting-wrapper {float: left;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-left a.jsjobs-leftimg {float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-left div#jsjobslist-comp-body {float: right;padding: 3px 20px 0 0px;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right {float: right;}
+div#jsstadmin-data-wrp span#sorting-wrapper span#sorting-bar1 select#js_sortby {float: right;}
+div#jsstadmin-data-wrp span#sorting-wrapper span#sortimage a {float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right div#jsjobslist-comp-header span.datablockhead-right {float: left;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right div#jsjobslist-comp-header div#innerheaderlefti {margin: 22px 0px 0 5px;}
+div#jsjobs-wrapper div#jsjobs-content div.js-form-area div.js-form-wrapper div.jsjobs-value a#employer-popup {right: auto;left: 0;}
+div#jsjobs-wrapper div#jsjobs-content div.js-form-area div.js-form-wrapper div.jsjobs-value select.inputbox {float: right;background-position: calc(100% - 95%);}
+li.jsjobs-input-input-token-jsjobs {float: right;}
+div#jsjobs-wrapper div#jsjobs-content div.js-form-area div.js-form-wrapper div.jsjobs-value input.inputbox {float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right div#jsjobslist-comp-header div#innerheaderlefti span.datablockhead-date {padding-top: 18px;float: right;width: auto;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right div#jsjobslist-comp-header div#innerheaderlefti span.datablockhead-date {float: right;}
+div#jsjobs-wrapper div#jsjobs-content span#js-queues-statuses span.q-self {float: right;}
+table#js-table tr td {padding: 15px 20px 15px 15px;border-right: none ;border-left:1px solid #ebecec !important;}
+div#jsjobs-wrapper div#jsjobs-content div.js-form-area div.js-form-wrapper {float: right;}
+div.js-myjob-link {float: right;}
+div.js-job-top-cirlce-count-wrp div.js-myjob-link div.js-job-circle-count-text{text-align: center !important;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-left a.jsjobs-img {float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right div#jsjobslist-comp-header.jsjobslist-comp-header-wrp {right: auto;left: 85px;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right div#jsjobslist-comp-header {float: right;}
+div#jsjobs-top-comp-right div#jsjobslist-comp-header span.datablockhead-right span.rightcorner span.listheadrightcorner-green {float: left;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right div.js-cp-job-type {float: left;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right div.js-cp-job-salary {float: left;text-align: left;}
+div#jsjobs-wrapper div#jsjobs-content div.js-form-area div.js-form-wrapper div.jsjobs-value select#salaryrangetype {margin-left: 0px;margin-right: 10px;}
+div#jsjobs-wrapper div#jsjobs-content div.js-form-area div.js-form-wrapper div.jsjobs-value select#ageto {margin-left: 0px;margin-right: 10px;}
+div#jsjobs-wrapper div#jsjobs-content div.js-form-area div.js-form-wrapper div.jsjobs-value select#salaryrangeto {margin-left: 0px;margin-right: 10px;}
+div#jsjobs-wrapper div#jsjobs-content div.js-form-area div.js-form-wrapper div.jsjobs-value select#salaryrangefrom {margin-left: 0px;margin-right: 10px;}
+div#jsjobs-wrapper div#jsjobs-content div.js-form-area div.js-form-wrapper div.jsjobs-value ul.jsjobs-input-list-jsjobs{float: right;}
+li.jsjobs-input-token-jsjobs{float: right;}
+div#jsjobs-wrapper div#jsjobs-content div.js-form-area div.js-form-wrapper div.jsjobs-value span#mylattitude {float: right;margin-right: 0px;margin-left: 5px;}
+div#jsjobs-wrapper div#jsjobs-content div.js-form-area div.js-form-wrapper div.jsjobs-value {float: right;}
+div#jsjobs-content div.js-form-area div.js-form-wrapper div.jsjobs-value label {margin-left: 10px;margin-right: 0px;}
+div#jsjobs-wrapper div#jsjobs-content div.js-form-area div.js-form-wrapper div.jsjobs-value span#mylattitude input#latitude {margin-right: 0px;margin-left: 5px;}
+div#jsjobs-wrapper div#jsjobs-content div.js-form-area div.js-form-wrapper div.jsjobs-value span#mylongitude {float: right;}
+div#jsjobs-wrapper div#jsjobs-content div.js-form-area div.js-form-wrapper div.jsjobs-value.js-jobs-main-wrp label {margin-right: 10px;}
+.padding-right{padding-right: 0px;padding-left: 15px;}
+div#jsjobs-wrapper div#popup_main span.popup-top {float: right;}
+div#jsjobs-wrapper div#popup_main span.popup-top img#popup_cross {right: auto;left: 22px;}
+div#jsjobs-wrapper div#popup_main div.popup-field-wrapper div.popup-field-obj select {background-position: calc(100% - 95%);}
+div#jsjobs-wrapper div#popup_main div.popup-field-wrapper {float: right;}
+div#jsjobs-wrapper div#popup_main a#user-field-anchor{margin-left: 0;margin-right: 10px;}
+div#jsjobs-top-comp-left span.outer-circle {margin: 15px 15px 15px 0px !important;float: right !important;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobslist-comp-header span.jsjobs-faturedstatus {margin-right: 0px;margin-left: 10px;float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right_resume {padding-left: 23px;padding-right: 0px;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right_resume div#jsjobslist-comp-header {float: left;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right_resume div#jsjobslist-comp-header div#innerheaderlefti {right: auto;left: 97px;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobslist-comp-header span.featurednew {float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right_resume div#jsjobslist-comp-header span.rightcorner {float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right_resume div#jsjobslist-comp-header div.js-cp-job-type {float: left;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right_resume div#bottomleftnew-resume {float: left;text-align: left;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right_resume div#jsjobslist-comp-body {float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right_resume div#jsjobslist-comp-body span.datablock {float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right_resume div#jsjobslist-comp-body span.datablock.last-child {margin-right: 0px;margin-left: 15px;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-bottom-comp div#bottomleftnew-resume-wrp {float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-bottom-comp div#bottomleftnew-resume-wrp span.datablockhead-left {float: right;margin-left: 0px;margin-right: -1px;border-right: none;border-left: 1px solid #dedede;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-bottom-comp div#bottomrightnew-resume a.js-bottomspan {float: right;}
+div#js_resume_percentage div.js_image_area {float: right !important;}
+div#js_resume_percentage div.js_detail_area {float: right;}
+div#js_resume_percentage div.js_detail_area div.js-addnew-wrapper {padding-left: 15px;padding-right: 0px;float: right;}
+div#js_resume_percentage {float: right !important;padding: 20px 0px 20px 25px !important;}
+div#resumeform div.jssectionwrapper div.resumefieldswrapper .resumefieldvalue div.resumephoto {float: right !important;}
+div#resumeform div.jssectionwrapper div.resumefieldswrapper .resumefieldvalue div.photodetail {float: right !important;padding-left: 0px !important;padding-right: 15px !important;}
+div#resumeform div.jssectionwrapper div.resumefieldswrapper div.files-field span.upload_btn {right: auto !important;left: -1px;float: left !important;border-bottom-right-radius: 0px !important;border-bottom-left-radius: 3px !important;border-top-right-radius: 0px !important;border-top-left-radius: 3px !important;}
+div#resumeform div.jssectionwrapper div.resumefieldswrapper div.jsresume_seach_width {float: right !important;margin-right: 0px !important;margin-left: 10px !important;}
+div#resumeform div.jssectionwrapper div.resumefieldswrapper div.leftpaddingnull {padding-right: 0px !important;padding-left: 15px !important;float: right !important;}
+div#resumeform div.jsresume_addnewbutton {float: right !important;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobslist-comp-header span.goldnew {float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobslist-comp-header span.jsjobs-goldstatus {margin-right: 0px;margin-left: 10px;float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right_resume div#jsjobslist-comp-header div#innerheaderlefti.app-mrg-right {right: auto;left: 140px;}
+div.jsjob_premium_wrapper div.jsjobs-plugin-wrap {display: inline-block;width: 64%;margin: 50px 18% 0 0;}
+div#js-phd-data.js-phd-data div.js-phd-row div.js-phd-title {float: right;}
+div#js-phd-data.js-phd-data div.js-phd-row div.js-phd-value {float: right;}
+div#jsjobs-wrapper div#jsjobs-content div.js-form-area div.js-form-wrapper div.jsjobs-value a#user-popup {right: auto;left: 0;}
+#sbox-btn-close {;right: auto !important;left: 45px !important;}
+div#jsjobs-popup-wrap div.jsjobs-popup-search-area span.jsjobs-search span.jsjobs-button {float: right;}
+div#jsjobs-popup-wrap div.jsjobs-popup-search-area select#searchrole {background-position: calc(100% - 90%);}
+div#jsjobs-popup-wrap div.jsjobs-popup-search-area button#jsjobs-reset-btn {float: right;}
+div#jsjobs-wrapper div#jsjobs-content table#js-table.adminlist thead tr th.left {text-align: right;}
+div#jsjobs-wrapper div#jsjobs-content div.admin-massage-history-main div.massage-history-uper-area span.massage-history-img-area {float: right;}
+div#jsjobs-wrapper div#jsjobs-content div.admin-massage-history-main div.massage-history-uper-area span.massage-history-content-area {float: right;padding: 10px;padding-right: 0px;}
+div#jsjobs-wrapper div#jsjobs-content div.admin-massage-history-main div.massage-history-lower-area span.massage-history-edit span.massage-history-achor {float: left;padding: 3px 0px 3px 15px;}
+div#jsjobs-wrapper div#jsjobs-content div.admin-massage-history-main div.massage-history-lower-area span.massage-history-subject-area {float: right;}
+div#jsjobs-wrapper div#jsjobs-content div.admin-massage-history-main div.massage-history-lower-area span.massage-history-createddate-area {float: right;}
+div#jsjobs-wrapper div#jsjobs-content div.admin-massage-history-main div.massage-history-lower-area span.massage-history-massage-area span.massage-history-massage-area-value {width: 92%;float: right;}
+div#js-folderresume-wrapper div.js-fl-toprow div.js-fl-leftcol {float: right;}
+div#js-folderresume-wrapper div.js-fl-toprow div.js-fl-rightcol {float: right;}
+div#js-folderresume-wrapper div.js-fl-toprow div.js-fl-rightcol div.js-fl-valwrapper.last-child {margin-right: 0px;margin-left: 25px;float: right;}
+div#js-folderresume-wrapper div.js-fl-toprow div.js-fl-rightcol span.right-corner {right: auto;left: 60px;}
+div#js-folderresume-wrapper div.js-fl-toprow div.js-fl-rightcol span.right-corner span.js-fl-jobtype {float: left;}
+div#js-folderresume-wrapper div.js-fl-toprow div.js-fl-rightcol span.right-corner span#js-fl-created {float: left;text-align: left;}
+div#js-folderresume-wrapper div.js-fl-bottomrow a#js-fl-rvbtn {float: right;padding-left: 13px;margin-left: 0px;margin-right: 7px;}
+div#js-folderresume-wrapper div.js-fl-bottomrow div.js-fl-bottomrow-review {float: left;margin-right: 0px;margin-left: 40px;}
+div#js-folderresume-wrapper div.js-fl-toprow div.js-fl-leftcol div.js-fl-imgblock {margin: 15px 15px 15px 0px;float: right;}
+div#js-folderresume-wrapper div.js-fl-toprow div.js-fl-rightcol span.js-fl-value {margin-left: 0px;margin-right: 5px;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-listwrapper div#jsjobs-top-left span.outer-circle {margin-left: 0px;margin-right: 25px;float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-listwrapper span.js-idbottom-top {right: auto;left: 50px;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-listwrapper div#jsjobs-top-right .js-idbottom-top span.listheadright {float: right;margin-right: 15px;margin-left: 0px;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-listwrapper div#jsjobs-top-right .js-idbottom-top span.listheadright3 {float: right;margin-right: 10px;margin-left: 0px;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-listwrapper span.js-idbottom {right: auto;left: 50px;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right div#jsjobslist-comp-header.jsjobslist-rightalign{float: left !important;}
+div#jsjobs-wrapper div#jsjobs-admin-wrapper div.main-heading span.text{width: 100%;}
+div#jsjobs-wrapper div#jsjobs-admin-wrapper div.newestjobs table#js-table.newestjobtable thead tr th{text-align: right;}
+div#jsjobs-wrapper div#jsjobs-admin-wrapper div.newestjobs table#js-table.newestjobtable tbody tr td{text-align: right;}
+div#jsjobs-wrapper div#jsjobs-admin-wrapper div.extra-activities div.appliedjobs div.show-items div.job-wrapper div.img{float: right;}
+div#jsjobs-wrapper div#jsjobs-admin-wrapper div.extra-activities div.appliedjobs div.show-items div.job-wrapper div.detail{}
+div#jsjobs-wrapper div#jsjobs-admin-wrapper div.extra-activities div.appliedjobs div.show-items div.job-wrapper div.detail a.title{float: right;margin-left: 5px;}
+div#jsjobs-wrapper div#jsjobs-admin-wrapper div.extra-activities div.appliedjobs div.show-items div.job-wrapper div.detail span.views{right: unset;left: 5px;}
+div#jsjobs-wrapper div#jsjobs-admin-wrapper div.extra-activities div.appliedjobs div.show-items div.job-wrapper div.detail span{margin:0px;display:inline-block;float:right;margin-left:5px;}
+div#jsjobs-wrapper div#jsjobs-admin-wrapper div.extra-activities div.jobs div.show-items div.job-wrapper div.img{float: right;}
+div#jsjobs-wrapper div#jsjobs-admin-wrapper div.extra-activities div.jobs div.show-items div.job-wrapper div.detail{}
+div#jsjobs-wrapper div#jsjobs-admin-wrapper div.extra-activities div.jobs div.show-items div.job-wrapper div.detail a.title{float: right;margin-left: 5px;}
+div#jsjobs-wrapper div#jsjobs-admin-wrapper div.extra-activities div.jobs div.show-items div.job-wrapper div.detail span.views{right: unset;left: 5px;}
+div#jsjobs-wrapper div#jsjobs-admin-wrapper div.extra-activities div.resume div.show-items div.job-wrapper div.detail span{float:right;margin-left:5px;}
+div#jsjobs-wrapper div#jsjobs-admin-wrapper div.extra-activities div.jobs div.show-items div.job-wrapper div.detail div.info span.text{float:right;margin-left:5px;margin-top:0px;}
+div#jsjobs-wrapper div#jsjobs-admin-wrapper div.extra-activities div.jobs div.show-items div.job-wrapper div.detail div.created{display:inline-block;}
+div#jsjobs-wrapper div#jsjobs-admin-wrapper div.extra-activities div.companies div.show-items div.job-wrapper div.img{float: right;}
+div#jsjobs-wrapper div#jsjobs-admin-wrapper div.extra-activities div.companies div.show-items div.job-wrapper div.detail{}
+div#jsjobs-wrapper div#jsjobs-admin-wrapper div.extra-activities div.companies div.show-items div.job-wrapper div.detail a.title{float: right;margin-left: 5px;}
+div#jsjobs-wrapper div#jsjobs-admin-wrapper div.extra-activities div.companies div.show-items div.job-wrapper div.detail span.views{right: unset;left: 5px;}
+div#jsjobs-wrapper div#jsjobs-admin-wrapper div.extra-activities div.companies div.show-items div.job-wrapper div.detail span{margin-top:0px;float:right;display:inline-block;margin-left:5px;}
+div#jsjobs-wrapper div#jsjobs-admin-wrapper div.extra-activities div.companies div.show-items div.job-wrapper div.detail div.info span.get-text{max-width:100%;text-overflow:ellipsis;overflow:hidden;white-space: nowrap;}
+div#jsjobs-wrapper div#jsjobs-admin-wrapper div.extra-activities div.resume div.show-items div.job-wrapper div.img{float: right;}
+div#jsjobs-wrapper div#jsjobs-admin-wrapper div.extra-activities div.resume div.show-items div.job-wrapper div.detail{}
+div#jsjobs-wrapper div#jsjobs-admin-wrapper div.extra-activities div.resume div.show-items div.job-wrapper div.detail a.title{float: right;margin-left: 5px;}
+div#jsjobs-wrapper div#jsjobs-admin-wrapper div.extra-activities div.resume div.show-items div.job-wrapper div.detail span.views{right: unset;left: 5px;}
+div#jsjobs-wrapper div#jsjobs-admin-wrapper div.review div.right{right: unset; left: 10px;}
+div#jsjobs-wrapper div#jsjobs-admin-wrapper div.review div.upper div.imgs img.reviewpic2{left: unset;right: 115px;-moz-transform: scaleX(-1); -o-transform: scaleX(-1); -webkit-transform: scaleX(-1); transform: scaleX(-1); filter: FlipH; -ms-filter: "FlipH";}
+div#jsjobs-wrapper div#jsjobs-admin-wrapper div.review div.upper div.imgs img.reviewpic{left: unset;right: 20px;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobs-admin-wrapper div.review div.upper div.right img{-moz-transform: scaleX(-1); -o-transform: scaleX(-1); -webkit-transform: scaleX(-1); transform: scaleX(-1); filter: FlipH; -ms-filter: "FlipH";}
+div#jsjobs-wrapper div#jsjobs-admin-wrapper div.review div.text a img{-ms-transform: rotate(180deg); -webkit-transform: rotate(180deg); transform: rotate(180deg);margin-left: 0px;margin-right: 5px;}
+div#jsjobs-pagination-wrapper select#limit{float: right;background-position: calc(100% - 75%);}
+div#jsjobs-footer {padding: 40px 70px 30px 0px;}
+div#jsjobs-footer.menu-collasped-active-footer {padding: 40px 270px 30px 0px;}
+div#jsjobsfooter {padding: 40px 70px 30px 0px;}
+div#jsjobsfooter.menu-collasped-active-footer {padding: 40px 270px 30px 0px;}
+div#jsjobs-wrapper div#jsjobs-heading span#heading-text{float: right;}
+div#jsjobs-wrapper div#jsjobs-content form#adminForm table#js-table.adminlist thead tr th.title{text-align: right;}
+table#js-table thead th:first-child{border-left: none;}
+table#js-table thead th:last-child{border-left: 1px solid #cccccc;}
+table#js-table tbody td:last-child{border-left: 1px solid #cccccc;}
+table#js-table tbody td:first-child{border-left: none;}
+div#jsjobs-wrapper div#jsjobs-content div.socialconfig_block div.socialconfig_content label.socialconfig_label{margin-right: 5px;}
+div#jsjobs-wrapper div#jsjobs-content div.idTabs a.linktabclass{float: right;}
+div#jsjobs-wrapper div#jsjobs-content div.idTabs a.selected{float: right;}
+div#jsjobs-wrapper div#jsjobs-content div.idTabs a{float: right;}
+div#jsjobs-wrapper div#jsjobs-heading a#backimage{float: right;}
+div#jsjobs-wrapper div#jsjobs-heading span#sorting-wrapper{float: left;margin-top: 2px;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobs_filter_wrapper_new div#checkallbox-main{float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobs_filter_wrapper_new div#jsjobs-filter-main-new{padding: 8px 8px 8px 39px;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobs_filter_wrapper_new div#jsjobs-filter-main-new span#showhidefilter{left: 0px;right: unset;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobs_filter_wrapper_new div#checkallbox-main div#checkallbox{margin-right: 0px;margin-left: 6px;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobs_filter_wrapper_new div#jsjobs-filter-main-new span.jsjobs-filter-new input{float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobs_filter_wrapper_new div#jsjobs-filter-main-new span.jsjobs-filter-new select{float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobs_filter_wrapper_new div#jsjobs-filter-main-new span.jsjobs-filter-new button#js-reset{float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobs_filter_wrapper_new div#jsjobs-filter-main-new span.jsjobs-filter-new button.js-button{float: right;}
+div#jsjobs-filter-main-new .default-hidden{float: right;}	
+div#jsjobs-wrapper div#jsjobs-content form#adminForm div#jsjobs-heading span#sorting-wrapper span#sortimage{float: left;}
+div#jsjobs-wrapper div#jsjobs-heading span#sorting-wrapper span#sortimage a img{margin: 6px 3px 2px 7px;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-left{float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right div#jsjobslist-comp-header div#innerheaderlefti{float: left;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right div#jsjobslist-comp-header span.datablockhead-right span.rightcorner{right: unset;left: 0px;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right div#jsjobslist-comp-header span.datablockhead-right span.rightcorner img{float: right;-moz-transform: scaleX(-1); -o-transform: scaleX(-1); -webkit-transform: scaleX(-1); transform: scaleX(-1); filter: FlipH; -ms-filter: "FlipH";}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right div#jsjobslist-comp-header div#innerheaderlefti span.datablockhead-left{padding-right: 12px;padding-left: 0px;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right div#jsjobslist-comp-header div#innerheaderlefti span.datablockhead-left span.font-mysize{float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right div#jsjobslist-comp-body span.datablock{padding-right: 10px;float: right;padding-left: 0px;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right div#jsjobslist-comp-header span.datablockhead-right span.rightcorner_red{right: unset;left: 0px;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right div#jsjobslist-comp-header span.datablockhead-right span.rightcorner_red img{float: right;-moz-transform: scaleX(-1); -o-transform: scaleX(-1); -webkit-transform: scaleX(-1); transform: scaleX(-1); filter: FlipH; -ms-filter: "FlipH";}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-bottom-comp div#bottomrightnew a.js-bottomspan{float: right;margin: 9px 7px 7px 0px}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-bottom-comp div#bottomleftnew{float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-bottom-comp div#bottomrightnew{float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-bottom-comp div#bottomleftnew span.bottomcheckbox{float: right;border-right: none;border-left: 1px solid #ebecec;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-bottom-comp div#bottomleftnew span.bottomcheckbox.ck_blue{border: 1px solid #41a7da;border-right: none;}
+div#jsjobs-wrapper div#jsjobs-content form#adminForm div#js-jobs-comp-listwrapper.jsjobs-check-container div#jsjobs-bottom-comp div#bottomleftnew span.js-created b{float: right;}
+div#jsjobs-wrapper div#jsjobs-content form#adminForm div#js-jobs-comp-listwrapper.jsjobs-check-container div#jsjobs-top-comp-right div#jsjobslist-comp-body span.datablock span.title{float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right div#jsjobslist-comp-body span.datablock a.notbold,span.notbold{margin-left: 0px;margin-right: 5px;}
+div#jsjobs-wrapper div#jsjobs-content span#js-queues-statuses{right: unset !important;left: 10px !important;right: auto !important;}
+div#jsjobs-wrapper div#jsjobs-content span#js-queues-statuses img.q-image{margin-left: -4px; -moz-transform: scaleX(-1); -o-transform: scaleX(-1); -webkit-transform: scaleX(-1); transform: scaleX(-1); filter: FlipH; -ms-filter: "FlipH";}
+div#jsjobs-wrapper div#jsjobs-content span#js-queues-statuses span.waiting-text{padding: 4.5px 0px 4.5px 7px;}
+div#jsjobs-wrapper div#jsjobs-content span#js-queues-statuses img.q-image{float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right div#jsjobslist-comp-header div#innerheaderlefti span#jsjobs_jobltitle.datablockhead-left{float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right div#jsjobslist-comp-header div#innerheaderlefti span.fulltimejob{float: left;margin-left: 30px;margin-right: 0px;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right div#jsjobslist-comp-header div#innerheaderlefti span#jsjobs_jobltitle.datablockhead-left span.notbold.color-blue.font-mysize{float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right div#jsjobslist-comp-header div#innerheaderlefti span#jsjobs_jobltitle.datablockhead-left{padding-right: 10px;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-bottom-comp div#bottomleftnew-job{float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-bottom-comp div#bottomleftnew-job span.bottomcheckbox{float: right;border-right: none;border-left: 1px solid #ebecec;}
+div#jsjobs-wrapper div#jsjobs-content form#adminForm div#js-jobs-comp-listwrapper.jsjobs-check-container div#jsjobs-bottom-comp div#bottomleftnew-job span.js-created b{float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-bottom-comp div#bottomrightnew-job{margin-left: 10px;margin-right: 0px;float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-bottom-comp div#bottomrightnew-job a.js-bottomspan{margin-left: 0px;margin-right: 7px;float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-bottom-comp div#bottomrightnew a.js-bottomspan_jobqueue{margin-left: 0px;margin-right: 5px;float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right_resume{float: left;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right_resume div#jsjobslist-comp-header div#innerheaderlefti{float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right_resume div#jsjobslist-comp-header span.datablockhead-right span.rightcorner{right: unset;left: 0px;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right_resume div#jsjobslist-comp-header span.datablockhead-right span.rightcorner img{float: right;-moz-transform: scaleX(-1); -o-transform: scaleX(-1); -webkit-transform: scaleX(-1); transform: scaleX(-1); filter: FlipH; -ms-filter: "FlipH";}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right_resume div#jsjobslist-comp-header div#innerheaderlefti span.fulltimejob{float: left;margin-right: 0px;margin-left: 30px;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right_resume div#jsjobslist-comp-header div#innerheaderlefti span#jsjobs-resumetitle.datablockhead-left{float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right_resume div#jsjobslist-comp-header div#innerheaderlefti span#jsjobs-resumetitle.datablockhead-left span.notbold.color-blue.font-mysize{float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-bottom-comp div#bottomleftnew-resume span.js-created{float: right;padding: 15px 15% 15px 10px;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-bottom-comp div#bottomrightnew-resume{float: right;margin-right: 0px;margin-left: 10px;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-bottom-comp div#bottomrightnew-resume a.js-bottomspan{margin-left: 0px;margin-right: 7px;}
+div#jsjobs-wrapper div#jsjobs-content form#adminForm div#js-jobs-comp-listwrapper.jsjobs-check-container div#jsjobs-top-comp-right_resume div#jsjobslist-comp-body span.datablock span.title{float: right;}
+div#jsjobs-wrapper div#jsjobs-content form#adminForm div#js-jobs-comp-listwrapper.jsjobs-check-container div#jsjobs-bottom-comp div#bottomleftnew-resume span.js-created b{float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-bottom-comp div.resumepaddingleftqueue{padding-left: 0px;padding-right: 163px;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-listwrapper div#jsjobs-top-left{float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-listwrapper div#jsjobs-top-right{float: left;padding-left: 0;padding-right: 10px;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-listwrapper div#jsjobs-top-right div#jsrightcorner{float: left;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-listwrapper div#jsjobs-top-right div span.smallimg img{float: right;margin-left: -4px; -moz-transform: scaleX(-1); -o-transform: scaleX(-1); -webkit-transform: scaleX(-1); transform: scaleX(-1); filter: FlipH; -ms-filter: "FlipH";}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-listwrapper div#jsjobs-top-right div span.listheadrightcorner-green{padding: 3px 9px 3px 9px;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-listwrapper div#jsjobs-top-right div#jsjobslist-header span.listheadleft{float: right; margin-left: 0px; margin-right: 16px;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-listwrapper div#jsjobs-top-right div#jsjobslist-header span.listheadright2{float: left; margin-right: 0px; margin-left: 3%;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-listwrapper div#jsjobs-top-right span.js-innerspanleft.txt span.title {float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-listwrapper div#jsjobs-top-right span.value {margin-left: 25px;margin-right: 0px;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-listwrapper div#jsjobs-top-right .js-idbottom-top span.listheadright2 {float: right;margin-left: 0px;margin-right: 15px;}
+div#jsjobs-wrapper div#jsjobs-content table#js-table.adminlist thead tr .title {text-align: right;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobs_filter_wrapper span.jsjobs_filter-inner_wrapper {float: right;}
+div#jsjobs-wrapper div#jsjobs-content div.js-usercontent div.js-lineusercontent span.js-spansize2 select {float: right;background-position: calc(100% - 90%);}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-listwrapper div#jsjobs-top-right span.js-innerspanright{margin-right: 29px;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-listwrapper div#jsjobs-top-right span.js-innerspanleft{float: right;margin-left: 0;margin-right: 16px;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-listwrapper div#jsjobs-bottom span.js-idbottom{float: right;margin-right: 16%;margin-left: 0px;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-listwrapper div#jsjobs-bottom a#js-bottombutton{float: right;margin-left: 0px;margin-right: 25px;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-listwrapper div#jsjobs-top-right div#jsjobslist-header span.listheadright{float: left; margin-right: 0px; margin-left: 3%;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobs_appliedapplication_tab_container div#jsjobs_appliedresume_action_allexport a{float: left;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobs_appliedapplication_tab_container a{float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#jobs-jobapplied-wrapper div#js-top-row div#jsjobs-left-image{float: right !important;}
+div#jsjobs-wrapper div#jsjobs-content div#jobs-jobapplied-wrapper div#js-top-row div#jsjobs-right-content{float: right !important;}
+div#jsjobs-wrapper div#jsjobs-content div#jobs-jobapplied-wrapper div#js-top-row div#jsjobs-right-content div.js-jobs-title-row span.resume-title{float: right;padding-right: 0px;padding-left: 5px;}
+div#jsjobs-wrapper div#jsjobs-content div#jobs-jobapplied-wrapper div#js-top-row div#jsjobs-right-content div.js-jobs-title-row span.resume-created{float: right;margin-right: 16px;margin-left: 0;}
+div#jsjobs-wrapper div#jsjobs-content div#jobs-jobapplied-wrapper div#js-top-row div#jsjobs-right-content div.js-jobs-title-row div.jsjobs-container-small{float: left;}
+div#jsjobs-wrapper div#jsjobs-content div#jobs-jobapplied-wrapper div#js-top-row .color-default{float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#jobs-jobapplied-wrapper div#js-top-row div#jsjobs-right-content div.js-main-area div.color-font{float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#jobs-jobapplied-wrapper div#bottomrightnew-appliedresume span.js-bottom-links{float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#jobs-jobapplied-wrapper div#bottomrightnew-appliedresume a.js-bottom-links{float: right;}
+div#js_job_app_actions div.email_to_canditate{padding-right: 35px;}
+div#js_job_app_actions div.email_to_canditate div.left_column{float: right;}
+div#js_job_app_actions div.email_to_canditate div.mid_column{float: right;padding-left: 0px;padding-right: 15px;}
+div#js_job_app_actions div.email_to_canditate div.right_column{float: right;padding-left: 0px;padding-right: 15px;}
+div#js_job_app_actions div.resume_comments{float: right;padding-right: 35px;}
+div#js_job_app_actions div.resume_comments div.comment_value{margin-left: 0px;margin-right: 25%;}
+div#js_job_app_actions div.resume_comments div.comment_title{left: unset;right: 70px;}
+div#js_job_app_actions div.resume_comments div.comment_btn{right: unset;left: -75px;}
+span#resumedetail_data_title, span#jsjobs_appliedresume_data_detail_applicantsummery{float: right;padding-left: 15px;}
+div#resumedetail_data{float: right;padding-right: 30px;padding-left: 0px;}
+div#jsjobs_jobsharing_wrapper span.texttype{float: right;}
+div#jsjobs_jobsharing_wrapper span#jsjobs_jobsharing_redinfo{float: right;}
+div#jsjobs_jobsharing_wrapper input#server_serialnumber{float: right;}
+div#jsjobs_jobsharing_wrapper input#jsjobs_sharing_serverkeybutton{float: right;margin-right: 15px;}
+div#jsjobs_messagebox{text-align: right;}
+div#jsjobs_jobsharing_subscribe_button_wrapper span#jsjobs_jobsharing_subscribeone{float: right;margin-left: 0px;margin-right: 150px;}
+div#jsjobs-wrapper div#jsjobs-content form#adminForm table#js-table tbody tr td::before{margin-right: 1px;margin-left: 9px;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobs_filter_wrapper_new div#checkallbox-main div#checkallbox{}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobs_filter_wrapper_new div#checkallbox-main{}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-bottom-comp{padding-right: 0px;}
+div#jsjobs-wrapper div#jsjobs-content div.js-usercontent{margin-top: -5px;}
+div#jsjobs-wrapper div#jsjobs-content div.js-usercontent div.js-lineusercontent span.js-spansize1{float: right;}
+div#jsjobs-wrapper div#jsjobs-content div.js-usercontent div.js-lineusercontent span.js-spansize2{float: right;margin-right: 0px;}
+div#jsjobs-wrapper div#jsjobs-content div#main_emailcontent_wrapper div.main_datacontent div.emailleft_main{float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#main_emailcontent_wrapper div.main_datacontent{padding-right: 0px;}
+div#jsjobs-wrapper div#jsjobs-content form#adminForm div#main_emailcontent_wrapper div.main_datacontent div.emailright_main label{float: right;}
+div.js_job_error_messages_wrapper div.footer a{float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#info_main_content{ padding: 15px 10px 15px 40px;}
+div#jsjobs-wrapper div#jsjobs-content div#info_main_content div#info_det span.left_info{float: right;text-align: left;border-right: none;border-left: 1px solid #ebecec;}
+div#jsjobs-wrapper div#jsjobs-content div#info_main_content div#info_desc a.info_link {float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#info_main_content div#info_datablock span.detail a.bottom_links_info {float: right;margin: 10px 0px 40px 10px;}
+div#jsjobs-wrapper div#jsjobs-content div#info_main_content div#info_det span.right_info{float: left;padding-right: 15px;text-align: right;}
+div#jsjobs-wrapper div#jsjobs-content div#info_main_content div#info_datablock{float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#info_main_content div#info_desc img.info_img_logo{float: right;padding: 20px 100px 10px 30px;}
+div#jsjobs-wrapper div#jsjobs-content div#info_main_content div#info_desc span.info_line{float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#info_main_content div#info_desc label{float: right;padding-right: 25px;}
+div#jsjobs-wrapper div#jsjobs-content div#info_main_content div#info_desc span.info_text{float: right;padding-right: 25px;}
+/*form*/
+div#jsjobs-wrapper div#jsjobs-content div.js-form-area div.js-form-wrapper label.jsjobs-title{float: right;}
+div#jsjobs-wrapper div#jsjobs-content div.js-form-area div.js-form-wrapper div.jsjobs-value select{float: right;}
+div#jsjobs-wrapper div#jsjobs-heading a#backimage img{-moz-transform: scaleX(-1);-o-transform: scaleX(-1);-webkit-transform: scaleX(-1);transform: scaleX(-1);filter: FlipH;-ms-filter: "FlipH";}
+div#jsjobs-wrapper div#jsjobs-content div.count2 div.box img{padding-left:7px;}
+div#jsjobs-wrapper div#jsjobs-menu div#js-tk-links .js-divlink{float:right;}
+div#jsjobs-wrapper div#jsjobs-content a.jobseeker span.left{float:right;}
+div#jsjobs-wrapper div#jsjobs-content a.employer span.left{float:right;}
+div#jsjobs-wrapper div#jsjobs-content a.overall span.left{float:right;}
+div#jsjobs-wrapper div#jsjobs-content a.overall span.left span.text{float:none;margin-right: 25px;}
+div#jsjobs-wrapper div#jsjobs-content a.employer span.left span.text{float:none;margin-right: 25px;}
+div#jsjobs-wrapper div#jsjobs-content a.jobseeker span.left span.text{float:none;margin-right: 25px;}
+div#jsjobs-wrapper div#jsjobs-content a.overall span.left img{float:none;}
+div#jsjobs-wrapper div#jsjobs-content a.employer span.left img{float:none;}
+div#jsjobs-wrapper div#jsjobs-content a.jobseeker span.left img{float:none;}
+div#jsjobs-wrapper div#jsjobs-content a.overall span.right{text-align:left;}
+div#jsjobs-wrapper div#jsjobs-content a.employer span.right{text-align:left;}
+div#jsjobs-wrapper div#jsjobs-content a.jobseeker span.right{text-align:left;}
+div#jsjobs-wrapper div#jsjobs-content a span.right img{-moz-transform: scaleX(-1);-o-transform: scaleX(-1);-webkit-transform: scaleX(-1);transform: scaleX(-1);filter: FlipH;-ms-filter: "FlipH";}
+div.boxeswrapper div.box img{float:right;padding-left:10px;padding-right:0px;}
+div#jsjobs-wrapper div#jsjobs-content div#admin-employer-report div.count2 img{float:right;margin-left:10px;}div#jsjobs-wrapper div#jsjobs-content div#admin-employer-report div.count2 div.text{text-align:right;}
+div#jsjobs-wrapper div#jsjobs-content div.js-buttons-area .js-btn-cancel{float:none;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobs_right_main div#jsjob_configuration_wrapper div.jobs-config-value .inputfieldsize{float:right;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobs_right_main div#jsjob_configuration_wrapper div.jobs-config-value label.jobs-mini-descp{float:right;}
+div#jsjobs-wrapper div#jsjobs-content div.js-form-area div.js-form-wrapper div.jsjobs-value div.div-white span.js-cross{float:right;}
+div#jsjobs-wrapper div#jsjobs-content div.js-form-area div.js-form-wrapper div.jsjobs-value div.div-whiteauto span.js-cross{float:right;}
+div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-bottom-comp div#bottomrightnew div.js-bottomspan{float:right;}
+div.js_job_error_messages_wrapper div.footer a{float:left !important;margin: 15px 0px 0px 20px;}
+div.js_installer_wrapper div.js_heading_bar span.recommended{float:right;}
+div.js_installer_wrapper div.js_heading_bar span.title{float:right;}
+div.js_installer_wrapper div.js_data_bar span.recommended{float:right;}
+div.js_installer_wrapper div.js_data_bar span.title{float:right;}
+div.js_installer_formwrapper div#jsjob_installer_forminput input#transactionkey{float:right;}
+div.js_installer_formwrapper div#jsjob_installer_formlabel{float:right;}
+div.js_installer_formwrapper div#jsjob_installer_forminput{width:85%;}
+span#jsjob_installer_mintmsg{text-align:left;}
+div#jsjobs-wrapper div#jsjobs-content div#main_address_data div#data_row label.label_name{float:right;text-align:left;}
+div#jsjobs-wrapper div#jsjobs-content div#main_address_data div#data_row span.combo_block{float:right;}
+div#jsjobs-wrapper div#jsjobs-content div#main_address_data div#data_row input.combo_box{float:right;}
+div#jsjobs-wrapper div#jsjobs-content div#main_address_data div#data_row span.file_label{float:right;}
+div#jsjobs-wrapper div#jsjobs-content div#main_address_data div#data_row span.combo_block_mesg{float:right;}
+div#jsjobs-wrapper div#jsjobs-content div#addresstop_bluebar img.imglogo{right:20px;}
+div#jsjobs-wrapper div#jsjobs-content div#addresstop_bluebar a.download_class{float:left;}
+div#jsjobs-wrapper div#jsjobs-content div#addresstop_bluebar label.joomsky_title{margin-right:120px;}
+div#jsjobs-wrapper div#jsjobs-content div#addresstop_bluebar label.joomsky_detail{margin-right:-100px;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobs-message-wrapper span.mesg-title-text{float:right;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobs-message-wrapper div#message-header div#message-head-content{float:right;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobs-message-wrapper div#message-header div#mesg-corner span.mesg-right-corner img{float:right;-moz-transform: scaleX(-1);-o-transform: scaleX(-1);-webkit-transform: scaleX(-1);transform: scaleX(-1);filter: FlipH;-ms-filter: "FlipH";}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobs-message-wrapper div#message-header div#mesg-corner{padding-left:0px;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobs-message-wrapper div#message-header div#mesg-corner span.mesg-right-corner{float:left;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobs-message-wrapper div#message-header {float: right;padding: 15px 15px 15px 5px;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobs-message-wrapper div#message-body {float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobs-message-wrapper div#message-body div.js-cp-job-info.subject a {float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobs-message-wrapper div#message-body div.js-cp-job-info span.js-cp-job-info-label {margin-right: 0px;margin-left: 25px;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobs-message-wrapper div#message-body span.mesg-right-corner {right: auto;left: 40px;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobs-message-wrapper div#message-body span.mesg-right-corner span.listheadrightcorner-green {float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobs-message-wrapper div#message-body span.createdfooter {right: auto;left: 40px;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobs-message-wrapper div#message-footer div#bottomleftnew-message {float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobs-message-wrapper div#message-footer div#bottomleftnew-message span.bottomcheckbox {float: right;margin-left: 0px;margin-right: -1px;border-left: 1px solid #ebecec;border-right: none;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobs-message-wrapper div#message-footer span.buttons-message a.js-bottomspan {float: right;margin: 10px 7px 10px 0px;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobs-message-wrapper div#message-footer span.buttons-message{float: right;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobs-message-wrapper div#message-header div#message-head-content span.message-title{float:right;}
+div#jsjobs-wrapper div#jsjobs-content div#jsjobs-message-wrapper div#message-footer span.mesg-bold{text-align:left;}
+div.js_theme_section{float:right;}
+div#jsjobs-wrapper div#jsjobs-content div.jsjobs-content-area label#usernamemsg{ float: right; }
+div#jsjobs-wrapper div#jsjobs-content div.jsjobs-content-area div.row1 label#userpackagemsg{ float: right; }
+div#jsjobs-popup-wrap div.jsjobs-popup-search-area span.jsjobs-search span.jsjobs-title{ float: right; }
+div#jsjobs-popup-wrap div.jsjobs-popup-search-area span.jsjobs-search span.jsjobs-value{ float: right; }
+div#jsjobs-popup-wrap div.jsjobs-adminlist span.jsjobs-adminlist-heading span.heading-title{float: right;}
+div#jsjobs-popup-wrap div.jsjobs-adminlist-value span.heading-title{float: right;}
+div#jsjobs-popup-wrap div.jsjobs-heading span.jsjobs-heading-title{float: right;}
+div#js_jobs_main_popup_area div#js_jobs_main_popup_head div#jspopup_title {float: right;}
+div#js_jobs_main_popup_area div#js_jobs_main_popup_head img#jspopup_image_close {float: left;}
+div#popup_main div.jobs-comp-employer-popupwrapper div.search-center div.jsjobs-searchpopupwrapper div.search-value-button div.js-button {float: right;}
+div#popup_main div.jobs-comp-employer-popupwrapper div.search-center div.jsjobs-searchpopupwrapper div.search-value-button div.js-button .employer-popup-reset-btn {margin-right: 10px;margin-left: 0px;}
+div#popup_main div.jobs-comp-employer-popupwrapper div.search-center div.jsjobs-searchpopupwrapper div.search-value {float: right;}
+div#popup_main div.jobs-comp-employer-popupwrapper div.search-center div.jsjobs-searchpopupwrapper div.search-value-button {float: right;}
+div#popup_main div#jsjobs_records div.jsjobs_job_userpages {text-align: left;}
+div#jsjobs-wrapper div#jsjobs-content div#jobs-jobapplied-wrapper div#bottomrightnew-appliedresume {float: right;padding-left: 5px;padding-right: 5px;}
+div#jsjobs-wrapper div#jsjobs-content div.js-form-area div.js-form-wrapper div.jsjobs-value div#experiencerangediv select.inputbox {float: right;}
+div#jsjobs-wrapper div#jsjobs-content div.js-form-area div.js-form-wrapper div.jsjobs-value div#educationrangediv select.inputbox {float: right;}
+div#jsjobs-menu{box-shadow: -4px 4px 4px 0px rgba(0,0,0,0.2);}
+div#jsjobs-wrapper div#jsjobs-content div.jsstadmin-config-data-wrp div.jsstadmin-config-left-menu {float: right;}
+div#jsjobs-wrapper div#jsjobs-content div.jsstadmin-config-data-wrp div.jsstadmin-config-left-menu ul#js-tk-links li a {}
+div#jsjobs-wrapper div#jsjobs-content div.jsstadmin-config-data-wrp div.jsstadmin-config-left-menu ul#js-tk-links li a img {position: absolute;top: 9px;}
+div#jsjobs-wrapper div#jsjobs-content div.jsstadmin-config-data-wrp div.jsstadmin-config-left-menu ul#js-tk-links li ul.js-innerlink {}
+div#jsjobs-wrapper div#jsjobs-content a.disable-child img.jsst_pro-icon {left: 0;}
+div#jsjobs-wrapper div#jsjobs-content div.jsstadmin-config-data-wrp div.jsstadmin-config-right-data {float: right;padding-left: unset;padding-right: 20px;}
+div#jsjobs-wrapper div#jsjobs-content div div#jsjob_configuration_wrapper label.jobs-config-title {float: right;padding: 10px 0px 0 20px;}
+div#jsjobs-wrapper div#jsjobs-content div div#jsjob_configuration_wrapper div.jobs-config-value {float: right;}
+/*applied resume*/
+div#jsjobs-wrapper div#jsjobs-content div#jobs-jobapplied-wrapper div#js-top-row div#jsjobs-left-image a.view-resume img {margin-right: unset;margin-left: 7px;}
+div#jsjobs-wrapper div#jsjobs-content div#jobs-jobapplied-wrapper div#js-top-row div#jsjobs-left-image a.view-cvletter img {margin-right: unset;margin-left: 7px;}
+/* help page */
+div#jsstadmin-data-wrp .jsjobs-help-top,
+div#jsstadmin-data-wrp .jsjobs-help-btm,
+div#jsstadmin-data-wrp .jsjobs-help-btm .jsjobs-help-btm-wrp {float: right;}
+div#jsstadmin-data-wrp .jsjobs-help-top .jsjobs-help-top-left,
+div#jsstadmin-data-wrp .jsjobs-help-top .jsjobs-help-top-right {float: right;margin-left: 10px;margin-right: unset;}
+div#jsstadmin-data-wrp .jsjobs-help-top .jsjobs-help-top-right {margin-left: unset;margin-right: 10px;}
+div#jsstadmin-data-wrp .jsjobs-help-top .jsjobs-help-top-left .jsjobs-help-top-left-cnt-img,
+div#jsstadmin-data-wrp .jsjobs-help-top .jsjobs-help-top-right .jsjobs-help-top-right-cnt-img {float: right;}
+div#jsstadmin-data-wrp .jsjobs-help-top .jsjobs-help-top-left {padding-right: 10px;}
+div#jsstadmin-data-wrp .jsjobs-help-top .jsjobs-help-top-left .jsjobs-help-top-left-cnt-info,
+div#jsstadmin-data-wrp .jsjobs-help-top .jsjobs-help-top-right .jsjobs-help-top-right-cnt-info {float: right;padding: 20px 20px 20px 0px !important;}
+div#jsstadmin-data-wrp .jsjobs-help-top .jsjobs-help-top-left .jsjobs-help-top-left-cnt-info .jsjobs-help-top-middle-action img,
+div#jsstadmin-data-wrp .jsjobs-help-top .jsjobs-help-top-right .jsjobs-help-top-right-cnt-info .jsjobs-help-top-middle-action img {margin-right: unset;margin-left: 8px;}
+div#jsstadmin-data-wrp .jsjobs-help-btm .jsjobs-help-btm-wrp .jsjobs-help-btm-cnt a .jsjobs-help-btm-cnt-img {float: right;}
+div#jsstadmin-data-wrp .jsjobs-help-btm .jsjobs-help-btm-wrp .jsjobs-help-btm-cnt {margin: 0 0px 10px 10px;float: right;}
+div#jsstadmin-data-wrp .jsjobs-help-btm .jsjobs-help-btm-wrp .jsjobs-help-btm-cnt a .jsjobs-help-btm-cnt-title span {padding: 25px 5px 0 0;}
+div.wpjobportal-help-btn {margin-left: unset;margin-right: 5px;}
+div#jsjobs-menu{box-shadow: -4px 4px 4px 0px rgba(0,0,0,0.2);}
+@media(min-width: 481px) and (max-width: 768px) {
+	div#jsjobs-wrapper div#jsjobs-content div#jobs-jobapplied-wrapper div#js-top-row select#currencyid{margin-left: 1%;margin-right: 0;}
+	div#jsjobs-wrapper div#jsjobs-content div#jsjobs_filter_wrapper span.jsjobs-filter {float: right !important;}
+	table#js-table.adminlist tr {float: right;}
+	table#js-table.adminlist tbody tr td {text-align: right !important;}
+	table#js-table tbody input[type="checkbox"] {float: right;}
+	div#jsjobs-wrapper div#jsjobs-content div.js-buttons-area .js-btn-save {margin-bottom: 10px;margin-top: 2px;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-listwrapper span.js-idbottom-top {left: auto;right: 0px;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-listwrapper div#jsjobs-top-right .js-idbottom-top span.listheadright {margin-right: 25px;}
+	div#js-folderresume-wrapper div.js-fl-toprow div.js-fl-rightcol span.right-corner {right: 0px;}
+	div#js-folderresume-wrapper div.js-fl-toprow div.js-fl-rightcol span.right-corner span.js-fl-jobtype {float: right !important;text-align: right !important;}
+	div#js-folderresume-wrapper div.js-fl-toprow div.js-fl-rightcol span.right-corner span#js-fl-created {float: right;text-align: right;}
+	div#jsjobs-wrapper div#jsjobs-content div#jsjobs-message-wrapper div#message-body span.mesg-right-corner {left: auto;right: 15px;}
+	div#jsjobs-wrapper div#jsjobs-content div#jsjobs-message-wrapper div#message-body span.createdfooter {left: auto;right: 15px;}
+	div.jsjob_premium_wrapper div.jsjobs-plugin-wrap {display: inline-block;width: 80%;margin: 50px 10% 0 0;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right_resume div#jsjobslist-comp-header div#innerheaderlefti {float: left;width: 100%;left: 0;right: 0;top: 0px;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right_resume div#jsjobslist-comp-header div.js-cp-job-type {float: right;margin-top: 35px;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right_resume div#bottomleftnew-resume {text-align: right;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right_resume div#jsjobslist-comp-header div#innerheaderlefti.app-mrg-right {width: 100%;left: 0;right: 0;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right_resume span#js-queues-statuses {right: 0px !important;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right.position {padding-right: 135px;padding-left: 0;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right div#jsjobslist-comp-header.jsjobslist-comp-header-wrp {left: auto;right: 220px;top: 0}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right div.js-cp-job-salary {text-align: right;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right div.js-cp-job-type {margin-bottom: 10px;float: right;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-bottom-comp div#bottomrightnew-job {float: none;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right {width: 100%;float: right;padding-right: 130px;padding-left: 0;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right div#jsjobslist-comp-header.jsjobslist-rightalign {float: right !important;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right.jsjobs-resume-right-wrp {padding-right: 150px;padding-left: 0px;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right div#jsjobslist-comp-header span.datablockhead-right span.rightcorner {left: unset;right: 0px;float: right;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right div#jsjobslist-comp-header div#innerheaderlefti {margin: 0px 0px 0 0px;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-bottom-comp div#bottomrightnew {float: none;}
+	.js-cp-baner-center {margin-right: 0px;}
+	.js-cp-staff-baner-right {margin-right: 0px;}
+	div#jsjobs-wrapper div#jsjobs-content div#jsjobs-message-wrapper div#message-body span.mesg-right-corner {right: auto;left: 40px;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-listwrapper span.js-idbottom {top: 145px;left: auto !important;right: 15px !important;}
+	div#jsjobs-wrapper div#jsjobs-content {padding-right: unset;}
+	div#jsjobs-head.jsjobs-config-head a.jsjobs-add-link {float: right !important;margin-right: unset;}
+	div#jsjobs-wrapper div#jsjobs-content div.jsstadmin-config-data-wrp div.jsstadmin-configurations-toggle img {float: right;}
+	div#jsjobs-wrapper div#jsjobs-content div.jsstadmin-config-data-wrp div.jsstadmin-configurations-toggle span {float: right;margin: 11px 11px 11px 0px;}
+	div#jsjobs-wrapper div#jsjobs-content div.jsstadmin-config-data-wrp div.jsstadmin-config-right-data {padding-right: unset;}
+	div#jsjobs-wrapper.menu-collasped-active div#jsjobs-content {padding-right: unset;}
+	div#jsjobs-wrapper div#jsjobs-content div div#jsjob_configuration_wrapper label.jobs-config-title {padding: 10px 0px 10px 10px;}
+	div#jsjobs-footer {padding: 40px 0;}
+	div#jsjobs-footer.menu-collasped-active-footer {padding: 40px 0;}
+	/* help page */
+    div#jsstadmin-data-wrp .jsjobs-help-top .jsjobs-help-top-left,
+    div#jsstadmin-data-wrp .jsjobs-help-top .jsjobs-help-top-middle {float: left !important;}
+    div#jsstadmin-data-wrp .jsjobs-help-btm .jsjobs-help-btm-wrp .jsjobs-help-btm-cnt {margin: 0 0 10px 10px !important; }
+    div#jsstadmin-data-wrp .jsjobs-help-btm .jsjobs-help-btm-wrp .jsjobs-help-btm-cnt a img {margin-left: unset !important;}
+    div#jsstadmin-data-wrp .jsjobs-help-btm .jsjobs-help-btm-wrp .jsjobs-help-btm-cnt a .jsjobs-help-btm-cnt-title {text-align: right;padding-left: unset !important;padding-right: 10px;}
+}
+@media(min-width: 481px) and (max-width: 670px){
+	div#jsjobs-wrapper div#jsjobs-content div#jsjobs-message-wrapper div#message-body span.mesg-right-corner {left: auto;right: 15px;}
+	div.js-cp-cnt-left {padding-left: 0px;}
+	div.js-cp-baner-left div.js-cp-baner div.js-cp-baner-cnt div.js-cp-banner-btn-wrp a.js-cp-banner-btn {float: none;}
+	.js-cp-baner-center {margin-right: 0;}
+	.js-cp-baner-right {margin-right: 0px;}
+	/*div.js-cp-job-list div.js-cp-job-list-left div.js-cp-job-image {float: none;margin: auto;}*/
+	div.js-cp-job-list div.js-cp-job-list-right {width: 100%;padding-left: 0;padding-right: 120px;}
+	div.js-cp-job-list div.js-cp-job-list-right span.js-cp-job-type {float: none;}
+	div.js-cp-job-list div.js-cp-job-list-right div.js-cp-job-salary {text-align: right;}
+	.js-cp-staff-baner-center {margin-right: 0;}
+	.js-cp-staff-baner-right {margin-right: 0;}
+	/*div.js-cp-feedback-list div.js-cp-feedback div.js-cp-resume-image {float: none;}*/
+	div.js-cp-feedback-list div.js-cp-feedback div.js-cp-resume-cnt {width: calc(100% - 100px);padding: 0 15px 0 0px;}
+	div.js-cp-feedback-list div.js-cp-feedback a.js-cp-resume-btn {margin-left: 0px;margin-right: 110px;margin-top: 10px;float: right !important;}
+	div.js-cp-feedback-list div.js-cp-feedback a.js-cp-resume-btn {float: none;width: 30%;}
+}
+@media (max-width: 480px){
+	div#jsjobs-wrapper div#jsjobs-content div#jobs-jobapplied-wrapper div#js-top-row select#currencyid{margin-left: 1%;margin-right: 0;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right div#jsjobslist-comp-header span.datablockhead-right.js-queues-statuses-wrp {margin: 0px 0% 3px 30%;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right div#jsjobslist-comp-header div#innerheaderlefti span.datablockhead-left {float: left;margin-top: 0px;padding-left: 37%;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right div#jsjobslist-comp-header div#innerheaderlefti span.datablockhead-date {width: 100%;float: left !important;}
+	table#js-table.adminlist tr {float: right;}
+	table#js-table.adminlist tbody tr td {text-align: right !important;}
+	table#js-table tbody input[type="checkbox"] {float: right;}
+	table#js-table tr td {border-left: none !important;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-listwrapper div#jsjobs-top-left span.outer-circle {margin-left: 0px;margin-right: 0px;float: none;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-listwrapper div#jsjobs-top-right div#jsjobslist-header span.listheadleft {margin: 0px;float: none;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-listwrapper span.js-idbottom-top {position: unset;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-listwrapper div#jsjobs-top-right .js-idbottom-top span.listheadright2 {float: unset;margin: 0;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-listwrapper div#jsjobs-top-right .js-idbottom-top span.listheadright3 {float: unset;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-listwrapper div#jsjobs-top-right span.js-innerspanleft {float: right;margin: 0px;width: 100%;margin-top: 35px;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-listwrapper span.js-idbottom {top: 90px;left: 30%;}
+	div#js-folderresume-wrapper div.js-fl-toprow div.js-fl-leftcol {float: none;}
+	div#js-folderresume-wrapper div.js-fl-toprow div.js-fl-rightcol span.right-corner span.js-fl-jobtype{float: none !important;}
+	div#js-folderresume-wrapper div.js-fl-toprow {text-align: center;float: none !important;}
+	div#js-folderresume-wrapper div.js-fl-toprow div.js-fl-rightcol div.js-fl-valwrapper.last-child {width: 100%;margin-left: 0;}
+	div#js-folderresume-wrapper div.js-fl-toprow div.js-fl-rightcol span.right-corner span#js-fl-created {text-align: center;}
+	div#js-folderresume-wrapper div.js-fl-toprow div.js-fl-rightcol span.right-corner {position: unset;}
+	div#js_resume_percentage {padding: 20px 20px 20px 20px !important;}
+	div#js_resume_percentage div.js_image_area {float: none !important;}
+	div#js_resume_percentage div.js_detail_area {padding-left: 0px;}
+	div#jsjobs-wrapper div#jsjobs-content div#jsjobs-message-wrapper div#message-header {float: none;padding: 15px 0;}
+	div#jsjobs-wrapper div#jsjobs-content div#jsjobs-message-wrapper div#message-header div#message-head-content {float: none;}
+	div#jsjobs-wrapper div#jsjobs-content div#jsjobs-message-wrapper div#message-body span.mesg-right-corner {top: 95px;left: 37%;}
+	div#jsjobs-wrapper div#jsjobs-content div#jsjobs-message-wrapper div#message-body span.createdfooter {top: 135px;left: 32%;}
+	div.jsjob_premium_wrapper div.jsjobs-plugin-wrap {display: inline-block;width: 80%;margin: 50px 10% 0 0%;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-left {width: 100%;float: left;display: block;text-align: center;padding-top: 15px;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-left span.outer-circle {position: relative;float: none !important;display: inline-block;}
+	div#resumeform div.jssectionwrapper div.resumefieldswrapper .resumefieldvalue div.photodetail {width: calc(100% - 0px) !important;margin-top: 20px !important;}
+	div#js_resume_percentage.js_resume_percentage{text-align: center;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-left{padding-top: 0px;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right_resume{padding-left: 0px;}
+	div#jsjobs-wrapper div#jsjobs-content span#js-queues-statuses{top: 7px;}
+	div#jsjobs-wrapper div#jsjobs-content form#adminForm table#js-table tbody tr td.center{text-align: right;}
+	div#jsjobs-wrapper div#jsjobs-content form#adminForm table#js-table tbody tr td p{display: inline;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right_resume div#jsjobslist-comp-header div#innerheaderlefti {width: 100%;margin-top: 5px;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right_resume div#jsjobslist-comp-body span.datablock.last-child {margin: 0px;}
+	div#jsjobs-wrapper div#jsjobs-content form#adminForm div#js-jobs-comp-listwrapper.jsjobs-check-container div#jsjobs-top-comp-right_resume div#jsjobslist-comp-body span.datablock span.title {float: none; }
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right_resume div#bottomleftnew-resume {text-align: center;margin-top: 85px !important;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right_resume div#jsjobslist-comp-header div.js-cp-job-type {float: none;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right_resume div#jsjobslist-comp-header div#innerheaderlefti {position: unset;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-bottom-comp div#bottomrightnew-resume {float: none;margin-right: 5px;margin-top: -2px;margin-left: 5px;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-bottom-comp div#bottomrightnew {float: none;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right_resume div#jsjobslist-comp-header div#innerheaderlefti.app-mrg-right {float: left;width: 100% !important;margin: 0;top: 10px;right: 32%;left: auto;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right_resume span#js-queues-statuses.js-gold-resume-wrp {display: inline-block;left: 30% !important;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right_resume span#js-queues-statuses {top: 60px;left: 22% !important;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-left a.jsjobs-img {margin-right: 35%;margin-left: auto;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right div#jsjobslist-comp-header {width: 100%;float: left;position: relative;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right div#jsjobslist-comp-header.jsjobslist-comp-header-wrp {right: 0;left: 0;}
+	div.js-cp-cnt-left {padding-left: 0px;}
+	div.js-cp-baner-left div.js-cp-baner div.js-cp-baner-cnt div.js-cp-banner-btn-wrp a.js-cp-banner-btn {float: none;}
+	.js-cp-baner-center {margin-right: 0;}
+	.js-cp-baner-right {margin-right: 0px;}
+	div.js-cp-job-list div.js-cp-job-list-left div.js-cp-job-image {float: none;margin: auto;}
+	div.js-cp-job-list div.js-cp-job-list-right {width: 100%;}
+	div.js-cp-job-list div.js-cp-job-list-right span.js-cp-job-type {float: none;}
+	div.js-cp-job-list div.js-cp-job-list-right div.js-cp-job-salary {text-align: center;}
+	.js-cp-staff-baner-center {margin-right: 0;}
+	.js-cp-staff-baner-right {margin-right: 0;}
+	div.js-cp-feedback-list div.js-cp-feedback div.js-cp-resume-image {float: none;}
+	div.js-cp-feedback-list div.js-cp-feedback a.js-cp-resume-btn {float: none;width: 30%;}
+	div#jsjobs-wrapper div#jsjobs-content div#info_main_content {padding: 15px 10px 15px 10px;}
+	div#jsjobs-wrapper div#jsjobs-content div.socialconfig_block {padding-left: 10px;padding-right: 10px;}
+	div#jsjobs-wrapper div#jsjobs-content div.socialconfig_block div.socialconfig_content {float: right;margin-right: 0px;margin-left: 0px;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-left a.jsjobs-leftimg {float: none;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right div#jsjobslist-comp-header div#innerheaderlefti span.datablockhead-date {float: none;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right div.js-cp-job-type {float: none;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right div.js-cp-job-salary {text-align: center;}
+	div#jsjobs-wrapper div#jsjobs-content div#jsjobslist-comp-header span.featurednew {margin-top: 127px;margin-right: 22%;margin-left: 0%;width: 25%;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right div#jsjobslist-comp-header.jsjobslist-comp-header-wrp {width: 100%!important;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right div#jsjobslist-comp-header span.datablockhead-right {width: 50%;margin-top: 155px !important;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right div#jsjobslist-comp-header.jsjobslist-rightalign {padding-right: 21%;width: 100%;padding-left: 0%;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-bottom-comp div#bottomrightnew-job {float: none;text-align: left;width: 100%;margin-left: 15px;}
+	div#jsjobs-wrapper div#jsjobs-content div#jsjobslist-comp-header span.featurednew.jsjobs-featured-resume-wrp {margin-top: 0px;margin-left: 5px;margin-right: 0;}
+	div#jsjobs-wrapper div#jsjobs-content div#jsjobslist-comp-header span.jsjobs-goldstatus {margin-left: 5px;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right_resume div#jsjobslist-comp-header span.rightcorner {float: unset;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right div#jsjobslist-comp-header span.datablockhead-right.jsjobs-gold-wrp {margin-top: 30px !important;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right div#jsjobslist-comp-header div#innerheaderlefti {margin: 0px 0px 0 0px;}
+	div#jsjobs-wrapper div#jsjobs-content div#js-jobs-comp-listwrapper div#jsjobs-top-comp-right div#jsjobslist-comp-header span.datablockhead-right.js-queues-statuses-wrp {margin: 0px 0% 3px 20% !important;}
+	div#jsjobs-wrapper div#jsjobs-content {padding-right: unset;}
+	div#jsjobs-head.jsjobs-config-head a.jsjobs-add-link {float: right !important;margin-right: unset;}
+	div#jsjobs-wrapper div#jsjobs-content div.jsstadmin-config-data-wrp div.jsstadmin-configurations-toggle img {float: right;}
+	div#jsjobs-wrapper div#jsjobs-content div.jsstadmin-config-data-wrp div.jsstadmin-configurations-toggle span {float: right;margin: 11px 11px 11px 0px;}
+	div#jsjobs-wrapper div#jsjobs-content div.jsstadmin-config-data-wrp div.jsstadmin-config-right-data {padding-right: unset;}
+	div#jsjobs-wrapper.menu-collasped-active div#jsjobs-content {padding-right: unset;}
+	div#jsjobs-footer {padding: 40px 0;}
+	div#jsjobs-footer.menu-collasped-active-footer {padding: 40px 0;}
+	/* help page */
+    div#jsstadmin-data-wrp .jsjobs-help-btm .jsjobs-help-btm-wrp .jsjobs-help-btm-cnt {margin: 0 0 10px 0 !important; }
+    div#jsstadmin-data-wrp .jsjobs-help-btm .jsjobs-help-btm-wrp .jsjobs-help-btm-cnt a img {margin-left: unset !important;}
+}

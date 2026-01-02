@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+    <fields name="request">
+        <fieldset name="request">
+            <field
+                name="c"
+                type="hidden"
+                default="department"
+            />
+        </fieldset>
+    </fields>	
+    <layout title="New Department Form">
+        <message>
+			<![CDATA[New department form.]]>
+        </message>
+    </layout>
+    <state>
+        <name>New Department</name>
+        <description>New Department Form.</description>
+    </state>
+</metadata>

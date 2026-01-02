@@ -1,0 +1,347 @@
+.tbox {position:absolute; display:none; padding:14px 17px; z-index:900}
+.tinner {padding:15px; -moz-border-radius:5px; border-radius:5px; background:#fff url(images/preload.gif) no-repeat 50% 50%; border-right:1px solid #333; border-bottom:1px solid #333}
+.tmask {position:absolute; display:none; top:0px; left:0px; height:100%; width:100%; background:#000; z-index:800}
+.tclose {position:absolute; top:0px; right:0px; width:30px; height:30px; cursor:pointer; background:url(../images/close.png) no-repeat}
+.tclose:hover {background-position:0 -30px}
+
+#error {background:#ff6969; color:#fff; text-shadow:1px 1px #cf5454; border-right:1px solid #000; border-bottom:1px solid #000; padding:0}
+#error .tcontent {padding:10px 14px 11px; border:1px solid #ffb8b8; -moz-border-radius:5px; border-radius:5px}
+#success {background:#2ea125; color:#fff; text-shadow:1px 1px #1b6116; border-right:1px solid #000; border-bottom:1px solid #000; padding:10; -moz-border-radius:0; border-radius:0}
+#bluemask {background:#4195aa}
+#frameless {padding:25px}
+#frameless .tclose {left:6px}
+
+#cp_wraper{
+	width: 1020px;
+    margin: 0 auto;
+}
+#cp_main_title{
+ position:relative;
+ float:left;
+ width:98%;
+ text-align:center;
+ font-weight:bold;
+ font-size:16px;
+ color:#000000;
+ }
+ #cp_main_bottom{
+ position:relative;
+ float:left;
+ width:80%;
+ margin-top:5px;
+ margin-left:10%;
+ border:1px solid #000000;
+ }
+ #cp_contant{
+ position:relative;
+ float:left;
+ width:94%;
+ margin-top:5px;
+ margin-left:2%;
+ background:#f4f4f4;
+ border-radius:10px 10px 10px 10px;
+ box-shadow: 0px 1px 4px #545454;
+ overflow:hidden;
+ }
+ #cp_top_heading{
+ background:url(images/head_bar.png) repeat top left;
+ height:16px;
+ text-align:center;
+ color:#ffffff;
+ font-weight:bold;
+ font-size:14px;
+ }
+ div.cp_sub_heading_bar{
+ clear:both;
+ position:relative;
+ background:url(images/sub_heading_bar.png) repeat top left;
+ height:20px;
+ }
+ span#cp_sub_heading_bar_shortdetail_image,span#cp_statsoverview_top_image,span#cp_graph_top_image,span#cp_sub_heading_bar_controlpanel_image,span#cp_sub_heading_bar_configuration_image,span#cp_sub_heading_bar_information_image,span#cp_sub_heading_bar_support_image,span#cp_sub_heading_bar_cron_image,span#cp_sub_heading_bar_review_image{
+	background:url(images/shortdetail.png) no-repeat;
+	float:left;
+	margin-left:5%;
+	height:18px;
+	width:21px;
+ }
+span.cp_sub_heading_bar_text,span.cp_statsoverview_top_text,span.cp_graph_top_text{
+	float:left;
+	margin-left:0.5%;
+	color:#545454;
+	line-height:20px;
+}
+div#cp_statsoverview,div#cp_graph{
+	background:#fcfcfc;
+	float:left;
+	width:46%;
+	margin-top:2%;
+	margin-left:2%;
+	box-shadow: 0px 1px 4px #545454;
+
+}
+div#cp_statsoverview_data,div#cp_graph_data{
+	
+	background:url(images/stat_chart_bk.png) repeat-x;
+	height:176px;
+}
+
+div#cp_statsoverview_top,div#cp_graph_top,div#cp_jobs_top{
+ position:relative;
+ background:url(images/stat_graph_top_bar.png) repeat top left;
+ height:24px;
+ }
+span#cp_statsoverview_top_image{
+	background:url(images/stats_overview.png) no-repeat;
+ }
+span#cp_graph_top_image{
+	background:url(images/stats_chart.png) no-repeat;
+}
+span#cp_sub_heading_bar_controlpanel_image{
+	background:url(images/controlPanel.png) no-repeat;
+}
+span#cp_sub_heading_bar_configuration_image{
+	background:url(images/configuration.png) no-repeat;
+}
+span#cp_sub_heading_bar_information_image {
+	background:url(images/Information.png) no-repeat;
+}
+span#cp_sub_heading_bar_support_image {
+	background:url(images/support.png) no-repeat;
+}
+span#cp_sub_heading_bar_cron_image {
+	background:url(images/cronJob.png) no-repeat;
+}
+span#cp_sub_heading_bar_review_image {
+	background:url(images/review.png) no-repeat;
+}
+span.cp_statsoverview_top_text,span.cp_graph_top_text{
+	margin-left:1.5%;
+}
+div.cp_statsoverview_details{
+float:left;
+width:36%;
+margin-left:30%;
+position:relative;
+top:3%;
+border:1px solid #d2cfcf;
+border-radius:5px;
+margin-bottom: 1%;
+overflow:hidden;
+}
+span#cp_statsoverview_a_j_image{
+	margin-top:5px;
+	margin-left:5px;
+	margin-bottom:5px;
+	background:url(images/s_a_j.png) no-repeat;
+	float:left;
+	height:15px;
+	width:15px;
+}
+span#cp_statsoverview_s_j_image{
+	margin-top:5px;
+	margin-left:5px;
+	margin-bottom:5px;
+	background:url(images/s_s_j.png) no-repeat;
+	float:left;
+	height:15px;
+	width:15px;
+}
+span#cp_statsoverview_h_j_image{
+	margin-top:5px;
+	margin-left:5px;
+	margin-bottom:5px;
+	background:url(images/s_h_j.png) no-repeat;
+	float:left;
+	height:15px;
+	width:15px;
+}
+span#cp_statsoverview_sl_j_image{
+	margin-top:5px;
+	margin-left:5px;
+	margin-bottom:5px;
+	background:url(images/s_sl_j.png) no-repeat;
+	float:left;
+	height:15px;
+	width:15px;
+}
+span#cp_statsoverview_r_j_image{
+	margin-top:5px;
+	margin-left:5px;
+	margin-bottom:5px;
+	background:url(images/s_r_j.png) no-repeat;
+	float:left;
+	height:15px;
+	width:15px;
+}
+span.cp_statsoverview_text {
+	float:left;
+	margin-left:5px;
+	color:#545454;
+	line-height:25px;
+}
+span.cp_statsoverview_text_count{
+	float:right;
+	border-left:1px solid #808080;
+	color:#545454;
+	line-height:25px;
+	padding:0px 15px;
+	width:17%;
+}
+div#cp_jobs{
+	float:left;
+	width:94%;
+	margin-top:2%;
+	margin-left:2%;
+	box-shadow: 0px 1px 4px #545454;
+	margin-bottom:1%;
+}
+span.cp_jobs_text{
+	width:100%;	
+	color:#545454;
+	text-align:center;
+	line-height:24px;
+	float:left;
+}
+div#cp_jobs_data{
+	background:url(images/stat_chart_bk.png) repeat-x;
+	height:174px;
+}
+table#cp_jobs_data_table{
+	width:100%;
+}
+table#cp_jobs_data_table tr th.cp_jobs_data_th{
+	background:url(images/t_bK_bar.png) repeat-x;
+	text-align:center;
+	color:#545454;
+	padding:5px 0px;
+	border:1px solid #cbcbcb;
+	border-left:0px;
+}
+table#cp_jobs_data_table tr th.cp_jobs_data_th:first-child{
+	border-left:1px solid #cbcbcb;
+}
+table#cp_jobs_data_table tr td{
+	padding:5px 0px;
+	border:1px solid #cbcbcb;
+	text-align:left;
+	color:#545454;
+}
+div#cp_icon_main{
+
+	float:left;
+	width:100%;
+	margin-bottom: 1%;	
+}
+div.cp_icon{
+	float:left;
+	position:relative;
+	width:110px;
+	height:78px;
+	border:1px solid #cbcbcb;
+	border-radius:4px 4px 4px 4px;
+	margin-left:1%;
+	margin-top:1%;
+	background:#F3F3F3;
+}
+span.cp_icon_comman{
+	position:absolute;
+	width:35px;
+	height:35px;
+	margin-left: 34px;
+    margin-top: 9px;	
+}
+span#cp_icon_company{
+	background:url(images/compnies.png) no-repeat;
+}
+span#cp_icon_job{
+	background:url(images/jobs.png) no-repeat;
+}
+span#cp_icon_resume{
+	background:url(images/resume.png) no-repeat;
+}
+span#cp_icon_payment_report{
+	background:url(images/PamentReport.png) no-repeat;
+}
+span#cp_icon_job_search{
+	background:url(images/jobSearch.png) no-repeat;
+}
+span#cp_icon_resume_search{
+	background:url(images/resumeSearch.png) no-repeat;
+}
+span#cp_icon_user_stats{
+	background:url(images/UserStats.png) no-repeat;
+}
+span#cp_icon_configuration{
+	background:url(images/Genral.png) no-repeat;
+}
+span#cp_icon_emoloyer{
+	background:url(images/Employer.png) no-repeat;
+}
+span#cp_icon_jobseeker{
+	background:url(images/joobSeeker.png) no-repeat;
+}
+span#cp_icon_themes{
+	background:url(images/themes.png) no-repeat;
+}
+span#cp_icon_about{
+	background:url(images/about.png) no-repeat;
+}
+span#cp_icon_remove_footer{
+	background:url(images/Remove_Footer.png) no-repeat;
+}
+span#cp_icon_updates{
+	background:url(images/Update.png) no-repeat;
+}
+span#cp_icon_forum{
+	background:url(images/forum.png) no-repeat;
+}
+span#cp_icon_documentation{
+	background:url(images/document.png) no-repeat;
+}
+span#cp_icon_ticket{
+	background:url(images/tickets.png) no-repeat;
+}
+span.cp_icon_text{
+	position:absolute;
+	margin-left: 25px;
+    margin-top: 47px;	
+	color:#545454;
+	text-align:center;
+	width: 56px;	
+}
+span.cp_icon_text_new_version{
+	position:absolute;
+    margin-top: 47px;	
+	color:#545454;
+	text-align:center;
+	width: 105px;	
+}
+div#cron_job{
+	float:left;
+	width:97%;
+	margin-top:2%;
+	margin-bottom:2%;
+	margin-left:2%;
+	color:#545454;
+}
+div#review{
+	font-style:italic;
+	margin-top:1%;
+	margin-left:1%;
+	float:left;
+	width:97%;
+	color:#626262;
+	font-family: verdana;
+    font-size: 19px;
+    text-align: center;
+}	
+span#review_text{
+	font-style:italic;
+    font-size: 19px;
+	font-family: verdana;
+}
+
+
+
+
+

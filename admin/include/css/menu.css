@@ -1,0 +1,35 @@
+div#jsjobs-menu {width: 60px;display: inline-block;background: #fff;position: absolute;left: 0;top: 0;z-index: 2;box-shadow: 4px 4px 4px 0 rgba(0,0,0,0.2);transition: all 500ms;}
+div.menu-collasped-active div#jsjobs-menu {width: 260px;transition: all 500ms;}
+div#jsstadmin-logo {float: left;width: 100%;padding: 15px;background: #1572e8;position: relative;height: 60px;}
+div.menu-collasped-active div#jsjobs-menu div#jsstadmin-logo a.jsst-anchor, div.menu-collasped-active div#jsjobs-menu img.jsst_js-arrow-img {display: inline-block;opacity: 1;}
+div#jsjobs-menu div#jsstadmin-logo a.jsst-anchor, div#jsjobs-menu img.jsst_js-arrow-img {display: none;opacity: 0;transition: all 500ms;}
+div#jsjobs-menu div#jsstadmin-logo a.jsst-anchor {position: absolute;}
+div#jsstadmin-logo a {float: left;}
+div#jsstadmin-logo img#jsstadmin-menu-toggle {float: right;padding: 5px;cursor: pointer;}
+div#jsjobs-wrapper div#jsjobs-menu ul#js-tk-links{float: left;width: 100%;margin: 0;padding: 0;padding-bottom: 20px;list-style: none;}
+ul#js-tk-links > li > a:not(.jsst_js-install-btn):hover, ul.jsstadmin-sidebar-menu > li.active > a:not(.jsst_js-install-btn) {color: #1572e8;background-color: transparent;border-left: 3px solid #1572e8;box-shadow: unset;}
+ul#js-tk-links li a:not(.jsst_js-install-btn):not(.jsst_menu-pro-btn){position: relative;display: inline-block;width: 100%;padding: 0 15px;color: #001738;font-size: 14px;font-weight: 400;text-transform: capitalize;height: 45px;line-height: 45px;border-left: 3px solid transparent;text-decoration: none;}
+ul#js-tk-links li a.js-child.disable-child{color: #c0c0c0 !important}
+ul#js-tk-links li a.js-child.disable-child img{float: right;display: inline-block;margin: 15px;}
+ul#js-tk-links > li > a:not(.jsst_js-install-btn):hover, ul#js-tk-links > li.active > a:not(.jsst_js-install-btn) {color: #1572e8;background-color: transparent;border-left: 3px solid #1572e8;box-shadow: unset;}
+div#jsjobs-wrapper div#jsjobs-menu ul#js-tk-links li.js-divlink img.jsst_menu-icon{display: inline-block;position: absolute;top: 9px;}
+div.menu-collasped-active div#jsjobs-menu span.jsst_text {visibility: visible;opacity: 1;}
+div#jsjobs-menu span.jsst_text {visibility: hidden;opacity: 0;position: absolute;}
+ul#js-tk-links li a span.jsst_text {display: inline-block;vertical-align: middle;width: calc(100% - 35px);position: absolute;padding-left: 35px;}
+div.menu-collasped-active ul.js-innerlink li.treeview.active.menu-open ul.js-innerlink {display: block !important;}
+ul#js-tk-links li ul.js-innerlink {margin: 5px 0 10px 30px;display: none;}
+div.menu-collasped-active div#jsjobs-menu ul#js-tk-links li.treeview.active.menu-open ul.js-innerlink {display: block !important;}
+div#jsjobs-wrapper:not(.menu-collasped-active) div#jsjobs-menu ul#js-tk-links li.treeview:hover ul.js-innerlink {display: block !important;background: #fff;width: 240px;position: absolute;top: 10px;left: 60px;box-shadow: 5px 5px 30px rgba(0,0,0,0.2);transition: all 500ms;padding: 5px 5px 10px;margin: 0;}
+div#jsjobs-wrapper:not(.menu-collasped-active) div#jsjobs-menu ul#js-tk-links li.treeview:hover ul.js-innerlink:before {content: '';display: block;position: absolute;top: 10px;left: -5px;height: 10px;width: 10px;background: rgba(159, 160, 162, 0.8);transform: rotate(45deg);z-index: -1;}
+ul#js-tk-links li {position: relative;z-index: 1;margin: 0;list-style: none;}
+ul#js-tk-links > li > a:not(.jsst_js-install-btn):hover, ul.js-innerlink > li.active > a:not(.jsst_js-install-btn), ul.js-innerlink > li.menu-open > a:not(.jsst_js-install-btn) {color: #1572e8 !important;}
+ul#js-tk-links li ul.js-innerlink li a:hover {color: #1572e8;}
+ul#js-tk-links li ul.js-innerlink li a {font-size: 13px;height: 35px;line-height: 35px;text-decoration: none;box-shadow: unset;}
+div#jsjobs-wrapper .disabled-menu a span.jsst_text{color: #c0c0c0 !important;cursor: auto;}
+div#jsjobs-wrapper .disabled-menu a {cursor: auto;}
+div#jsjobs-wrapper .disabled-menu a img{cursor: auto;}
+div#jsjobs-wrapper ul#js-tk-links > li.disabled-menu > a:not(.jsst_js-install-btn):hover, ul#js-tk-links > li.active > a:not(.jsst_js-install-btn) {border-left: 3px solid transparent;}
+ul#js-tk-links li.js-divlink.active.menu-open > a {color: #1572e8;background-color: transparent;border-left: 3px solid #1572e8;box-shadow: unset;}
+div#jsjobs-menu a.jsst_menu-pro-btn {visibility: hidden;opacity: 0;position: absolute;top: 14px;right: 20px;display: inline-block;font-size: 13px;cursor: pointer;}
+div#jsjobs-menu a.jsst_menu-pro-btn {color: #1572e8;}
+div.menu-collasped-active div#jsjobs-menu a.jsst_menu-pro-btn {visibility: visible;opacity: 1;}

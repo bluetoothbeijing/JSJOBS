@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+    <fields name="request">
+        <fieldset name="request">
+            <field
+                name="c"
+                type="hidden"
+                default="jobapply"
+            />
+        </fieldset>
+    </fields>	
+    <layout title="My Applied Jobs">
+        <message>
+			<![CDATA[My applied jobs.]]>
+        </message>
+    </layout>
+    <state>
+        <name>My Applied Jobs</name>
+        <description>My applied jobs.</description>
+    </state>
+</metadata>
